@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Thread: An Introduction to Difficult Tech Concepts'
-dateModified: '2018-05-08T18:15:57.920Z'
-datePublished: '2018-05-08T18:15:58.935Z'
+dateModified: '2018-05-08T18:50:18.044Z'
+datePublished: '2018-05-08T18:50:18.854Z'
 title: 'COBOL: Why a programming language built in 1959 should still be taught.'
 author: []
 publisher: {}
@@ -25,6 +25,8 @@ Thread: An Introduction to Difficult Tech Concepts
 ## Common Business Oriented Language (COBOL). What is it? What was its purpose? Who still uses it? Why do they still use it? And an interview with a software engineer hired to develop a program to convert a COBOL database to SQL.
 
 ### _"The unique capabilities of COBOL and the business reasons for them were lost in passage of time." - Robert Glass_
+
+February 15, 2018
 
 ---
 
