@@ -7,8 +7,8 @@ description: >-
   strategies that use technology as an advantage. A definition of e-commerce
   will then be defined and chosen to be utilized throughout the paper. The scope
   will be further honed to a focus on Mobile E-Commerce strategies. 
-dateModified: '2018-05-08T23:36:04.625Z'
-datePublished: '2018-05-08T23:36:05.135Z'
+dateModified: '2018-05-08T23:36:49.989Z'
+datePublished: '2018-05-08T23:36:50.763Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
