@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Photo: Weronika Gesicka'
-dateModified: '2018-05-08T20:09:13.011Z'
-datePublished: '2018-05-08T20:09:13.465Z'
+dateModified: '2018-05-08T20:09:16.479Z'
+datePublished: '2018-05-08T20:09:16.955Z'
 title: 'Thread: Personal Development'
 author: []
 publisher: {}
@@ -26,7 +26,7 @@ The personal development thread consists of topics that pertain to building my p
 
 Posts:
 
-[AI Website Development Technology and Plans for My Personal Website][0]
+* [AI Website Development Technology and Plans for My Personal Website][0]
 
 Ryan Roe
 
