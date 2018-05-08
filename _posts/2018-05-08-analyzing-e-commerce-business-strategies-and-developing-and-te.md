@@ -8,8 +8,8 @@ description: >-
   business model for my mobile application company, FYI App LLC, is conceived.
   This business model will be implemented Fall of 2018 and is currently in
   software development.
-dateModified: '2018-05-08T20:03:47.317Z'
-datePublished: '2018-05-08T20:03:49.476Z'
+dateModified: '2018-05-08T20:08:20.762Z'
+datePublished: '2018-05-08T20:08:22.301Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
@@ -172,11 +172,11 @@ The top grossing mobile apps were Pokemon GO with over $2 billion, Candy Crush S
 
 Figure 10: Top non game apps rated by revenue
 
-The top non-game revenue can be seen in Figure 10 (Dogtiev). ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/95db40f9da2a155ffcc65e4044b83b48/croprotate.png?cropheight=757&cropwidth=1430&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5ee55505-077c-4436-9daa-c1bbe6cddb43.png&x=0&y=66)
+The top non-game revenue can be seen in Figure 10 (Dogtiev). ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfe26027db00403177b75fb5962c359b79f550ca.png)
 
 Figure 11 [Localytics][0]
 
-One of the best ways to understand the effectiveness of an application is to measure the monthly retention. "Since 2016, average one month, two month and three month retention has increased by 11%, 22% and 28% respectively, which equates to an average increase of 20% across the board. Additionally, monthly churn, or people who do not return to an app, has decreased by an average of 7%" (Localytics, Fig 11). ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6acaa9633c882e1aafbe674cfddaa3de/croprotate.png?cropheight=804&cropwidth=1374&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1c435c09-8092-4439-b799-ec0667f1fb14.png&x=26&y=0)
+One of the best ways to understand the effectiveness of an application is to measure the monthly retention. "Since 2016, average one month, two month and three month retention has increased by 11%, 22% and 28% respectively, which equates to an average increase of 20% across the board. Additionally, monthly churn, or people who do not return to an app, has decreased by an average of 7%" (Localytics, Fig 11). ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c47befb3c578b41f4b2cec3cfce75feb7634087.png)
 
 Figure 12
 
@@ -197,6 +197,8 @@ Figure 15
 Figure 16
 
 Global application downloads exceeded 175 billion in 2017 which is up 60% from 2015 and users spend over 3 hours of their days in mobile applications (Fig 15, Fig 16).
+
+## Six common revenue models for mobile applications
 
 Six common revenue models for mobile applications exist (Munir). The first is a free download, but with in-app advertising.Revenue is derived from selling data-driven advertising space in the application. The develops can find advertisers independently or work with partners that provide the advertisements for them. Common examples are social media applications like Facebook. There are a few different types of in-app advertisements. Banner ads were the original are the original in-app advertisement but quickly faded out because of extremely negatively impacting the user's experience. The second type is Interstitial Ads which came about because developers wanted an alternative to banner ads. One potential solution to this problem of how intrusive banners ads were "was to take the same ads and show them as a full-screen ad to the user. This occurs between separate user flows." Not ruining the user experiences requires a strong knowledge of the applications user flow. The third type of in-app advertising is native ads. Native advertisement integrate seamlessly into the look and design of the application. A common example is ads in the Facebook timeline. Native ads have a higher engagement rate, but is it tricking the user into clicking the ad? "The key is to make the native ad look and feel 'native' whilst also providing a clear indication to the user that the content they will land on is an advert." The fourth type of in-app advertisement is affiliate advertisements. Affiliate advertisements garner commission from other products. Affiliate advertisement work by recommending the advertisement based upon the users experiences and trust of the current application. The final example is reward advertisements which offer users incentive to use the app, but provide rewarding deals and advertisements if they engage with content. Another possibility for advertising is to utilize push notifications.
 
@@ -286,10 +288,13 @@ Cons
 * Mobile marketers need to be careful about what actions they incentivize within their app (Apple has been cracking down on incentivizing downloads and social sharing)
 * This app business model has not been as thoroughly tried and tested as the other ones (results and success may vary)
 
+## Monetizing the user database
+
 A very viable mobile application monetization strategy not discussed in the six revenue models is monetizing the user database. This strategy is very useful and can be applied in combination with any of the other strategies. One reason is "higher CPM - on a per-user basis, the amount of revenue generated through data monetization is much higher than any other app monetization strategy" (Ewan). According to Investopedia, Cost per thousand (CPM) is a marketing term used to denote the price of 1,000 advertisement impressions on one webpage. If a website publisher charges $2.00 CPM, that means an advertiser must pay $2.00 for every 1,000 impressions of its ad. The "M" in CPM represents the Roman numeral for 1,000\. Another reason is because monetizing data allows developers to monetize their entire audience without requiring the users to be inside of the application including users who have not used the application in a while. Possibly the most important benefit is that it protects the user experience without intrusive advertisements or unpleasant features allowing the audience to grow more quickly, leading to more revenue. One of the most effective ways to monetize user data is by utilizing "their precise location data from mobile apps to better understand consumer habits or behavior". Data monetization also occurs outside of the application meaning that the platform does not have access to those funds, and the benefits are not different depending on the platform.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a2fb5a4-cb1f-4523-804b-4d757f5f1a92.png)
 
 This statistic presents the most-used mobile app monetization models of mobile developers. In 2017, it was found that 49 percent of mobile app professionals implemented in-app advertising for non-gaming apps. Overall, 79 percent of gaming apps utilized in-app purchases of items ([Statista][1]).
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8e0373adde75ce54104ca9e96d405868/croprotate.png?cropheight=499&cropwidth=1279&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F78db3f04-4271-43d6-baad-4d33c1b95254.png&x=0&y=122)
 
 A few general important topics that are essential to remember when monetizing a mobile application. The first is to protect the user experience at all costs. This can be accomplished by "keeping the user experience clean and ensure that app monetization does not damage the application experience. If you have to alter the experience in some way (ads etc), then manage this so that the impact is minimal." The second is to be actively involved in increasing the engagement of the users. The more time users spend on the application the higher the monetization. The third way essential to mobile application monetization is to continue to bring in new users which allows monetization to scale. This means it is necessary to "keep investing in user acquisition" because users will always "churn." Actively seeking new users is necessary (Ewan). Utilizing multiple monetization strategies is recommended (Ewan).
 
@@ -384,6 +389,8 @@ In conclusion, a business model is a set of planned activities designed to resul
 10. Sydow, Lexi, and Sam Cheney. "2017 Retrospective: A Monumental Year for the App Economy." _App Annie _, 17 Jan. 2018, www.appannie.com/en/insights/market-data/app-annie-2017-retrospective/.
 
 ---
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8064b765-9759-4c1f-9568-f2bce8c144d3.jpg)
 
 ## Figures
 
