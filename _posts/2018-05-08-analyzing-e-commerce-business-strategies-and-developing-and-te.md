@@ -8,8 +8,8 @@ description: >-
   business model for my mobile application company, FYI App LLC, is conceived.
   This business model will be implemented Fall of 2018 and is currently in
   software development.
-dateModified: '2018-05-08T20:03:10.874Z'
-datePublished: '2018-05-08T20:03:11.985Z'
+dateModified: '2018-05-08T20:03:47.317Z'
+datePublished: '2018-05-08T20:03:49.476Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
@@ -71,7 +71,7 @@ This paper will utilize the book, _E-Commerce, _by Pearson Education to give a b
 ## Section 2 -- Research Objective and Analysis
 
 According to the book, E. Commerce, by Pearson Education, a business model is "a set of planned activities (sometimes referred to as business processes) designed to result in a profit in a marketplace" (Pearson 60). Developing an e-commerce strategy requires an e-commerce business model.According to Pearson, an e-commerce business model "aims to use and leverage the unique qualities of the Internet, the Web, and the mobile platform" to generate a profit. Similarly a business strategy is a "set of plans for achieving superior long-term returns on the capital invested in a business firm" (Pearson 91). As you can see a business model and a business strategy are two very similar topics, but a business strategy will get more specific on the tasks necessary to create the return. A company's business model consists of 8 key elements: value proposition, revenue model, market opportunity, competitive environment, competitive advantage, market strategy, organizational development, and management team.
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6c85bee747cf0e5ab61abae1c6bcef2a/croprotate.png?cropheight=794&cropwidth=760&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8aadaa1f-e271-4104-a9b3-217dcab7a607.png&x=0&y=20)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/03edcdc96ee48e3e5dba64084be1b7ab64344448.png)
 
 Photo: Pearson Education
 
@@ -150,8 +150,53 @@ Figure 5: Total Worldwide In-Application Revenue provided by
 Statista compiled by App Annie
 
 In 2011 in-app purchases generated $712 million, but by 2017 in-app purchases generated $37 billion which beats paid for apps by $8 billion (Fig 5, Dogtiev, Statista).
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49249ca2-4020-4dde-8b3e-0cec5615eb86.png)
 
-To find new revenue, developers began advertising inside of applications. "There are four major genres of mobile ads -- Display, Search, Social and Video." Search advertisements has been the primary competitor. The distribution is in Figure 6 (BusinessInsider). The iOS App Store has proven to be more lucrative than Google's Android because of Apple's walled garden approach combined with top notch hardware, software, and brand recognition. In 2017 Apple's iOS generated $40 billion, Google Play $21 billion and third-party stores generated $20 billion (Fig 7). If application revenue is separated by category of app, gaming is by far the leader. In 2017 mobile gaming revenue claimed 49% of total revenue while the other 19 categories claimed the other 51% (Fig 8). The top grossing mobile apps were Pokemon GO with over $2 billion, Candy Crush Saga -- over $1.5 billion and Clash Royale about $1.2 billion (Fig 9). The top non-game revenue can be seen in Figure 10 (Dogtiev). One of the best ways to understand the effectiveness of an application is to measure the monthly retention. "Since 2016, average one month, two month and three month retention has increased by 11%, 22% and 28% respectively, which equates to an average increase of 20% across the board. Additionally, monthly churn, or people who do not return to an app, has decreased by an average of 7%" (Localytics, Fig 11). This could prove disheartening to new application developers, but the data shows that users have a strong appetite for applications: "In most markets analyzed, the average smartphone user has more than 80 apps on their phone and uses close to 40 of them each month. This roughly equates to between one-third and one-half of the apps on users' phones used each month on average" (App Annie, Fig 12). Monetization in the top markets continued their steep growth (Fig 13). Consumers have exceed spending $86 billion in 2017 which is up 105% from 2015 (Fig 14). Global application downloads exceeded 175 billion in 2017 which is up 60% from 2015 and users spend over 3 hours of their days in mobile applications (Fig 15, Fig 16).
+Figure 6: Genres of Advertisements by Revenue Provided by
+BusinessInsider
+
+To find new revenue, developers began advertising inside of applications. "There are four major genres of mobile ads -- Display, Search, Social and Video." Search advertisements has been the primary competitor. The distribution is in Figure 6 (BusinessInsider). ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1e8982a-8b2c-48c7-aeef-0dcb644ebf89.png)
+
+Figure 7:Application Revenue by Platform provided by App Annie
+
+The iOS App Store has proven to be more lucrative than Google's Android because of Apple's walled garden approach combined with top notch hardware, software, and brand recognition. In 2017 Apple's iOS generated $40 billion, Google Play $21 billion and third-party stores generated $20 billion (Fig 7).
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d61a52b-e040-4cda-806b-f3844cb23f94.png)
+
+Figure 8: Application Revenue by Category
+
+If application revenue is separated by category of app, gaming is by far the leader. In 2017 mobile gaming revenue claimed 49% of total revenue while the other 19 categories claimed the other 51% (Fig 8). ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ef557f9-e456-40d2-93fd-4136194f8327.png)
+
+Figure 9
+
+The top grossing mobile apps were Pokemon GO with over $2 billion, Candy Crush Saga -- over $1.5 billion and Clash Royale about $1.2 billion (Fig 9). ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/26c5cb78-3f10-4a21-a2f4-d46e4139d2d0.png)
+
+Figure 10: Top non game apps rated by revenue
+
+The top non-game revenue can be seen in Figure 10 (Dogtiev). ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/95db40f9da2a155ffcc65e4044b83b48/croprotate.png?cropheight=757&cropwidth=1430&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F5ee55505-077c-4436-9daa-c1bbe6cddb43.png&x=0&y=66)
+
+Figure 11 [Localytics][0]
+
+One of the best ways to understand the effectiveness of an application is to measure the monthly retention. "Since 2016, average one month, two month and three month retention has increased by 11%, 22% and 28% respectively, which equates to an average increase of 20% across the board. Additionally, monthly churn, or people who do not return to an app, has decreased by an average of 7%" (Localytics, Fig 11). ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6acaa9633c882e1aafbe674cfddaa3de/croprotate.png?cropheight=804&cropwidth=1374&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1c435c09-8092-4439-b799-ec0667f1fb14.png&x=26&y=0)
+
+Figure 12
+
+This could prove disheartening to new application developers, but the data shows that users have a strong appetite for applications: "In most markets analyzed, the average smartphone user has more than 80 apps on their phone and uses close to 40 of them each month. This roughly equates to between one-third and one-half of the apps on users' phones used each month on average" (App Annie, Fig 12). ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee5058be-a4ae-4a31-9b1c-d5383d528835.png)
+
+Figure 13
+
+Monetization in the top markets continued their steep growth (Fig 13). ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/37038d25-3411-4f00-ad09-490ff845c378.png)
+
+Figure 14
+
+Consumers have exceed spending $86 billion in 2017 which is up 105% from 2015 (Fig 14).
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5dbe4c3-821c-4af5-97da-c0a589aa1ec2.png)
+
+Figure 15
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f992589d-9d14-4fc2-a520-339fe2de36e1.png)
+
+Figure 16
+
+Global application downloads exceeded 175 billion in 2017 which is up 60% from 2015 and users spend over 3 hours of their days in mobile applications (Fig 15, Fig 16).
 
 Six common revenue models for mobile applications exist (Munir). The first is a free download, but with in-app advertising.Revenue is derived from selling data-driven advertising space in the application. The develops can find advertisers independently or work with partners that provide the advertisements for them. Common examples are social media applications like Facebook. There are a few different types of in-app advertisements. Banner ads were the original are the original in-app advertisement but quickly faded out because of extremely negatively impacting the user's experience. The second type is Interstitial Ads which came about because developers wanted an alternative to banner ads. One potential solution to this problem of how intrusive banners ads were "was to take the same ads and show them as a full-screen ad to the user. This occurs between separate user flows." Not ruining the user experiences requires a strong knowledge of the applications user flow. The third type of in-app advertising is native ads. Native advertisement integrate seamlessly into the look and design of the application. A common example is ads in the Facebook timeline. Native ads have a higher engagement rate, but is it tricking the user into clicking the ad? "The key is to make the native ad look and feel 'native' whilst also providing a clear indication to the user that the content they will land on is an advert." The fourth type of in-app advertisement is affiliate advertisements. Affiliate advertisements garner commission from other products. Affiliate advertisement work by recommending the advertisement based upon the users experiences and trust of the current application. The final example is reward advertisements which offer users incentive to use the app, but provide rewarding deals and advertisements if they engage with content. Another possibility for advertising is to utilize push notifications.
 
@@ -244,7 +289,7 @@ Cons
 A very viable mobile application monetization strategy not discussed in the six revenue models is monetizing the user database. This strategy is very useful and can be applied in combination with any of the other strategies. One reason is "higher CPM - on a per-user basis, the amount of revenue generated through data monetization is much higher than any other app monetization strategy" (Ewan). According to Investopedia, Cost per thousand (CPM) is a marketing term used to denote the price of 1,000 advertisement impressions on one webpage. If a website publisher charges $2.00 CPM, that means an advertiser must pay $2.00 for every 1,000 impressions of its ad. The "M" in CPM represents the Roman numeral for 1,000\. Another reason is because monetizing data allows developers to monetize their entire audience without requiring the users to be inside of the application including users who have not used the application in a while. Possibly the most important benefit is that it protects the user experience without intrusive advertisements or unpleasant features allowing the audience to grow more quickly, leading to more revenue. One of the most effective ways to monetize user data is by utilizing "their precise location data from mobile apps to better understand consumer habits or behavior". Data monetization also occurs outside of the application meaning that the platform does not have access to those funds, and the benefits are not different depending on the platform.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a2fb5a4-cb1f-4523-804b-4d757f5f1a92.png)
 
-This statistic presents the most-used mobile app monetization models of mobile developers. In 2017, it was found that 49 percent of mobile app professionals implemented in-app advertising for non-gaming apps. Overall, 79 percent of gaming apps utilized in-app purchases of items ([Statista][0]).
+This statistic presents the most-used mobile app monetization models of mobile developers. In 2017, it was found that 49 percent of mobile app professionals implemented in-app advertising for non-gaming apps. Overall, 79 percent of gaming apps utilized in-app purchases of items ([Statista][1]).
 
 A few general important topics that are essential to remember when monetizing a mobile application. The first is to protect the user experience at all costs. This can be accomplished by "keeping the user experience clean and ensure that app monetization does not damage the application experience. If you have to alter the experience in some way (ads etc), then manage this so that the impact is minimal." The second is to be actively involved in increasing the engagement of the users. The more time users spend on the application the higher the monetization. The third way essential to mobile application monetization is to continue to bring in new users which allows monetization to scale. This means it is necessary to "keep investing in user acquisition" because users will always "churn." Actively seeking new users is necessary (Ewan). Utilizing multiple monetization strategies is recommended (Ewan).
 
@@ -264,7 +309,7 @@ The mobile application that we will be implementing is dubbed FYI. FYI will chan
 
 Therefore, the first method of revenue generation is in-app advertisements. These must be very intuitive with the application's user flow as to not impede the user experience, and this may result in cancelling in-app advertisement from the current revenue model vision.
 
-The second method of revenue generation is currently push notifications. Push notifications provide a way to implement advertisements. This also will provide a way to keep the users involved and must be part of our business model from the start. "Let's say your mobile app has 100,000 downloads. On average after just one day you can expect your audience retention rate to be around 20%. After ten days this figure drops to 7.5%. After ninety days this figure, for most mobile apps, falls to around 2%" ([Tamoco][1]). About 70% of users opt into push notifications and almost double app retention rates. Micro-moment push notifications based off of very detailed data collection will maximize this feature. Utilizing the company Tamoco as or revenue partner will be a strong possibility. They specialize in location based revenue generation, but will help with location based push notification. **Revenue generation via push notification advertisements may require a foundational switch in FYI's vision that will be required before initial marketing can commence.**_****_If the users believe this application is purely a utility application then they will be negatively impacted by push notifications that are not perfectly relevant to the utility functionality of the application. The current utility functionality does not support many push notifications at the current level of creative development. The foundationally shift will have to be from simply an application that aids in _Sharing Virtual Identities_, to an app that aids in the transaction of the virtual identities while supporting the amount of these interaction by supplementing location based recommendation on places and opportunities for these interactions. Pairing with other companies like Foursquare, Tinder, Bumble, who specialize in creating these types of opportunities and that are already built with the infrastructure to utilize their user database through location based targeted advertising will be a future endeavor.
+The second method of revenue generation is currently push notifications. Push notifications provide a way to implement advertisements. This also will provide a way to keep the users involved and must be part of our business model from the start. "Let's say your mobile app has 100,000 downloads. On average after just one day you can expect your audience retention rate to be around 20%. After ten days this figure drops to 7.5%. After ninety days this figure, for most mobile apps, falls to around 2%" ([Tamoco][2]). About 70% of users opt into push notifications and almost double app retention rates. Micro-moment push notifications based off of very detailed data collection will maximize this feature. Utilizing the company Tamoco as or revenue partner will be a strong possibility. They specialize in location based revenue generation, but will help with location based push notification. **Revenue generation via push notification advertisements may require a foundational switch in FYI's vision that will be required before initial marketing can commence.**_****_If the users believe this application is purely a utility application then they will be negatively impacted by push notifications that are not perfectly relevant to the utility functionality of the application. The current utility functionality does not support many push notifications at the current level of creative development. The foundationally shift will have to be from simply an application that aids in _Sharing Virtual Identities_, to an app that aids in the transaction of the virtual identities while supporting the amount of these interaction by supplementing location based recommendation on places and opportunities for these interactions. Pairing with other companies like Foursquare, Tinder, Bumble, who specialize in creating these types of opportunities and that are already built with the infrastructure to utilize their user database through location based targeted advertising will be a future endeavor.
 
 Utilizing the user data to generate revenue will be the third method. There is a plethora of companies that are prying to access user information and monetize applications. The company business model is sound: people come to them with mobile application business ventures and if the company can monetize the individual's application, the company makes money off of other peoples ideas and efforts. There are companies like dawex.com that provide global data market places, companies like chooseapplovin.com, tappx.com that have complex algorithms to maximize the CPM of the advertisements in apps. Location based functionality is the most lucrative in monetizing user data. Tamoco is a company that partners with applications that provide geolocation about their users to generate revenue. Location functionality can be reasoned for mechanically because keeping track of where FYI collection events occur will support the user experience (See Functionality Document). Location functionality can now also be reasoned for to provide the user a better experience as FYI supplements the amount of opportunities users have to utilize the application to meet new people. Future developments to location functionality will support development of push notifications based upon the user's location in a targeted advertisement platform for FYI, that may even include a user interface for the targeted advertisement platform, similar to Foursquare's Pinpoint targeted advertisement platform. Foursquare's Attribution product "which mines daily location information of over 1.3 million Foursquare users who have consented to location tracking in order to determine whether or not the advertising they've seen has actually influenced their purchas- ing decisions" would be a possible direction to actually combining our user database's location preferences with a company that is already structured to monetize it (Pearson 61).
 
@@ -272,7 +317,7 @@ The fourth method to generate revenue will be with affiliate sponsorships. These
 
 ### Market Opportunity
 
-FYI's initial intended marketspace will be targeting 18-30-year-old college students, young professionals, and young adults. We believe this demographic to be one of the most valuable groups of influencers and spenders for most major corporations. Companies are willing to pay large fees to acquire the kind of data FYI will have. The applications for the use of this data is almost unfathomable. Every business from the "local bar" to Coca-Cola would do nearly anything for an accurate and organized database of young spenders in their area and/or product market. College students are constantly being pumped into USC and the management team has a strong influence. Our initial target market is almost a niche. Niche marketing has many benefits when it comes to e-commerce. These specifically apply to selling niche products, but the concept maintains (from [Ecomdash][2]):
+FYI's initial intended marketspace will be targeting 18-30-year-old college students, young professionals, and young adults. We believe this demographic to be one of the most valuable groups of influencers and spenders for most major corporations. Companies are willing to pay large fees to acquire the kind of data FYI will have. The applications for the use of this data is almost unfathomable. Every business from the "local bar" to Coca-Cola would do nearly anything for an accurate and organized database of young spenders in their area and/or product market. College students are constantly being pumped into USC and the management team has a strong influence. Our initial target market is almost a niche. Niche marketing has many benefits when it comes to e-commerce. These specifically apply to selling niche products, but the concept maintains (from [Ecomdash][3]):
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9677e394-c3d8-403f-861e-ba2ab6998ddf.png)
 
 * Easier Marketing: When selling niche products, there is a defined customer and value proposition. Creating a marketing strategy for a target market is much simpler, cheaper, and more effective.
@@ -297,7 +342,7 @@ We have also done research into the intellectual property of this application as
 
 One of the biggest failures of strong early startups is exposure, and we understand that
 
-FYI will only succeed if it provides a real utility that is put into the hands of enough users. It will be necessary for FYI to create a large user database, therefore the platform is designed to exponentially increase with each user account being connected to multiple other identities. The idea has not been implemented by competitors and we have a very strong grip on our initial target market because of [@DrinkingTicket][3] and our management team.
+FYI will only succeed if it provides a real utility that is put into the hands of enough users. It will be necessary for FYI to create a large user database, therefore the platform is designed to exponentially increase with each user account being connected to multiple other identities. The idea has not been implemented by competitors and we have a very strong grip on our initial target market because of [@DrinkingTicket][4] and our management team.
 
 DrinkingTicket is a viral media account that has grown to be the most popular twitter
 
@@ -311,7 +356,7 @@ Local Events & Social Culture- FYI will have banners in a majority of the bars i
 
 Alex Waelde a USC graduate. He is the operations manager and social media manager for 7 of the top bars in the five points district in Columbia, opening doors to the entire area. We are able to directly reach large groups of affluent students with the interconnected communities throughout universities and the Greek Life culture. Alex Waelde also has connecitons in newspapers and news stations, Post & Courier, The State, WIS10, WLTX, and WACHFox. Alex has guerrilla marketing Drinking Ticket to the status that it is today and has experience with startup of this nature. He had previously attempting a mobile application project 5 years ago that stalled as a result of the technical climate of the time and confusion among investors. Alex also worked a paralegal at one of the top law firms of South Carolina gaining a wealth of legal knowledge and collections. The 10 page development contract is now under review, pro bono, by these lawyers who normally charge $500/hr. Alex currently works at the largest corporate real estate firm in South Carolina, NAI Avant and has recently received his brokerage certification. This allows Alex to run the largest tailgate operation in the SEC. He manages 16 fraternities (2000 of the most influential men on campus) and an average of approximately 5,000 to 7,500 students per home tailgate. This provides tremendous penetration opportunity for FYI. Alex has also leveraged Drinking Ticket to become a master of all things Columbia, knowing the ins and out of almost every business in Columbia. FYI was the brainchild of Alex Waelde.
 
-Ryan Roe will graduate with a Bachelors of Science in Computer Information Systems and a minor in Business Information Management in May 2018\. This has allowed him to garner the technological knowledge and relationships necessary to take the technical lead on the FYI Project, specifically designing every functionality and fine tuning every piece of software developed for this application. Ryan has experience developing hybrid mobile applications with Typescript, HTML, and CSS. Ryan also specifically has experience developing with the front end platform FYI will be using, Ionic. The developer for the project is Steve Rubin ([steverubin.net][4]) and his company Melting Pot Solutions LLC (meltingpotsolutions.co). We have examined previous work by Steve and have chosen the hybrid mobile framework over native development because of decreased development costs beginning at 75% but up to 95% as well as a decrease in development time from 6 months to around 3 months. Hybrid development does come at a cost with slightly reduced functionality which entails the risk of the application not supporting future functionality that has not been defined at this point in planning. Hybrid development also risks being slightly slower than native development, but FYI is not a graphically or data heavy application and should not experience this setback. The specific functionality and a more detailed technical analysis can be found in the functionality document. Ryan also studies extensively the business of big data, monetizing mobile applications, analytics, e-commerce, and many more relevant technical topics necessary to be competitive in the current technological climate (ryanroe.io).
+Ryan Roe will graduate with a Bachelors of Science in Computer Information Systems and a minor in Business Information Management in May 2018\. This has allowed him to garner the technological knowledge and relationships necessary to take the technical lead on the FYI Project, specifically designing every functionality and fine tuning every piece of software developed for this application. Ryan has experience developing hybrid mobile applications with Typescript, HTML, and CSS. Ryan also specifically has experience developing with the front end platform FYI will be using, Ionic. The developer for the project is Steve Rubin ([steverubin.net][5]) and his company Melting Pot Solutions LLC (meltingpotsolutions.co). We have examined previous work by Steve and have chosen the hybrid mobile framework over native development because of decreased development costs beginning at 75% but up to 95% as well as a decrease in development time from 6 months to around 3 months. Hybrid development does come at a cost with slightly reduced functionality which entails the risk of the application not supporting future functionality that has not been defined at this point in planning. Hybrid development also risks being slightly slower than native development, but FYI is not a graphically or data heavy application and should not experience this setback. The specific functionality and a more detailed technical analysis can be found in the functionality document. Ryan also studies extensively the business of big data, monetizing mobile applications, analytics, e-commerce, and many more relevant technical topics necessary to be competitive in the current technological climate (ryanroe.io).
 
 ### Organizational Development
 
@@ -330,33 +375,26 @@ In conclusion, a business model is a set of planned activities designed to resul
 1. Pearson.E-Commerce.2017.13th.Edition.
 2. Porter, Michael E. _Competitive Advantage: Creating and Sustaining Superior Performance. _New York: Free Press (1985).
 3. Barney, J. B. "Firm Resources and Sustained Competi- tive Advantage." _Journal of Management _Vol. 17, No. 1 (1991).
-4. Walker, Tommy. "Ecommerce Marketing Strategies: A Comprehensive Guide for Growth."_Shopify Plus_, 22 Dec. 2017, [www.shopify.com/enterprise/ecommerce-marketing-strategies][5].
-5. Elizabeth E. Grandon, and J. Michael Pearson. "Electronic Commerce Adoption: an Empirical Study of Small and Medium US Businesses." Information & Management, North-Holland, 9 Apr. 2004, [www.sciencedirect.com/science/article/pii/S0378720604000205\#BIB44][6]
-6. E.W.T. Ngai\* , F.K.T. Wat. "A Literature Review and Classification of Electronic Commerce Research." Information & Management, North-Holland, 13 Jan. 2002, [www.sciencedirect.com/science/article/pii/S0378720601001070][7].
-7. Dogtiev, Artyom. "App Revenues 2017." _Business of Apps_, 16 Apr. 2018, [www.businessofapps.com/data/app-revenues/][8].
+4. Walker, Tommy. "Ecommerce Marketing Strategies: A Comprehensive Guide for Growth."_Shopify Plus_, 22 Dec. 2017, [www.shopify.com/enterprise/ecommerce-marketing-strategies][6].
+5. Elizabeth E. Grandon, and J. Michael Pearson. "Electronic Commerce Adoption: an Empirical Study of Small and Medium US Businesses." Information & Management, North-Holland, 9 Apr. 2004, [www.sciencedirect.com/science/article/pii/S0378720604000205\#BIB44][7]
+6. E.W.T. Ngai\* , F.K.T. Wat. "A Literature Review and Classification of Electronic Commerce Research." Information & Management, North-Holland, 13 Jan. 2002, [www.sciencedirect.com/science/article/pii/S0378720601001070][8].
+7. Dogtiev, Artyom. "App Revenues 2017." _Business of Apps_, 16 Apr. 2018, [www.businessofapps.com/data/app-revenues/][9].
 8. Munir, Annum. "App Monetization: 6 Bankable Business Models That Help Mobile Apps Make Money." _Localytics_, 10 Sept. 2014, info.localytics.com/blog/app-monetization-6-bankable-business-models-that-help-mobile-apps-make-money.
-9. Ewen, James. "Ultimate Guide To App Monetization - How To, Stats & Insight." _Tamoco - Precise Location Data For Brands, Apps, Networks, Enterprise_, 6 Feb. 2018, [www.tamoco.com/blog/ultimate-app-monetization-guide][9].
+9. Ewen, James. "Ultimate Guide To App Monetization - How To, Stats & Insight." _Tamoco - Precise Location Data For Brands, Apps, Networks, Enterprise_, 6 Feb. 2018, [www.tamoco.com/blog/ultimate-app-monetization-guide][10].
 10. Sydow, Lexi, and Sam Cheney. "2017 Retrospective: A Monumental Year for the App Economy." _App Annie _, 17 Jan. 2018, www.appannie.com/en/insights/market-data/app-annie-2017-retrospective/.
 
 ---
 
 ## Figures
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49249ca2-4020-4dde-8b3e-0cec5615eb86.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1e8982a-8b2c-48c7-aeef-0dcb644ebf89.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d61a52b-e040-4cda-806b-f3844cb23f94.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ef557f9-e456-40d2-93fd-4136194f8327.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/26c5cb78-3f10-4a21-a2f4-d46e4139d2d0.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ee55505-077c-4436-9daa-c1bbe6cddb43.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c435c09-8092-4439-b799-ec0667f1fb14.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee5058be-a4ae-4a31-9b1c-d5383d528835.png)
 
-[0]: https://www.statista.com/statistics/297024/most-popular-mobile-app-monetization-models/
-[1]: https://www.tamoco.com/blog/in-app-push-notifications-best-practices
-[2]: https://www.ecomdash.com/top-ecommerce-niches-of-2018/
-[3]: https://twitter.com/DrinkingTicket
-[4]: http://steverubin.net/
-[5]: http://www.shopify.com/enterprise/ecommerce-marketing-strategies
-[6]: http://www.sciencedirect.com/science/article/pii/S0378720604000205#BIB44
-[7]: http://www.sciencedirect.com/science/article/pii/S0378720601001070
-[8]: http://www.businessofapps.com/data/app-revenues/
-[9]: http://www.tamoco.com/blog/ultimate-app-monetization-guide
+[0]: http://info.localytics.com/blog/mobile-app-retention-has-made-significant-gains-since-2016
+[1]: https://www.statista.com/statistics/297024/most-popular-mobile-app-monetization-models/
+[2]: https://www.tamoco.com/blog/in-app-push-notifications-best-practices
+[3]: https://www.ecomdash.com/top-ecommerce-niches-of-2018/
+[4]: https://twitter.com/DrinkingTicket
+[5]: http://steverubin.net/
+[6]: http://www.shopify.com/enterprise/ecommerce-marketing-strategies
+[7]: http://www.sciencedirect.com/science/article/pii/S0378720604000205#BIB44
+[8]: http://www.sciencedirect.com/science/article/pii/S0378720601001070
+[9]: http://www.businessofapps.com/data/app-revenues/
+[10]: http://www.tamoco.com/blog/ultimate-app-monetization-guide
