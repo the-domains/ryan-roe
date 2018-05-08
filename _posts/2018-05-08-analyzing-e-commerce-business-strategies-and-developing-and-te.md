@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Photo: Pearson Education'
-dateModified: '2018-05-08T19:55:30.825Z'
-datePublished: '2018-05-08T19:55:31.646Z'
+dateModified: '2018-05-08T19:55:36.260Z'
+datePublished: '2018-05-08T19:55:37.860Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
