@@ -8,8 +8,8 @@ description: >-
   business model for my mobile application company, FYI App LLC, is conceived.
   This business model will be implemented Fall of 2018 and is currently in
   software development.
-dateModified: '2018-05-08T19:57:36.728Z'
-datePublished: '2018-05-08T19:57:37.774Z'
+dateModified: '2018-05-08T20:00:11.578Z'
+datePublished: '2018-05-08T20:00:12.867Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
@@ -71,7 +71,7 @@ This paper will utilize the book, _E-Commerce, _by Pearson Education to give a b
 ## Section 2 -- Research Objective and Analysis
 
 According to the book, E. Commerce, by Pearson Education, a business model is "a set of planned activities (sometimes referred to as business processes) designed to result in a profit in a marketplace" (Pearson 60). Developing an e-commerce strategy requires an e-commerce business model.According to Pearson, an e-commerce business model "aims to use and leverage the unique qualities of the Internet, the Web, and the mobile platform" to generate a profit. Similarly a business strategy is a "set of plans for achieving superior long-term returns on the capital invested in a business firm" (Pearson 91). As you can see a business model and a business strategy are two very similar topics, but a business strategy will get more specific on the tasks necessary to create the return. A company's business model consists of 8 key elements: value proposition, revenue model, market opportunity, competitive environment, competitive advantage, market strategy, organizational development, and management team.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8aadaa1f-e271-4104-a9b3-217dcab7a607.png)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6c85bee747cf0e5ab61abae1c6bcef2a/croprotate.png?cropheight=794&cropwidth=760&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8aadaa1f-e271-4104-a9b3-217dcab7a607.png&x=0&y=20)
 
 Photo: Pearson Education
 
@@ -128,8 +128,28 @@ A study on the world of global applications proves beneficial to answer the ques
 * Worldwide In-app purchase revenues in 2017 -- $37 billion
 * US mobile app advertising revenues in 2017 -- $33 billion
 * Top Grossing iOS app in 2017 -- Pokemon GO (over $2 billion)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e33b63bd-ef32-4187-b786-1be8b0c23d2c.png)
 
-In 2015 the total revenue generated across all mobile operating systems was about $70 billion, in 2016 this number reached $88 billion. By 2020 the combined mobile app revenue will reach a staggering $189 billion (Fig 2). Gradually, year-over-year in-app purchases began to take over other monetization models and by 2017 way over 50% a mobile app revenue is generated via in-app purchases (Fig 3). There is a growing trend that mobile app users do not download new apps as much as they used to and regularly utilize the same applications. In 2011, two years after in-app purchase were introduced, until 2017 revenue went up from $7 billion in 2011 to $29 billion in 2017, but starting in 2015, there is a clear stalling in paid-for application growth, which can be attributed to the mobile app ecosystem maturity (Fig 4). In 2011 in-app purchases generated $712 million, but by 2017 in-app purchases generated $37 billion which beats paid for apps by $8 billion (Fig 5, Dogtiev, Statista).
+Figure 2: Mobile Application Revenue provided by Statista compiled
+by App Annie
+
+In 2015 the total revenue generated across all mobile operating systems was about $70 billion, in 2016 this number reached $88 billion. By 2020 the combined mobile app revenue will reach a staggering $189 billion (Fig 2). ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa5dbd07-1d6a-4162-91d2-24b2ed76036b.png)
+
+Figure 3: Application Monetization as a Share of Worldwide revenue
+provided by Statista compiled by App Annie
+
+Gradually, year-over-year in-app purchases began to take over other monetization models and by 2017 way over 50% a mobile app revenue is generated via in-app purchases (Fig 3). ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/adfea062-200b-447b-9569-fbb5cd277e66.png)
+
+Figure 4: Global Paid-Application Revenue provided by Statista
+compiled by App Annie
+
+There is a growing trend that mobile app users do not download new apps as much as they used to and regularly utilize the same applications. In 2011, two years after in-app purchase were introduced, until 2017 revenue went up from $7 billion in 2011 to $29 billion in 2017, but starting in 2015, there is a clear stalling in paid-for application growth, which can be attributed to the mobile app ecosystem maturity (Fig 4).
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7271408e-110e-43b8-8876-9080e845c1d5.png)
+
+Figure 5: Total Worldwide In-Application Revenue provided by
+Statista compiled by App Annie
+
+In 2011 in-app purchases generated $712 million, but by 2017 in-app purchases generated $37 billion which beats paid for apps by $8 billion (Fig 5, Dogtiev, Statista).
 
 To find new revenue, developers began advertising inside of applications. "There are four major genres of mobile ads -- Display, Search, Social and Video." Search advertisements has been the primary competitor. The distribution is in Figure 6 (BusinessInsider). The iOS App Store has proven to be more lucrative than Google's Android because of Apple's walled garden approach combined with top notch hardware, software, and brand recognition. In 2017 Apple's iOS generated $40 billion, Google Play $21 billion and third-party stores generated $20 billion (Fig 7). If application revenue is separated by category of app, gaming is by far the leader. In 2017 mobile gaming revenue claimed 49% of total revenue while the other 19 categories claimed the other 51% (Fig 8). The top grossing mobile apps were Pokemon GO with over $2 billion, Candy Crush Saga -- over $1.5 billion and Clash Royale about $1.2 billion (Fig 9). The top non-game revenue can be seen in Figure 10 (Dogtiev). One of the best ways to understand the effectiveness of an application is to measure the monthly retention. "Since 2016, average one month, two month and three month retention has increased by 11%, 22% and 28% respectively, which equates to an average increase of 20% across the board. Additionally, monthly churn, or people who do not return to an app, has decreased by an average of 7%" (Localytics, Fig 11). This could prove disheartening to new application developers, but the data shows that users have a strong appetite for applications: "In most markets analyzed, the average smartphone user has more than 80 apps on their phone and uses close to 40 of them each month. This roughly equates to between one-third and one-half of the apps on users' phones used each month on average" (App Annie, Fig 12). Monetization in the top markets continued their steep growth (Fig 13). Consumers have exceed spending $86 billion in 2017 which is up 105% from 2015 (Fig 14). Global application downloads exceeded 175 billion in 2017 which is up 60% from 2015 and users spend over 3 hours of their days in mobile applications (Fig 15, Fig 16).
 
