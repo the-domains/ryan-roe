@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Photo: Pearson Education'
-dateModified: '2018-05-08T19:36:09.880Z'
-datePublished: '2018-05-08T19:36:10.777Z'
+dateModified: '2018-05-08T19:49:32.992Z'
+datePublished: '2018-05-08T19:49:33.732Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
@@ -19,7 +19,7 @@ _type: Article
 
 ---
 # Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile Application E-Commerce Business Model
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7d34a7e30fb8a84acc9931d336bd10de/croprotate.png?cropheight=794&cropwidth=760&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fbf61bcd5-b85f-4399-a6c0-511580e761a5.png&x=0&y=20)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/78146d964d1a6e0bba745d2bfa5c4cc140079544.png)
 
 Photo: Pearson Education
 
@@ -59,13 +59,13 @@ Section 6 -- Figures
 
 ---
 
-Section 1 -- Introduction with Review of Literature
+## Section 1 -- Introduction with Review of Literature
 
 The extended research paper will discuss an analysis of e-commerce strategies for a new organization. The research paper begins to outline a successful e-commerce strategy by looking at the components of common e-commerce strategies that use technology as an advantage. A definition of e-commerce will then be defined and chosen to be utilized throughout the paper. The scope will be further honed to a focus on Mobile E-Commerce strategies. The global mobile application market will be studied in detail to provide a background for research on developing a mobile application e-commerce strategy. The paper will utilize this information to show that mobile applications are monetizable and to develop a very specific mobile application business model that will be tested. Every aspect of the mobile application's business model will be defined according to eight key elements of an e-commerce business model. The testing of the mobile application e-commerce business model example will begin the Fall of 2018, dubbed FYI.
 
 This paper will utilize the book, _E-Commerce, _by Pearson Education to give a breakdown of the eight key elements to an e-commerce strategy as well as a definition for e-commerce. The definition of e-commerce is bolstered with an Elsevier Information and Management Journal article, "A Literature Review and Classification of Electronic Commerce Research" by Elizabeth Grandon. Statistical information on the global market of mobile applications is gathered from Statista & BusinessInsider then compiled by App Annie, a worldwide leader in mobile application analytics as well as BusinessofApps, Business of Apps provides app industry news, analysis, data & statistics for an audience of app and mobile professionals as well as an online marketplace for application development. App Annie's end of the year retrospective report for 2017 is also used to provide valuable current statistics on the mobile application economy. Mobile application specific revenue models are introduced by Localytics, an international mobile application analytics and marketing platform. Mobile application monetization is supplemented by a study from Tamoco, a website for precise location data for brands, apps, networks, and enterprise.
 
-Section 2 -- Research Objective and Analysis
+## Section 2 -- Research Objective and Analysis
 
 According to the book, E. Commerce, by Pearson Education, a business model is "a set of planned activities (sometimes referred to as business processes) designed to result in a profit in a marketplace" (Pearson 60). Developing an e-commerce strategy requires an e-commerce business model.According to Pearson, an e-commerce business model "aims to use and leverage the unique qualities of the Internet, the Web, and the mobile platform" to generate a profit. Similarly a business strategy is a "set of plans for achieving superior long-term returns on the capital invested in a business firm" (Pearson 91). As you can see a business model and a business strategy are two very similar topics, but a business strategy will get more specific on the tasks necessary to create the return. A company's business model consists of 8 key elements: value proposition, revenue model, market opportunity, competitive environment, competitive advantage, market strategy, organizational development, and management team.
 
@@ -216,3 +216,210 @@ Cons
 * This app business model has not been as thoroughly tried and tested as the other ones (results and success may vary)
 
 A very viable mobile application monetization strategy not discussed in the six revenue models is monetizing the user database. This strategy is very useful and can be applied in combination with any of the other strategies. One reason is "higher CPM - on a per-user basis, the amount of revenue generated through data monetization is much higher than any other app monetization strategy" (Ewan). According to Investopedia, Cost per thousand (CPM) is a marketing term used to denote the price of 1,000 advertisement impressions on one webpage. If a website publisher charges $2.00 CPM, that means an advertiser must pay $2.00 for every 1,000 impressions of its ad. The "M" in CPM represents the Roman numeral for 1,000\. Another reason is because monetizing data allows developers to monetize their entire audience without requiring the users to be inside of the application including users who have not used the application in a while. Possibly the most important benefit is that it protects the user experience without intrusive advertisements or unpleasant features allowing the audience to grow more quickly, leading to more revenue. One of the most effective ways to monetize user data is by utilizing "their precise location data from mobile apps to better understand consumer habits or behavior". Data monetization also occurs outside of the application meaning that the platform does not have access to those funds, and the benefits are not different depending on the platform.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a2fb5a4-cb1f-4523-804b-4d757f5f1a92.png)
+
+This
+statistic presents the most-used mobile app monetization models of
+mobile developers. In 2017, it was found that 49 percent of mobile
+app professionals implemented in-app advertising for non-gaming apps.
+Overall, 79 percent of gaming apps utilized in-app purchases of items
+([Statista][0]).
+
+A
+few general important topics that are essential to remember when
+monetizing a mobile application. The first is to protect the user
+experience at all costs. This can be accomplished by "keeping the
+user experience clean and ensure that app monetization does not
+damage the application experience. If you have to alter the
+experience in some way (ads etc), then manage this so that the impact
+is minimal." The second is to be actively involved in increasing
+the engagement of the users. The more time users spend on the
+application the higher the monetization. The third way essential to
+mobile application monetization is to continue to bring in new users
+which allows monetization to scale. This means it is
+necessary to "keep investing in user acquisition" because users
+will always "churn." Actively seeking new users is necessary
+(Ewan). Utilizing multiple monetization strategies is recommended
+(Ewan).
+
+Using
+measuring techniques and analytics is necessary for successful
+monetization. Optimizing and adapting the monetization strategy will
+prolong success. Finding a monetization partner like Tamaco to help
+track analytics could prove useful. Using the information provided
+about mobile application revenue models an 8 part business model will
+follow describing a specific mobile application business venture
+(Ewan).
+
+Project FYI
+
+The mobile
+application that we will be implementing is dubbed FYI. FYI will
+change the way people meet and interact by consolidating their
+information into a Virtual Identity Wallet. The Virtual Identity
+Wallet will transform an individual's multiple online identities and
+social media identities into one easily shareable FYI profile. Almost
+every individual in the modern world has multiple online identities.
+These commonly fall under social media profiles, but many other types
+of online identities exist. The issue of managing and sharing these
+accounts with others will continue to grow as these online identities
+continue to grow. May need to add something else to the app to keep
+users in the app or be more specific about how ads will be placed.
+The value proposition in the form of goals:
+
+1. Consolidate any
+amount of an individual user's personal information and online
+identities into one virtual wallet known as an "FYI Profile". 
+2. Enable users to
+efficiently retrieve and connect with other user's online
+identities. 
+3. Provide an effective
+platform for users to share their "FYI Profiles" in the form of
+a mobile application. 
+
+Revenue
+Model: 
+
+"The
+function of business organizations is both to generate profits and to
+produce returns on invested capital that exceed alternative
+investments" (Pearson 58). The revenue model of an application must
+be built into the vision of the application from it conception, but
+it may change over time. Application developers cannot get lost in
+the glamour of the mobile application market therefore it is
+essential to focus on a sustainable mobile application business.
+There are six primary revenue model strategies for mobile
+applications: In App Advertising, Freemium, Paid Apps, Purchases,
+Subscriptions/Paywalls, and Sponsorships. FYI will feature a hybrid
+monetization strategy that focuses on the user experience as the
+primary factor in decision making. The app experience trumps the app
+monetization. Maintaining a consistent and growing user database
+will, over time, increase monetization properly. This growth over
+time will allow us to grow the monetization strategy along with the
+users. The current monetization strategy will most likely change. The
+current vision of the application is to provide a utility. This
+method of application requires maximizing the efficiency of the
+applications user experience. With our application, high speed is
+very necessary. However the necessity of speed minimizes the amount
+of time our users will spend in the app. This results in a problem as
+the business model cannot support a paid application or in-app
+purchases (at this time). 
+
+Therefore, the first
+method of revenue generation is in-app advertisements. These must be
+very intuitive with the application's user flow as to not impede
+the user experience, and this may result in cancelling in-app
+advertisement from the current revenue model vision. 
+
+The second method of
+revenue generation is currently push notifications. Push
+notifications provide a way to implement advertisements. This also
+will provide a way to keep the users involved and must be part of our
+business model from the start. "Let's say your mobile app has
+100,000 downloads. On average after just one day you can expect your
+audience retention rate to be around 20%. After ten days this figure
+drops to 7.5%. After ninety days this figure, for most mobile apps,
+falls to around 2%" ([Tamoco][1]).
+About 70% of users opt into push notifications and almost double app
+retention rates. Micro-moment push notifications based off of very
+detailed data collection will maximize this feature. Utilizing the
+company Tamoco as or revenue partner will be a strong possibility.
+They specialize in location based revenue generation, but will help
+with location based push notification. **Revenue
+generation via push notification advertisements may require a
+foundational switch in FYI's vision that will be required before
+initial marketing can commence.**_****_If
+the users believe this application is purely a utility application
+then they will be negatively impacted by push notifications that are
+not perfectly relevant to the utility functionality of the
+application. The current utility functionality does not support many
+push notifications at the current level of creative development. The
+foundationally shift will have to be from simply an application that
+aids in _Sharing
+Virtual Identities_,
+to an app that aids in the transaction of the virtual identities
+while supporting the amount of these interaction by supplementing
+location based recommendation on places and opportunities for these
+interactions. Pairing with other companies like Foursquare, Tinder,
+Bumble, who specialize in creating these types of opportunities and
+that are already built with the infrastructure to utilize their user
+database through location based targeted advertising will be a future
+endeavor.
+
+Utilizing the user
+data to generate revenue will be the third method. There is a
+plethora of companies that are prying to access user information and
+monetize applications. The company business model is sound: people
+come to them with mobile application business ventures and if the
+company can monetize the individual's application, the company
+makes money off of other peoples ideas and efforts. There are
+companies like dawex.com that provide global data market places, 
+companies like chooseapplovin.com, tappx.com that have complex
+algorithms to maximize the CPM of the advertisements in apps.
+Location based functionality is the most lucrative in monetizing user
+data. Tamoco is a company that partners with applications that
+provide geolocation about their users to generate revenue. Location
+functionality can be reasoned for mechanically because keeping track
+of where FYI collection events occur will support the user experience
+(See Functionality Document). Location functionality can now also be
+reasoned for to provide the user a better experience as FYI
+supplements the amount of opportunities users have to utilize the
+application to meet new people. Future developments to location
+functionality will support development of push notifications based
+upon the user's location in a targeted advertisement platform for
+FYI, that may even include a user interface for the targeted
+advertisement platform, similar to Foursquare's Pinpoint targeted
+advertisement platform. Foursquare's Attribution product "which
+mines daily location information of over 1.3 million Foursquare users
+who have consented to location tracking in order to determine whether
+or not the advertising they've seen has actually influenced their
+purchas- ing decisions" would be a possible direction to actually
+combining our user database's location preferences with a company
+that is already structured to monetize it (Pearson 61).
+
+The fourth method to
+generate revenue will be with affiliate sponsorships. These will be
+connections that the management team makes with businesses in the
+areas that utilize the FYI application heavily. All the more reason
+user location services are necessary. Companies that would be
+interested in local advertising to a specific demographic we have
+access to. Since our initial target market is the very social college
+community at The University of South Carolina companies that would be
+interested would be food and beverage companies like the bars in the
+Five Points District, beverage companies, or college clothing
+companies. This sort of targeted advertising and affiliate
+sponsorship could prove very beneficial, but is not only dependent
+upon the success of the application's functionality but upon the
+management team's ability to make sales. A future functionality
+will be able to offer business's their own accounts as business
+constantly attempt to share their multiple social media accounts, and
+FYI would greatly increase the efficiency of this sharing.
+
+Market
+Opportunity
+
+FYI's initial
+intended marketspace will be targeting 18-30-year-old college
+students, young professionals, and young adults. We believe this
+demographic to
+be one of the most valuable groups of influencers and spenders for
+most major corporations. Companies are willing to pay large fees to
+acquire the kind of data FYI will have. The applications for the use
+of this data is almost unfathomable. Every business from the "local
+bar" to Coca-Cola would do nearly anything for an accurate and
+organized database of young spenders in their area and/or product
+market. College students are constantly being pumped into USC and
+the management team has a strong influence. Our initial target market
+is almost a niche. Niche marketing has many benefits when it comes to
+e-commerce. These specifically apply to selling niche products, but
+the concept maintains (from [Ecomdash][2]):
+
+* Easier Marketing:
+When selling niche products, there is a defined customer and value
+proposition. Creating a marketing strategy for a target market is
+much simpler, cheaper, and more effective.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9677e394-c3d8-403f-861e-ba2ab6998ddf.png)
+
+[0]: https://www.statista.com/statistics/297024/most-popular-mobile-app-monetization-models/
+[1]: https://www.tamoco.com/blog/in-app-push-notifications-best-practices
+[2]: https://www.ecomdash.com/top-ecommerce-niches-of-2018/
