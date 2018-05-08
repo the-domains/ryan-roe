@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Photo: Pearson Education'
-dateModified: '2018-05-08T19:50:32.291Z'
-datePublished: '2018-05-08T19:50:33.736Z'
+dateModified: '2018-05-08T19:51:43.632Z'
+datePublished: '2018-05-08T19:51:44.687Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
@@ -639,8 +639,68 @@ the organizational roles were defined. The mobile application economy
 is a booming market with plenty of opportunity, and FYI intends to
 take advantage of the opportunity.
 
+---
+
+Works Cited
+
+1. Pearson.E-Commerce.2017.13th.Edition.
+2. Porter,
+Michael E. _Competitive
+Advantage: Creating and Sustaining Superior Performance. _New
+York: Free Press (1985). 
+3. Barney,
+J. B. "Firm Resources and Sustained Competi- tive Advantage."
+_Journal
+of Management _Vol.
+17, No. 1 (1991). 
+4. Walker,
+Tommy. "Ecommerce Marketing Strategies: A Comprehensive Guide for
+Growth."_Shopify
+Plus_,
+22 Dec. 2017,
+[www.shopify.com/enterprise/ecommerce-marketing-strategies][5].
+5. Elizabeth
+E. Grandon, and J. Michael Pearson. "Electronic Commerce Adoption:
+an Empirical Study of Small and Medium US Businesses." Information
+& Management, North-Holland, 9 Apr. 2004,
+[www.sciencedirect.com/science/article/pii/S0378720604000205\#BIB44][6]
+6. E.W.T.
+Ngai\* , F.K.T. Wat. "A Literature Review and Classification of
+Electronic Commerce Research." Information & Management,
+North-Holland, 13 Jan. 2002,
+[www.sciencedirect.com/science/article/pii/S0378720601001070][7].
+7. Dogtiev,
+Artyom. "App Revenues 2017." _Business
+of Apps_,
+16 Apr. 2018, [www.businessofapps.com/data/app-revenues/][8].
+8. Munir,
+Annum. "App Monetization: 6 Bankable Business Models That Help
+Mobile Apps Make Money." _Localytics_,
+10 Sept. 2014,
+info.localytics.com/blog/app-monetization-6-bankable-business-models-that-help-mobile-apps-make-money.
+9. Ewen,
+James. "Ultimate Guide To App Monetization - How To, Stats &
+Insight." _Tamoco
+- Precise Location Data For Brands, Apps, Networks, Enterprise_,
+6 Feb. 2018, [www.tamoco.com/blog/ultimate-app-monetization-guide][9].
+10. Sydow,
+Lexi, and Sam Cheney. "2017 Retrospective: A Monumental Year for
+the App Economy." _App
+Annie _,
+17 Jan. 2018,
+www.appannie.com/en/insights/market-data/app-annie-2017-retrospective/.
+
+---
+
+Figures
+
 [0]: https://www.statista.com/statistics/297024/most-popular-mobile-app-monetization-models/
 [1]: https://www.tamoco.com/blog/in-app-push-notifications-best-practices
 [2]: https://www.ecomdash.com/top-ecommerce-niches-of-2018/
 [3]: https://twitter.com/DrinkingTicket
 [4]: http://steverubin.net/
+[5]: http://www.shopify.com/enterprise/ecommerce-marketing-strategies
+[6]: http://www.sciencedirect.com/science/article/pii/S0378720604000205#BIB44
+[7]: http://www.sciencedirect.com/science/article/pii/S0378720601001070
+[8]: http://www.businessofapps.com/data/app-revenues/
+[9]: http://www.tamoco.com/blog/ultimate-app-monetization-guide
