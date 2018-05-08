@@ -1,4 +1,3 @@
-layout_spectrum: 0.18504909309853643
 typography_spectrum: 0.4251360579096887
 color:
   brandStrength: 0.9508914358153164
@@ -11,7 +10,15 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
+github: true
+layout_spectrum: 0.18504909309853643
+analytics:
+  google: UA-117266865-1
+author:
+  name: Ryan Anthony Roe
+  email: ryanroe559@gmail.com
 name: Ryan Roe
+url: 'https://ryanroe.io'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -29,6 +36,11 @@ navigation:
   - name: 'Thread: An Easy Intro to Difficult Tech Concepts'
     id: 1131c292-4132-458d-b195-3a4897bf7301
     type: content
+  - name: Hire Me
+    id: 772c700e-c90f-4f55-9b9f-e75079df996a
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/88c4f167-4f3f-43b3-a02c-e7788303d771.jpg
 title: Ryan Roe
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -63,12 +75,3 @@ purpose:
   - type: internal
     label: ' Hire Me '
     item: 772c700e-c90f-4f55-9b9f-e75079df996a
-url: 'https://ryanroe.io'
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/88c4f167-4f3f-43b3-a02c-e7788303d771.jpg
-author:
-  name: Ryan Anthony Roe
-  email: ryanroe559@gmail.com
-analytics:
-  google: UA-117266865-1
-github: true
