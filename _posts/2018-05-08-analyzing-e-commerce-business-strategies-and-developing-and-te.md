@@ -8,8 +8,8 @@ description: >-
   business model for my mobile application company, FYI App LLC, is conceived.
   This business model will be implemented Fall of 2018 and is currently in
   software development.
-dateModified: '2018-05-08T20:08:40.712Z'
-datePublished: '2018-05-08T20:08:41.969Z'
+dateModified: '2018-05-08T20:08:56.770Z'
+datePublished: '2018-05-08T20:08:58.306Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
@@ -294,12 +294,12 @@ A very viable mobile application monetization strategy not discussed in the six 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a2fb5a4-cb1f-4523-804b-4d757f5f1a92.png)
 
 This statistic presents the most-used mobile app monetization models of mobile developers. In 2017, it was found that 49 percent of mobile app professionals implemented in-app advertising for non-gaming apps. Overall, 79 percent of gaming apps utilized in-app purchases of items ([Statista][1]).
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8e0373adde75ce54104ca9e96d405868/croprotate.png?cropheight=499&cropwidth=1279&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F78db3f04-4271-43d6-baad-4d33c1b95254.png&x=0&y=122)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1c35ada28fd730632bc9b73b6d84100fc1be81a.png)
 
 A few general important topics that are essential to remember when monetizing a mobile application. The first is to protect the user experience at all costs. This can be accomplished by "keeping the user experience clean and ensure that app monetization does not damage the application experience. If you have to alter the experience in some way (ads etc), then manage this so that the impact is minimal." The second is to be actively involved in increasing the engagement of the users. The more time users spend on the application the higher the monetization. The third way essential to mobile application monetization is to continue to bring in new users which allows monetization to scale. This means it is necessary to "keep investing in user acquisition" because users will always "churn." Actively seeking new users is necessary (Ewan). Utilizing multiple monetization strategies is recommended (Ewan).
 
 Using measuring techniques and analytics is necessary for successful monetization. Optimizing and adapting the monetization strategy will prolong success. Finding a monetization partner like Tamaco to help track analytics could prove useful. Using the information provided about mobile application revenue models an 8 part business model will follow describing a specific mobile application business venture (Ewan).
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8064b765-9759-4c1f-9568-f2bce8c144d3.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/156b55b9440b8ad429f831d3bcfb32dd/croprotate.jpg?cropheight=722&cropwidth=1280&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8064b765-9759-4c1f-9568-f2bce8c144d3.jpg&x=0&y=87)
 
 # Project FYI
 
@@ -373,6 +373,8 @@ The rest of the organizational development will have to grow with the business. 
 ## Conclusion
 
 In conclusion, a business model is a set of planned activities designed to result in a profit in a marketplace and an e-commerce business model aims to use and leverage the unique qualities of the Internet, the Web, and the mobile platform to generate a profit. The 8 elements of the business model were explained in an attempt to lead towards a successful e-commerce business model: Value Proposition, Revenue Model, Market Opportunity, Competitive Environment, Competitive Advantage, Market Strategy, Organizational Development, and the Management Team. A study of statistics about the global climate of the mobile application economy found that mobile applications are still a very quickly growing source of revenue. Consumers have exceed spending $86 billion in 2017 up 105% from 2015\. Global application downloads exceeded 175 billion in 2017 up 60% from 2015 and users spend over 3 hours of their days in mobile applications. A business model was developed for the mobile application project, FYI, according to the 8 key elements: The value proposition was described, the revenue model was fleshed out with a monetization strategy that utilizes push notifications, monetizes the user data, and uses affiliate sponsorships. The competitive environment was assessed along with the competitive advantage and the market strategy. The management team was introduced and the organizational roles were defined. The mobile application economy is a booming market with plenty of opportunity, and FYI intends to take advantage of the opportunity.
+
+With Love - Ryan Roe
 
 ---
 
