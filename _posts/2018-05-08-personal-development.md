@@ -1,15 +1,17 @@
 ---
-inFeed: true
+inFeed: false
 description: Personal Development
-dateModified: '2018-05-08T18:24:50.681Z'
-datePublished: '2018-05-08T18:24:51.198Z'
+dateModified: '2018-05-08T18:26:06.130Z'
+datePublished: '2018-05-08T18:26:06.626Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2018-05-08-personal-development.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-05-08T18:24:50.393Z'
-sourcePath: _posts/2018-05-08-personal-development.md
+url: personal-development/index.html
 _type: Blurb
 
 ---
