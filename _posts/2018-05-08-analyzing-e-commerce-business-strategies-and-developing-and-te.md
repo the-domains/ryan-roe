@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Photo: Pearson Education'
-dateModified: '2018-05-08T19:52:06.314Z'
-datePublished: '2018-05-08T19:52:07.380Z'
+dateModified: '2018-05-08T19:55:30.825Z'
+datePublished: '2018-05-08T19:55:31.646Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
@@ -114,7 +114,7 @@ For this paper we will not be focusing on a traditional online store that buys a
 
 A study on the world of global applications proves beneficial to answer the question, why choose a mobile application platform when they may be known to be notoriously difficult to monetize.
 
-## **Key App Revenue Statistics**:
+### **Key App Revenue Statistics**:
 
 * Global mobile app revenue in 2016 -- $88 billion
 * Global mobile app revenue forecast for 2020 -- $189 billion
@@ -224,7 +224,7 @@ A few general important topics that are essential to remember when monetizing a 
 
 Using measuring techniques and analytics is necessary for successful monetization. Optimizing and adapting the monetization strategy will prolong success. Finding a monetization partner like Tamaco to help track analytics could prove useful. Using the information provided about mobile application revenue models an 8 part business model will follow describing a specific mobile application business venture (Ewan).
 
-Project FYI
+# Project FYI
 
 The mobile application that we will be implementing is dubbed FYI. FYI will change the way people meet and interact by consolidating their information into a Virtual Identity Wallet. The Virtual Identity Wallet will transform an individual's multiple online identities and social media identities into one easily shareable FYI profile. Almost every individual in the modern world has multiple online identities. These commonly fall under social media profiles, but many other types of online identities exist. The issue of managing and sharing these accounts with others will continue to grow as these online identities continue to grow. May need to add something else to the app to keep users in the app or be more specific about how ads will be placed. The value proposition in the form of goals:
 
@@ -232,7 +232,7 @@ The mobile application that we will be implementing is dubbed FYI. FYI will chan
 2. Enable users to efficiently retrieve and connect with other user's online identities.
 3. Provide an effective platform for users to share their "FYI Profiles" in the form of a mobile application.
 
-Revenue Model:
+### Revenue Model:
 
 "The function of business organizations is both to generate profits and to produce returns on invested capital that exceed alternative investments" (Pearson 58). The revenue model of an application must be built into the vision of the application from it conception, but it may change over time. Application developers cannot get lost in the glamour of the mobile application market therefore it is essential to focus on a sustainable mobile application business. There are six primary revenue model strategies for mobile applications: In App Advertising, Freemium, Paid Apps, Purchases, Subscriptions/Paywalls, and Sponsorships. FYI will feature a hybrid monetization strategy that focuses on the user experience as the primary factor in decision making. The app experience trumps the app monetization. Maintaining a consistent and growing user database will, over time, increase monetization properly. This growth over time will allow us to grow the monetization strategy along with the users. The current monetization strategy will most likely change. The current vision of the application is to provide a utility. This method of application requires maximizing the efficiency of the applications user experience. With our application, high speed is very necessary. However the necessity of speed minimizes the amount of time our users will spend in the app. This results in a problem as the business model cannot support a paid application or in-app purchases (at this time).
 
@@ -244,7 +244,7 @@ Utilizing the user data to generate revenue will be the third method. There is a
 
 The fourth method to generate revenue will be with affiliate sponsorships. These will be connections that the management team makes with businesses in the areas that utilize the FYI application heavily. All the more reason user location services are necessary. Companies that would be interested in local advertising to a specific demographic we have access to. Since our initial target market is the very social college community at The University of South Carolina companies that would be interested would be food and beverage companies like the bars in the Five Points District, beverage companies, or college clothing companies. This sort of targeted advertising and affiliate sponsorship could prove very beneficial, but is not only dependent upon the success of the application's functionality but upon the management team's ability to make sales. A future functionality will be able to offer business's their own accounts as business constantly attempt to share their multiple social media accounts, and FYI would greatly increase the efficiency of this sharing.
 
-Market Opportunity
+### Market Opportunity
 
 FYI's initial intended marketspace will be targeting 18-30-year-old college students, young professionals, and young adults. We believe this demographic to be one of the most valuable groups of influencers and spenders for most major corporations. Companies are willing to pay large fees to acquire the kind of data FYI will have. The applications for the use of this data is almost unfathomable. Every business from the "local bar" to Coca-Cola would do nearly anything for an accurate and organized database of young spenders in their area and/or product market. College students are constantly being pumped into USC and the management team has a strong influence. Our initial target market is almost a niche. Niche marketing has many benefits when it comes to e-commerce. These specifically apply to selling niche products, but the concept maintains (from [Ecomdash][2]):
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9677e394-c3d8-403f-861e-ba2ab6998ddf.png)
@@ -255,7 +255,7 @@ FYI's initial intended marketspace will be targeting 18-30-year-old college stud
 
 * Increased Chance of Success: Begin with a small, well-defined product range rather than casting a wide net. Selling a couple of niche products allows retailers to take the time needed to understand cost, pricing, and potential barriers to scaling sales. They can research their target audience and build a good marketing plan. With a focused marketing strategy, higher organic search rankings, and lower competition, niche retailers have the perfect recipe for a lucrative business. From there, they can then expand and diversify.
 
-Competitive Environment
+### Competitive Environment
 
 About 10 hours of research (by two people) into the competitive environment of this application has been conducted, with very little results. FYI will be entering a space where competitors are concerned with the management of multiple social media platforms and not specifically the sharing and connecting of individuals. The specific card language in this instance does exist as a native contact known as "My Card" in iPhones, but it is functionally limited, not widely used, and not marketed as a distinct feature.
 
@@ -267,7 +267,7 @@ We have also done research into the intellectual property of this application as
 * Trademarks​: According to TESS only one FYI trademark exists in regards to mobile device software that was abandoned years ago.
 * We have already started FYI App LLC.
 
-Market Strategy & Competitive Advantage
+### Market Strategy & Competitive Advantage
 
 One of the biggest failures of strong early startups is exposure, and we understand that
 
@@ -281,25 +281,25 @@ DrinkingTicket is a resource students in Columbia turn to for all of their most 
 
 Local Events & Social Culture- FYI will have banners in a majority of the bars in Five Points. Every large school has a social culture and USC's is centric around The Five Points District. Alex Waelde is the operations manager and social media manager for 7 of the top bars in the district, opening doors to the entire area. We are able to directly reach large groups of affluent students with the interconnected communities throughout universities and the Greek Life culture. FYI will also have articles in newspapers and news stations, Post & Courier, The State, WIS10, WLTX, and WACHFox.
 
-Management Team
+### Management Team
 
 Alex Waelde a USC graduate. He is the operations manager and social media manager for 7 of the top bars in the five points district in Columbia, opening doors to the entire area. We are able to directly reach large groups of affluent students with the interconnected communities throughout universities and the Greek Life culture. Alex Waelde also has connecitons in newspapers and news stations, Post & Courier, The State, WIS10, WLTX, and WACHFox. Alex has guerrilla marketing Drinking Ticket to the status that it is today and has experience with startup of this nature. He had previously attempting a mobile application project 5 years ago that stalled as a result of the technical climate of the time and confusion among investors. Alex also worked a paralegal at one of the top law firms of South Carolina gaining a wealth of legal knowledge and collections. The 10 page development contract is now under review, pro bono, by these lawyers who normally charge $500/hr. Alex currently works at the largest corporate real estate firm in South Carolina, NAI Avant and has recently received his brokerage certification. This allows Alex to run the largest tailgate operation in the SEC. He manages 16 fraternities (2000 of the most influential men on campus) and an average of approximately 5,000 to 7,500 students per home tailgate. This provides tremendous penetration opportunity for FYI. Alex has also leveraged Drinking Ticket to become a master of all things Columbia, knowing the ins and out of almost every business in Columbia. FYI was the brainchild of Alex Waelde.
 
 Ryan Roe will graduate with a Bachelors of Science in Computer Information Systems and a minor in Business Information Management in May 2018\. This has allowed him to garner the technological knowledge and relationships necessary to take the technical lead on the FYI Project, specifically designing every functionality and fine tuning every piece of software developed for this application. Ryan has experience developing hybrid mobile applications with Typescript, HTML, and CSS. Ryan also specifically has experience developing with the front end platform FYI will be using, Ionic. The developer for the project is Steve Rubin ([steverubin.net][4]) and his company Melting Pot Solutions LLC (meltingpotsolutions.co). We have examined previous work by Steve and have chosen the hybrid mobile framework over native development because of decreased development costs beginning at 75% but up to 95% as well as a decrease in development time from 6 months to around 3 months. Hybrid development does come at a cost with slightly reduced functionality which entails the risk of the application not supporting future functionality that has not been defined at this point in planning. Hybrid development also risks being slightly slower than native development, but FYI is not a graphically or data heavy application and should not experience this setback. The specific functionality and a more detailed technical analysis can be found in the functionality document. Ryan also studies extensively the business of big data, monetizing mobile applications, analytics, e-commerce, and many more relevant technical topics necessary to be competitive in the current technological climate (ryanroe.io).
 
-Organizational Development
+### Organizational Development
 
 We understand that "many e-commerce firms and many traditional firms that attempt an e-commerce strategy have failed because they lacked the organizational structures and supportive cultural values required to support new forms of commerce (Pearson 65). We have planned for this, but not extensively. We have decided to form a 50-50 partnership with an extensive partnership agreement because we understand that disagreements among equal partners can be catastrophic for business and tend to happen. The partnership entails both parties owe 50% of the intial investment if the project fails and neither partner will benefit until the investment has paid back (unless it is necessary to make more money). The full partnership agreement will be disclosed in the weeks following beginning the development.
 
 The rest of the organizational development will have to grow with the business. For now Alex Waelde is in primarily in charge of developing the legal agreements and developing and carrying out the marketing plan. Ryan Roe is in charge of overseeing the technical development and making sure that the app is positioned properly to take full advantage of all of its monetization capabilities. We will carry these jobs until new ones are created.
 
-Conclusion
+## Conclusion
 
 In conclusion, a business model is a set of planned activities designed to result in a profit in a marketplace and an e-commerce business model aims to use and leverage the unique qualities of the Internet, the Web, and the mobile platform to generate a profit. The 8 elements of the business model were explained in an attempt to lead towards a successful e-commerce business model: Value Proposition, Revenue Model, Market Opportunity, Competitive Environment, Competitive Advantage, Market Strategy, Organizational Development, and the Management Team. A study of statistics about the global climate of the mobile application economy found that mobile applications are still a very quickly growing source of revenue. Consumers have exceed spending $86 billion in 2017 up 105% from 2015\. Global application downloads exceeded 175 billion in 2017 up 60% from 2015 and users spend over 3 hours of their days in mobile applications. A business model was developed for the mobile application project, FYI, according to the 8 key elements: The value proposition was described, the revenue model was fleshed out with a monetization strategy that utilizes push notifications, monetizes the user data, and uses affiliate sponsorships. The competitive environment was assessed along with the competitive advantage and the market strategy. The management team was introduced and the organizational roles were defined. The mobile application economy is a booming market with plenty of opportunity, and FYI intends to take advantage of the opportunity.
 
 ---
 
-Works Cited
+## References
 
 1. Pearson.E-Commerce.2017.13th.Edition.
 2. Porter, Michael E. _Competitive Advantage: Creating and Sustaining Superior Performance. _New York: Free Press (1985).
@@ -314,7 +314,7 @@ Works Cited
 
 ---
 
-Figures
+## Figures
 
 [0]: https://www.statista.com/statistics/297024/most-popular-mobile-app-monetization-models/
 [1]: https://www.tamoco.com/blog/in-app-push-notifications-best-practices
