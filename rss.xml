@@ -4,9 +4,9 @@
         <description><![CDATA[Ryan Roe]]></description>
         <link>http://ryanroe.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 May 2018 18:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 May 2018 18:17:42 GMT</lastBuildDate>
         <atom:link href="http://ryanroe.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 May 2018 18:17:04 GMT</pubDate>
+        <pubDate>Tue, 08 May 2018 18:17:41 GMT</pubDate>
         <item>
             <title><![CDATA[COBOL: Why a programming language built in 1959 should still be taught.]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/669e4e5b-71da-46a0-9f67-524e5dfc8f75.png" title="My tn3270x COBOL emulator home screen">,<h1>COBOL: Why a programming language built in 1959 should still be taught.</h1>,<p>Thread: An Introduction to Difficult Tech Concepts</p>,<h2>Common Business Oriented Language (COBOL). What is it? What was its purpose? Who still uses it? Why do they still use it? And an interview with a software engineer hired to develop a program to convert a COBOL database to SQL.</h2>,<h3><em>“The unique capabilities of COBOL and the business reasons for them were lost in passage of time.” - Robert Glass</em></h3>]]></description>
@@ -23,7 +23,7 @@
         </item>
         <item>
             <title><![CDATA[Artificial Website Development Technology? The Grid?]]></title>
-            <description><![CDATA[<h1>Artificial Website Development Technology? The Grid?</h1>,<p>Thread: An Easy Intro to Difficult Tech Concepts</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/554d752c-b63e-4935-8440-8a8a7511b312.jpg">,<h2>It is great for content generation and design inspiration, but lacks in many areas.</h2>,<p>The Modern Computer Scientist must use everything at his disposal to maximize efficiency. Why I chose this platform to create my website, and my plans for migrating to another platform.</p>,<p>Ryan Roe</p>]]></description>
+            <description><![CDATA[<h1>Artificial Website Development Technology? The Grid?</h1>,<p>Thread: Personal Development</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/554d752c-b63e-4935-8440-8a8a7511b312.jpg">,<h2>It is great for content generation and design inspiration, but lacks in many areas.</h2>,<p>The Modern Computer Scientist must use everything at his disposal to maximize efficiency. Why I chose this platform to create my website, and my plans for migrating to another platform.</p>,<p>Ryan Roe</p>]]></description>
             <link>http://ryanroe.io/what-is-the-grid-and-why-i-am-using-it-for-my-website/index.html</link>
             <guid isPermaLink="false">3e44658f-3136-4e33-85bb-c83e5859f13e</guid>
             <pubDate>Thu, 22 Mar 2018 23:57:19 GMT</pubDate>
