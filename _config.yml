@@ -33,9 +33,6 @@ navigation:
   - name: Hire Me
     id: 772c700e-c90f-4f55-9b9f-e75079df996a
     type: content
-  - name: 'Thread: The History of Computing'
-    id: 6123adac-f3b9-4ef5-8c57-1b189ad64cdc
-    type: content
   - name: 'Thread: An Easy Intro to Difficult Tech Concepts'
     id: 1131c292-4132-458d-b195-3a4897bf7301
     type: content
