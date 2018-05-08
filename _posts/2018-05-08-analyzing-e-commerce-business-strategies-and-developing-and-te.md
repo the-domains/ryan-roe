@@ -1,8 +1,15 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2018-05-08T19:56:25.281Z'
-datePublished: '2018-05-08T19:56:26.247Z'
+description: >-
+  This post studies the efficacy of common e-commerce strategies by following
+  the 8 key aspects of an e-commerce business model. Interesting statistics
+  regarding the global mobile application market are provided to show the
+  monetization properties of mobile applications. Finally, a highly detailed
+  business model for my mobile application company, FYI App LLC, is conceived.
+  This business model will be implemented Fall of 2018 and is currently in
+  software development.
+dateModified: '2018-05-08T19:56:33.554Z'
+datePublished: '2018-05-08T19:56:34.597Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
@@ -20,8 +27,6 @@ _type: Article
 ---
 # Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile Application E-Commerce Business Model
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/10c74bde-a619-442d-8c2d-d332dbbf830a.png)
-
----
 
 This post studies the efficacy of common e-commerce strategies by following the 8 key aspects of an e-commerce business model. Interesting statistics regarding the global mobile application market are provided to show the monetization properties of mobile applications. Finally, a highly detailed business model for my mobile application company, FYI App LLC, is conceived. This business model will be implemented Fall of 2018 and is currently in software development.
 
