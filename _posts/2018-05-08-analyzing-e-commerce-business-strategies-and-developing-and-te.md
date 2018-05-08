@@ -8,8 +8,8 @@ description: >-
   business model for my mobile application company, FYI App LLC, is conceived.
   This business model will be implemented Fall of 2018 and is currently in
   software development.
-dateModified: '2018-05-08T20:20:33.007Z'
-datePublished: '2018-05-08T20:20:35.280Z'
+dateModified: '2018-05-08T20:20:31.753Z'
+datePublished: '2018-05-08T20:20:33.546Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
@@ -26,7 +26,6 @@ _type: Article
 
 ---
 # Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile Application E-Commerce Business Model
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e38ea99-4485-48d1-a724-0d84da237fe0.png)
 
 This post studies the efficacy of common e-commerce strategies by following the 8 key aspects of an e-commerce business model. Interesting statistics regarding the global mobile application market are provided to show the monetization properties of mobile applications. Finally, a highly detailed business model for my mobile application company, FYI App LLC, is conceived. This business model will be implemented Fall of 2018 and is currently in software development.
 
@@ -394,6 +393,7 @@ With Love - Ryan Roe
 8. Munir, Annum. "App Monetization: 6 Bankable Business Models That Help Mobile Apps Make Money." _Localytics_, 10 Sept. 2014, info.localytics.com/blog/app-monetization-6-bankable-business-models-that-help-mobile-apps-make-money.
 9. Ewen, James. "Ultimate Guide To App Monetization - How To, Stats & Insight." _Tamoco - Precise Location Data For Brands, Apps, Networks, Enterprise_, 6 Feb. 2018, [www.tamoco.com/blog/ultimate-app-monetization-guide][10].
 10. Sydow, Lexi, and Sam Cheney. "2017 Retrospective: A Monumental Year for the App Economy." _App Annie _, 17 Jan. 2018, www.appannie.com/en/insights/market-data/app-annie-2017-retrospective/.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e38ea99-4485-48d1-a724-0d84da237fe0.png)
 
 ---
 
