@@ -1,8 +1,8 @@
 ---
 inFeed: false
-description: Personal Development
-dateModified: '2018-05-08T18:26:06.130Z'
-datePublished: '2018-05-08T18:26:06.626Z'
+description: 'Thread: Personal Development'
+dateModified: '2018-05-08T18:48:07.293Z'
+datePublished: '2018-05-08T18:48:07.898Z'
 title: ''
 author: []
 publisher: {}
@@ -15,7 +15,10 @@ url: personal-development/index.html
 _type: Blurb
 
 ---
-Personal Development
+Thread: Personal Development
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5514780-a3ea-40a0-98f4-734b40792519.jpg)
+
+Photo: Weronika Gesicka
 
 My blog has multiple topic threads. This is one of them.
 
