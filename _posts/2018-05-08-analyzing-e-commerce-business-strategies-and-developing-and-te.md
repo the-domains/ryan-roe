@@ -8,8 +8,8 @@ description: >-
   business model for my mobile application company, FYI App LLC, is conceived.
   This business model will be implemented Fall of 2018 and is currently in
   software development.
-dateModified: '2018-05-08T20:13:05.697Z'
-datePublished: '2018-05-08T20:13:06.762Z'
+dateModified: '2018-05-08T20:20:26.842Z'
+datePublished: '2018-05-08T20:20:28.634Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
@@ -26,7 +26,6 @@ _type: Article
 
 ---
 # Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile Application E-Commerce Business Model
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/10c74bde-a619-442d-8c2d-d332dbbf830a.png)
 
 This post studies the efficacy of common e-commerce strategies by following the 8 key aspects of an e-commerce business model. Interesting statistics regarding the global mobile application market are provided to show the monetization properties of mobile applications. Finally, a highly detailed business model for my mobile application company, FYI App LLC, is conceived. This business model will be implemented Fall of 2018 and is currently in software development.
 
@@ -130,32 +129,30 @@ A study on the world of global applications proves beneficial to answer the ques
 * Top Grossing iOS app in 2017 -- Pokemon GO (over $2 billion)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e33b63bd-ef32-4187-b786-1be8b0c23d2c.png)
 
-Figure 2: Mobile Application Revenue provided by Statista compiled
-by App Annie
+Figure 2: Mobile Application Revenue provided by Statista compiled by App Annie
 
-In 2015 the total revenue generated across all mobile operating systems was about $70 billion, in 2016 this number reached $88 billion. By 2020 the combined mobile app revenue will reach a staggering $189 billion (Fig 2). ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa5dbd07-1d6a-4162-91d2-24b2ed76036b.png)
+In 2015 the total revenue generated across all mobile operating systems was about $70 billion, in 2016 this number reached $88 billion. By 2020 the combined mobile app revenue will reach a staggering $189 billion (Fig 2).
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa5dbd07-1d6a-4162-91d2-24b2ed76036b.png)
 
-Figure 3: Application Monetization as a Share of Worldwide revenue
-provided by Statista compiled by App Annie
+Figure 3: Application Monetization as a Share of Worldwide revenue provided by Statista compiled by App Annie
 
-Gradually, year-over-year in-app purchases began to take over other monetization models and by 2017 way over 50% a mobile app revenue is generated via in-app purchases (Fig 3). ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/adfea062-200b-447b-9569-fbb5cd277e66.png)
+Gradually, year-over-year in-app purchases began to take over other monetization models and by 2017 way over 50% a mobile app revenue is generated via in-app purchases (Fig 3).
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/adfea062-200b-447b-9569-fbb5cd277e66.png)
 
-Figure 4: Global Paid-Application Revenue provided by Statista
-compiled by App Annie
+Figure 4: Global Paid-Application Revenue provided by Statista compiled by App Annie
 
 There is a growing trend that mobile app users do not download new apps as much as they used to and regularly utilize the same applications. In 2011, two years after in-app purchase were introduced, until 2017 revenue went up from $7 billion in 2011 to $29 billion in 2017, but starting in 2015, there is a clear stalling in paid-for application growth, which can be attributed to the mobile app ecosystem maturity (Fig 4).
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7271408e-110e-43b8-8876-9080e845c1d5.png)
 
-Figure 5: Total Worldwide In-Application Revenue provided by
-Statista compiled by App Annie
+Figure 5: Total Worldwide In-Application Revenue provided by Statista compiled by App Annie
 
 In 2011 in-app purchases generated $712 million, but by 2017 in-app purchases generated $37 billion which beats paid for apps by $8 billion (Fig 5, Dogtiev, Statista).
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49249ca2-4020-4dde-8b3e-0cec5615eb86.png)
 
-Figure 6: Genres of Advertisements by Revenue Provided by
-BusinessInsider
+Figure 6: Genres of Advertisements by Revenue Provided by BusinessInsider
 
-To find new revenue, developers began advertising inside of applications. "There are four major genres of mobile ads -- Display, Search, Social and Video." Search advertisements has been the primary competitor. The distribution is in Figure 6 (BusinessInsider). ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1e8982a-8b2c-48c7-aeef-0dcb644ebf89.png)
+To find new revenue, developers began advertising inside of applications. "There are four major genres of mobile ads -- Display, Search, Social and Video." Search advertisements has been the primary competitor. The distribution is in Figure 6 (BusinessInsider).
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1e8982a-8b2c-48c7-aeef-0dcb644ebf89.png)
 
 Figure 7:Application Revenue by Platform provided by App Annie
 
@@ -164,27 +161,33 @@ The iOS App Store has proven to be more lucrative than Google's Android because 
 
 Figure 8: Application Revenue by Category
 
-If application revenue is separated by category of app, gaming is by far the leader. In 2017 mobile gaming revenue claimed 49% of total revenue while the other 19 categories claimed the other 51% (Fig 8). ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ef557f9-e456-40d2-93fd-4136194f8327.png)
+If application revenue is separated by category of app, gaming is by far the leader. In 2017 mobile gaming revenue claimed 49% of total revenue while the other 19 categories claimed the other 51% (Fig 8).
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ef557f9-e456-40d2-93fd-4136194f8327.png)
 
 Figure 9
 
-The top grossing mobile apps were Pokemon GO with over $2 billion, Candy Crush Saga -- over $1.5 billion and Clash Royale about $1.2 billion (Fig 9). ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/26c5cb78-3f10-4a21-a2f4-d46e4139d2d0.png)
+The top grossing mobile apps were Pokemon GO with over $2 billion, Candy Crush Saga -- over $1.5 billion and Clash Royale about $1.2 billion (Fig 9).
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/26c5cb78-3f10-4a21-a2f4-d46e4139d2d0.png)
 
 Figure 10: Top non game apps rated by revenue
 
-The top non-game revenue can be seen in Figure 10 (Dogtiev). ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfe26027db00403177b75fb5962c359b79f550ca.png)
+The top non-game revenue can be seen in Figure 10 (Dogtiev).
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfe26027db00403177b75fb5962c359b79f550ca.png)
 
 Figure 11 [Localytics][0]
 
-One of the best ways to understand the effectiveness of an application is to measure the monthly retention. "Since 2016, average one month, two month and three month retention has increased by 11%, 22% and 28% respectively, which equates to an average increase of 20% across the board. Additionally, monthly churn, or people who do not return to an app, has decreased by an average of 7%" (Localytics, Fig 11). ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c47befb3c578b41f4b2cec3cfce75feb7634087.png)
+One of the best ways to understand the effectiveness of an application is to measure the monthly retention. "Since 2016, average one month, two month and three month retention has increased by 11%, 22% and 28% respectively, which equates to an average increase of 20% across the board. Additionally, monthly churn, or people who do not return to an app, has decreased by an average of 7%" (Localytics, Fig 11).
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c47befb3c578b41f4b2cec3cfce75feb7634087.png)
 
 Figure 12
 
-This could prove disheartening to new application developers, but the data shows that users have a strong appetite for applications: "In most markets analyzed, the average smartphone user has more than 80 apps on their phone and uses close to 40 of them each month. This roughly equates to between one-third and one-half of the apps on users' phones used each month on average" (App Annie, Fig 12). ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee5058be-a4ae-4a31-9b1c-d5383d528835.png)
+This could prove disheartening to new application developers, but the data shows that users have a strong appetite for applications: "In most markets analyzed, the average smartphone user has more than 80 apps on their phone and uses close to 40 of them each month. This roughly equates to between one-third and one-half of the apps on users' phones used each month on average" (App Annie, Fig 12).
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee5058be-a4ae-4a31-9b1c-d5383d528835.png)
 
 Figure 13
 
-Monetization in the top markets continued their steep growth (Fig 13). ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/37038d25-3411-4f00-ad09-490ff845c378.png)
+Monetization in the top markets continued their steep growth (Fig 13).
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/37038d25-3411-4f00-ad09-490ff845c378.png)
 
 Figure 14
 
@@ -299,7 +302,7 @@ This statistic presents the most-used mobile app monetization models of mobile d
 A few general important topics that are essential to remember when monetizing a mobile application. The first is to protect the user experience at all costs. This can be accomplished by "keeping the user experience clean and ensure that app monetization does not damage the application experience. If you have to alter the experience in some way (ads etc), then manage this so that the impact is minimal." The second is to be actively involved in increasing the engagement of the users. The more time users spend on the application the higher the monetization. The third way essential to mobile application monetization is to continue to bring in new users which allows monetization to scale. This means it is necessary to "keep investing in user acquisition" because users will always "churn." Actively seeking new users is necessary (Ewan). Utilizing multiple monetization strategies is recommended (Ewan).
 
 Using measuring techniques and analytics is necessary for successful monetization. Optimizing and adapting the monetization strategy will prolong success. Finding a monetization partner like Tamaco to help track analytics could prove useful. Using the information provided about mobile application revenue models an 8 part business model will follow describing a specific mobile application business venture (Ewan).
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/156b55b9440b8ad429f831d3bcfb32dd/croprotate.jpg?cropheight=722&cropwidth=1280&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8064b765-9759-4c1f-9568-f2bce8c144d3.jpg&x=0&y=87)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/519fde1c623ce24a4b315b0bcc8527f8cce9e36f.jpg)
 
 # Project FYI
 
@@ -315,7 +318,7 @@ The mobile application that we will be implementing is dubbed FYI. FYI will chan
 
 Therefore, the first method of revenue generation is in-app advertisements. These must be very intuitive with the application's user flow as to not impede the user experience, and this may result in cancelling in-app advertisement from the current revenue model vision.
 
-The second method of revenue generation is currently push notifications. Push notifications provide a way to implement advertisements. This also will provide a way to keep the users involved and must be part of our business model from the start. "Let's say your mobile app has 100,000 downloads. On average after just one day you can expect your audience retention rate to be around 20%. After ten days this figure drops to 7.5%. After ninety days this figure, for most mobile apps, falls to around 2%" ([Tamoco][2]). About 70% of users opt into push notifications and almost double app retention rates. Micro-moment push notifications based off of very detailed data collection will maximize this feature. Utilizing the company Tamoco as or revenue partner will be a strong possibility. They specialize in location based revenue generation, but will help with location based push notification. **Revenue generation via push notification advertisements may require a foundational switch in FYI's vision that will be required before initial marketing can commence.**_****_If the users believe this application is purely a utility application then they will be negatively impacted by push notifications that are not perfectly relevant to the utility functionality of the application. The current utility functionality does not support many push notifications at the current level of creative development. The foundationally shift will have to be from simply an application that aids in _Sharing Virtual Identities_, to an app that aids in the transaction of the virtual identities while supporting the amount of these interaction by supplementing location based recommendation on places and opportunities for these interactions. Pairing with other companies like Foursquare, Tinder, Bumble, who specialize in creating these types of opportunities and that are already built with the infrastructure to utilize their user database through location based targeted advertising will be a future endeavor.
+The second method of revenue generation is currently push notifications. Push notifications provide a way to implement advertisements. This also will provide a way to keep the users involved and must be part of our business model from the start. "Let's say your mobile app has 100,000 downloads. On average after just one day you can expect your audience retention rate to be around 20%. After ten days this figure drops to 7.5%. After ninety days this figure, for most mobile apps, falls to around 2%" ([Tamoco][2]). About 70% of users opt into push notifications and almost double app retention rates. Micro-moment push notifications based off of very detailed data collection will maximize this feature. Utilizing the company Tamoco as or revenue partner will be a strong possibility. They specialize in location based revenue generation, but will help with location based push notification. **Revenue generation via push notification advertisements may require a foundational switch in FYI's vision that will be required before initial marketing can commence.**If the users believe this application is purely a utility application then they will be negatively impacted by push notifications that are not perfectly relevant to the utility functionality of the application. The current utility functionality does not support many push notifications at the current level of creative development. The foundationally shift will have to be from simply an application that aids in _Sharing Virtual Identities_, to an app that aids in the transaction of the virtual identities while supporting the amount of these interaction by supplementing location based recommendation on places and opportunities for these interactions. Pairing with other companies like Foursquare, Tinder, Bumble, who specialize in creating these types of opportunities and that are already built with the infrastructure to utilize their user database through location based targeted advertising will be a future endeavor.
 
 Utilizing the user data to generate revenue will be the third method. There is a plethora of companies that are prying to access user information and monetize applications. The company business model is sound: people come to them with mobile application business ventures and if the company can monetize the individual's application, the company makes money off of other peoples ideas and efforts. There are companies like dawex.com that provide global data market places, companies like chooseapplovin.com, tappx.com that have complex algorithms to maximize the CPM of the advertisements in apps. Location based functionality is the most lucrative in monetizing user data. Tamoco is a company that partners with applications that provide geolocation about their users to generate revenue. Location functionality can be reasoned for mechanically because keeping track of where FYI collection events occur will support the user experience (See Functionality Document). Location functionality can now also be reasoned for to provide the user a better experience as FYI supplements the amount of opportunities users have to utilize the application to meet new people. Future developments to location functionality will support development of push notifications based upon the user's location in a targeted advertisement platform for FYI, that may even include a user interface for the targeted advertisement platform, similar to Foursquare's Pinpoint targeted advertisement platform. Foursquare's Attribution product "which mines daily location information of over 1.3 million Foursquare users who have consented to location tracking in order to determine whether or not the advertising they've seen has actually influenced their purchas- ing decisions" would be a possible direction to actually combining our user database's location preferences with a company that is already structured to monetize it (Pearson 61).
 
@@ -393,7 +396,7 @@ With Love - Ryan Roe
 
 ---
 
-
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e38ea99-4485-48d1-a724-0d84da237fe0.png)
 
 [0]: http://info.localytics.com/blog/mobile-app-retention-has-made-significant-gains-since-2016
 [1]: https://www.statista.com/statistics/297024/most-popular-mobile-app-monetization-models/
