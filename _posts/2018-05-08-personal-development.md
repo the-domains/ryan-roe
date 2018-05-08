@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Thread: Personal Development'
-dateModified: '2018-05-08T18:49:29.814Z'
-datePublished: '2018-05-08T18:49:30.479Z'
+dateModified: '2018-05-08T18:51:01.394Z'
+datePublished: '2018-05-08T18:51:03.591Z'
 title: ''
 author: []
 publisher: {}
