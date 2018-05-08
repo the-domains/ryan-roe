@@ -8,8 +8,8 @@ description: >-
   business model for my mobile application company, FYI App LLC, is conceived.
   This business model will be implemented Fall of 2018 and is currently in
   software development.
-dateModified: '2018-05-08T19:56:33.554Z'
-datePublished: '2018-05-08T19:56:34.597Z'
+dateModified: '2018-05-08T19:57:36.728Z'
+datePublished: '2018-05-08T19:57:37.774Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
@@ -71,6 +71,9 @@ This paper will utilize the book, _E-Commerce, _by Pearson Education to give a b
 ## Section 2 -- Research Objective and Analysis
 
 According to the book, E. Commerce, by Pearson Education, a business model is "a set of planned activities (sometimes referred to as business processes) designed to result in a profit in a marketplace" (Pearson 60). Developing an e-commerce strategy requires an e-commerce business model.According to Pearson, an e-commerce business model "aims to use and leverage the unique qualities of the Internet, the Web, and the mobile platform" to generate a profit. Similarly a business strategy is a "set of plans for achieving superior long-term returns on the capital invested in a business firm" (Pearson 91). As you can see a business model and a business strategy are two very similar topics, but a business strategy will get more specific on the tasks necessary to create the return. A company's business model consists of 8 key elements: value proposition, revenue model, market opportunity, competitive environment, competitive advantage, market strategy, organizational development, and management team.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8aadaa1f-e271-4104-a9b3-217dcab7a607.png)
+
+Photo: Pearson Education
 
 The internet is replete with articles discussing a successful e-commerce strategy because these strategies are so specific, how does one develop a competitive business strategy without a specific example? Let's examine each of the 8 elements of the business model. The two most noticeable elements are the value proposition and the revenue model. Why will a customer conduct business with a particular company over another? The answer to that question is the company's value proposition, which "defines how a company's product or service fulfills the needs of customers" (57). The company's value proposition is the heart and soul of the business idea, and choosing a businesses' idea is very important and should be based upon market research and be tied into the other 7 key business model elements. The next element is the revenue model which is just as it sounds: how a company is going to generate a return upon the investment. Many types of e-commerce revenue models exist: advertising revenue model, subscription revenue model, freemium strategy, transaction fee revenue model, sales revenue model, and the affiliate revenue model, and a proper understanding to each of them is necessary for selection.
 
