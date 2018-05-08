@@ -1,9 +1,9 @@
 ---
 inFeed: true
-description: 'Thread: Personal Development'
-dateModified: '2018-05-08T19:00:09.651Z'
-datePublished: '2018-05-08T19:00:10.574Z'
-title: ''
+description: 'Photo: Weronika Gesicka'
+dateModified: '2018-05-08T20:09:13.011Z'
+datePublished: '2018-05-08T20:09:13.465Z'
+title: 'Thread: Personal Development'
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ url: personal-development/index.html
 _type: Article
 
 ---
-Thread: Personal Development
+# Thread: Personal Development
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5514780-a3ea-40a0-98f4-734b40792519.jpg)
 
 Photo: Weronika Gesicka
