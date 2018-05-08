@@ -4,9 +4,9 @@
         <description><![CDATA[Ryan Roe]]></description>
         <link>http://ryanroe.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 May 2018 18:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 May 2018 18:15:38 GMT</lastBuildDate>
         <atom:link href="http://ryanroe.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 May 2018 18:15:22 GMT</pubDate>
+        <pubDate>Tue, 08 May 2018 18:15:36 GMT</pubDate>
         <item>
             <title><![CDATA[COBOL: Why a programming language built in 1959 should still be taught.]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/669e4e5b-71da-46a0-9f67-524e5dfc8f75.png" title="My tn3270x COBOL emulator home screen">,<h1>COBOL: Why a programming language built in 1959 should still be taught.</h1>,<p>Thread: An Easy Intro to Difficult Tech Concepts</p>,<h2>Common Business Oriented Language (COBOL). What is it? What was its purpose? Who still uses it? Why do they still use it? And an interview with a software engineer hired to develop a program to convert a COBOL database to SQL.</h2>,<h3><em>“The unique capabilities of COBOL and the business reasons for them were lost in passage of time.” - Robert Glass</em></h3>]]></description>
@@ -34,13 +34,6 @@
             <link>http://ryanroe.io/thread-breaking-down-difficult-technology-concepts/index.html</link>
             <guid isPermaLink="false">1131c292-4132-458d-b195-3a4897bf7301</guid>
             <pubDate>Thu, 22 Mar 2018 22:14:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The History of Computing]]></title>
-            <description><![CDATA[<h1>The History of Computing</h1>,<h2>As you scroll through my blog you will see each post is associated with a different thread, this is one of them.</h2>,<h3>I will be reading through, <em>Computing: A Concise History</em>, written by Paul E. Ceruzzi. This book is a part of The MIT Essential Knowledge Series. I reserved it from the Richland County Public Library.</h3>,<p>I will be synthesizing the information as I take notes, and I will post the most interesting topics along my feed.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/34c0a9b6-a0fa-49ac-9f4b-7c3e6c79353c.jpg">,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNUcFqwkAQvecrlhRMAroxopU2iVDBg1B6aXsqpay7s5podpfdTaiU_nsnGqG3mXmPmffeFKLqSCXKUO4mVmsfrooUR6ugcNxWxq9i2SruK61iMSZujNyE_ASEdMySGntZO1ISQffgNydoQHm3Pr-x_QtrIHbJx_QzR3YlSfyfsz5vRYyrEmLBt1b1nGERt8A8DDzckCNAK4FYJa406izHNjp4b9xjmnKtFHBPJeOw0_pIFfgU1Nf7a-rEkdbu7lvumlOZjTqwDq2U3YxmsxEzZivKbL6cLueL6ex-9rDMFiPWev2s90_GbLreTZlF_Vn0SQ2zOHnRAmilHFi_BqktxEMOSR78xkLztlc-JtE1wQirm7JJ7VBRlCR5kQ75BkHRv4CfmHOXL3DdXFIMiWCeTQ4WZBnerNozU1bjeT3Aqm2MdqgyXNxe9weIVJld" height="244"></iframe>]]></description>
-            <link>http://ryanroe.io/the-history-of-computing/index.html</link>
-            <guid isPermaLink="false">6123adac-f3b9-4ef5-8c57-1b189ad64cdc</guid>
-            <pubDate>Thu, 22 Mar 2018 22:30:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Importance of Cryptocurrency on E-Commerce]]></title>
