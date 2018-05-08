@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Thread: Personal Development'
-dateModified: '2018-05-08T20:13:05.697Z'
-datePublished: '2018-05-08T20:13:06.752Z'
+dateModified: '2018-05-08T20:14:49.873Z'
+datePublished: '2018-05-08T20:14:50.711Z'
 title: Artificial Website Development Technology? The Grid?
 author: []
 publisher: {}
@@ -16,9 +16,9 @@ _type: Article
 
 ---
 # Artificial Website Development Technology? The Grid?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/554d752c-b63e-4935-8440-8a8a7511b312.jpg)
 
 Thread: Personal Development
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/554d752c-b63e-4935-8440-8a8a7511b312.jpg)
 
 ## It is great for content generation and design inspiration, but lacks in many areas.
 
