@@ -1,8 +1,8 @@
 ---
-inFeed: false
+inFeed: true
 description: 'Thread: Personal Development'
-dateModified: '2018-05-08T18:48:32.506Z'
-datePublished: '2018-05-08T18:48:33.244Z'
+dateModified: '2018-05-08T18:49:29.814Z'
+datePublished: '2018-05-08T18:49:30.479Z'
 title: ''
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2018-05-08T18:24:50.393Z'
 url: personal-development/index.html
-_type: Blurb
+_type: Article
 
 ---
 Thread: Personal Development
