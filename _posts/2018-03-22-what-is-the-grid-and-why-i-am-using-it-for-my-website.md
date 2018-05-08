@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Thread: Personal Development'
-dateModified: '2018-05-08T18:17:39.552Z'
-datePublished: '2018-05-08T18:17:40.240Z'
+dateModified: '2018-05-08T18:50:37.065Z'
+datePublished: '2018-05-08T18:50:37.608Z'
 title: Artificial Website Development Technology? The Grid?
 author: []
 publisher: {}
@@ -25,6 +25,8 @@ Thread: Personal Development
 The Modern Computer Scientist must use everything at his disposal to maximize efficiency. Why I chose this platform to create my website, and my plans for migrating to another platform.
 
 Ryan Roe
+
+January 1, 2018
 
 ---
 
