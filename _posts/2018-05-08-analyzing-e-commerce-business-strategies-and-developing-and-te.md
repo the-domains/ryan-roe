@@ -8,8 +8,8 @@ description: >-
   business model for my mobile application company, FYI App LLC, is conceived.
   This business model will be implemented Fall of 2018 and is currently in
   software development.
-dateModified: '2018-05-08T20:08:56.770Z'
-datePublished: '2018-05-08T20:08:58.306Z'
+dateModified: '2018-05-08T20:13:05.697Z'
+datePublished: '2018-05-08T20:13:06.762Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
