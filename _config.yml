@@ -1,0 +1,74 @@
+layout_spectrum: 0.18504909309853643
+typography_spectrum: 0.4251360579096887
+color:
+  brandStrength: 0.9508914358153164
+  lightness: 0.42032027810811995
+  saturation: 0.08370247357543374
+  rhythmicContrast: 0.29672036058979456
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: Ryan Roe
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: About Me
+    id: 7cce628b-8444-4504-8768-8fa6f2dd6c33
+    type: content
+  - name: 'Thread: The History of Computing'
+    id: 6123adac-f3b9-4ef5-8c57-1b189ad64cdc
+    type: content
+  - name: 'Thread: An Easy Intro to Difficult Tech Concepts'
+    id: 1131c292-4132-458d-b195-3a4897bf7301
+    type: content
+title: Ryan Roe
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1609b7bb-d112-41d2-bc3b-5365b115c6f8.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/1609b7bb-d112-41d2-bc3b-5365b115c6f8.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: 'Computer Scientist and Entrepreneur. Welcome to my technology blog. '
+purpose:
+  - type: contact
+    url: 'mailto:ryanroe559@gmail.com'
+    label: Contact me
+  - type: internal
+    label: ' Hire Me '
+    item: 772c700e-c90f-4f55-9b9f-e75079df996a
+url: 'https://ryanroe.io'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/88c4f167-4f3f-43b3-a02c-e7788303d771.jpg
+author:
+  name: Ryan Anthony Roe
+  email: ryanroe559@gmail.com
+analytics:
+  google: UA-117266865-1
+github: true
