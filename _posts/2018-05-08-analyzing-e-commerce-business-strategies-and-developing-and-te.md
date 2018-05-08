@@ -8,8 +8,8 @@ description: >-
   business model for my mobile application company, FYI App LLC, is conceived.
   This business model will be implemented Fall of 2018 and is currently in
   software development.
-dateModified: '2018-05-08T20:08:20.762Z'
-datePublished: '2018-05-08T20:08:22.301Z'
+dateModified: '2018-05-08T20:08:40.712Z'
+datePublished: '2018-05-08T20:08:41.969Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
@@ -299,6 +299,7 @@ This statistic presents the most-used mobile app monetization models of mobile d
 A few general important topics that are essential to remember when monetizing a mobile application. The first is to protect the user experience at all costs. This can be accomplished by "keeping the user experience clean and ensure that app monetization does not damage the application experience. If you have to alter the experience in some way (ads etc), then manage this so that the impact is minimal." The second is to be actively involved in increasing the engagement of the users. The more time users spend on the application the higher the monetization. The third way essential to mobile application monetization is to continue to bring in new users which allows monetization to scale. This means it is necessary to "keep investing in user acquisition" because users will always "churn." Actively seeking new users is necessary (Ewan). Utilizing multiple monetization strategies is recommended (Ewan).
 
 Using measuring techniques and analytics is necessary for successful monetization. Optimizing and adapting the monetization strategy will prolong success. Finding a monetization partner like Tamaco to help track analytics could prove useful. Using the information provided about mobile application revenue models an 8 part business model will follow describing a specific mobile application business venture (Ewan).
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8064b765-9759-4c1f-9568-f2bce8c144d3.jpg)
 
 # Project FYI
 
@@ -390,9 +391,7 @@ In conclusion, a business model is a set of planned activities designed to resul
 
 ---
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8064b765-9759-4c1f-9568-f2bce8c144d3.jpg)
 
-## Figures
 
 [0]: http://info.localytics.com/blog/mobile-app-retention-has-made-significant-gains-since-2016
 [1]: https://www.statista.com/statistics/297024/most-popular-mobile-app-monetization-models/
