@@ -8,8 +8,8 @@ description: >-
   business model for my mobile application company, FYI App LLC, is conceived.
   This business model will be implemented Fall of 2018 and is currently in
   software development.
-dateModified: '2018-05-08T20:00:11.578Z'
-datePublished: '2018-05-08T20:00:12.867Z'
+dateModified: '2018-05-08T20:03:10.874Z'
+datePublished: '2018-05-08T20:03:11.985Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
@@ -341,6 +341,14 @@ In conclusion, a business model is a set of planned activities designed to resul
 ---
 
 ## Figures
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49249ca2-4020-4dde-8b3e-0cec5615eb86.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1e8982a-8b2c-48c7-aeef-0dcb644ebf89.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d61a52b-e040-4cda-806b-f3844cb23f94.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ef557f9-e456-40d2-93fd-4136194f8327.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/26c5cb78-3f10-4a21-a2f4-d46e4139d2d0.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ee55505-077c-4436-9daa-c1bbe6cddb43.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c435c09-8092-4439-b799-ec0667f1fb14.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee5058be-a4ae-4a31-9b1c-d5383d528835.png)
 
 [0]: https://www.statista.com/statistics/297024/most-popular-mobile-app-monetization-models/
 [1]: https://www.tamoco.com/blog/in-app-push-notifications-best-practices
