@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Photo: Pearson Education'
-dateModified: '2018-05-08T19:49:32.992Z'
-datePublished: '2018-05-08T19:49:33.732Z'
+dateModified: '2018-05-08T19:50:32.291Z'
+datePublished: '2018-05-08T19:50:33.736Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
@@ -413,13 +413,234 @@ the management team has a strong influence. Our initial target market
 is almost a niche. Niche marketing has many benefits when it comes to
 e-commerce. These specifically apply to selling niche products, but
 the concept maintains (from [Ecomdash][2]):
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9677e394-c3d8-403f-861e-ba2ab6998ddf.png)
 
 * Easier Marketing:
 When selling niche products, there is a defined customer and value
 proposition. Creating a marketing strategy for a target market is
 much simpler, cheaper, and more effective.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9677e394-c3d8-403f-861e-ba2ab6998ddf.png)
+* Higher Search Engine Rankings:
+Unless you're a very well established website with an
+authoritative digital presence, your SEO strategy will be more
+effective if you focus on niche topics and long tail keywords. With
+this approach, you'll be more likely to reach your target
+audience, which means customers will have an easier time finding
+and buying your products.
+* Lower Competition:
+Gaining a competitive advantage is a more straightforward process
+when selling niche products. With specific product offerings, a
+targeted audience, and a defined value proposition, you can focus
+on building a reputation as an expert in your field. It is easier
+to build trust and brand loyalty.
+
+* Increased Chance of Success:
+Begin with a small, well-defined product range rather than casting a
+wide net. Selling a couple of niche products allows retailers to
+take the time needed to understand cost, pricing, and potential
+barriers to scaling sales. They can research their target audience
+and build a good marketing plan. With a focused marketing strategy,
+higher organic search rankings, and lower competition, niche
+retailers have the perfect recipe for a lucrative business. From
+there, they can then expand and diversify.
+
+Competitive
+Environment 
+
+About
+10 hours of research (by two people) into the competitive environment
+of this application has been conducted, with very little results. FYI
+will be entering a space where competitors are concerned with the
+management of multiple social media platforms and not specifically
+the sharing and connecting of individuals. The specific card language
+in this instance does exist as a native contact known as "My Card"
+in iPhones, but it is functionally limited, not widely used, and not
+marketed as a distinct feature. 
+
+One
+example of similar technology does exist in the form of an outdated
+website known as DandyID. The technology is poorly designed and does
+not reach the appropriate market. 
+
+We
+have also done research into the intellectual property of this
+application as FYI is a common name. 
+
+* Domain​:
+FYI.tv Is an existing TV network, FYIApp.com is a real estate
+company up north, FYI.com is an available domain. FYI.app is coming
+out soon.
+* Trademarks​:
+According to TESS only one FYI trademark exists in regards to mobile
+device software that was abandoned years ago.
+* We
+have already started FYI App LLC.
+
+Market
+Strategy & Competitive Advantage
+
+One
+of the biggest failures of strong early startups is exposure, and we
+understand that 
+
+FYI
+will only succeed if it provides a real utility that is put into the
+hands of enough users. It will be necessary for FYI to create a large
+user database, therefore the platform is designed to exponentially
+increase with each user account being connected to multiple other
+identities. The idea has not been implemented by competitors and we
+have a very strong grip on our initial target market because of
+[@DrinkingTicket][3]
+and our management team.
+
+DrinkingTicket is a
+viral media account that has grown to be the most popular twitter 
+
+account
+in Columbia, SC. DrinkingTicket serves the purpose of assisting
+specifically the college student demographic. For Columbia, that
+demographic is the University of South Carolina. We tweet information
+about everything from DUI checkpoints to campus events to bar
+specials in 5 points (college bar district). We have become wildly
+popular with students generating on average in our more popular
+months 140,000 impressions a day and when school is out 69,000
+impressions a day. DrinkingTicket has huge potential to be used as a
+marketing platform for monetization through sponsorship, advertising,
+and general demographic studies. 
+
+DrinkingTicket
+is a resource students in Columbia turn to for all of their most
+important information often times before even looking to traditional
+news sources or the University itself. DrinkingTicket has more
+student subscribers than the University's own emergency alert
+system. If we were to open a DrinkingTicket at every major school in
+the country we could harness the college demographic and push
+basically ANYTHING we want at them. 
+
+Local
+Events & Social Culture- FYI will have banners in a majority of
+the bars in Five Points. Every large school has a social culture and
+USC's is centric around The Five Points District. Alex Waelde is
+the operations manager and social media manager for 7 of the top bars
+in the district, opening doors to the entire area. We are able to
+directly reach large groups of affluent students with the
+interconnected communities throughout universities and the Greek Life
+culture. FYI will also have articles in newspapers and news stations,
+Post & Courier, The State, WIS10, WLTX, and WACHFox. 
+
+Management
+Team 
+
+Alex
+Waelde a USC graduate. He is the operations manager and social media
+manager for 7 of the top bars in the five points district in
+Columbia, opening doors to the entire area. We are able to directly
+reach large groups of affluent students with the interconnected
+communities throughout universities and the Greek Life culture. Alex
+Waelde also has connecitons in newspapers and news stations, Post &
+Courier, The State, WIS10, WLTX, and WACHFox. Alex has guerrilla
+marketing Drinking Ticket to the status that it is today and has
+experience with startup of this nature. He had previously attempting
+a mobile application project 5 years ago that stalled as a result of
+the technical climate of the time and confusion among investors. 
+Alex also worked a paralegal at one of the top law firms of South
+Carolina gaining a wealth of legal knowledge and collections. The 10
+page development contract is now under review, pro bono, by these
+lawyers who normally charge $500/hr. Alex currently works at the
+largest corporate real estate firm in South Carolina, NAI Avant and
+has recently received his brokerage certification. This allows Alex
+to run the largest tailgate operation in the SEC. He manages 16
+fraternities (2000 of the most influential men on campus) and an
+average of approximately 5,000 to 7,500 students per home tailgate.
+This provides tremendous penetration opportunity for FYI. Alex has
+also leveraged Drinking Ticket to become a master of all things
+Columbia, knowing the ins and out of almost every business in
+Columbia. FYI was the brainchild of Alex Waelde.
+
+Ryan
+Roe will graduate with a Bachelors of Science in Computer Information
+Systems and a minor in Business Information Management in May 2018\.
+This has allowed him to garner the technological knowledge and
+relationships necessary to take the technical lead on the FYI
+Project, specifically designing every functionality and fine tuning
+every piece of software developed for this application. Ryan has
+experience developing hybrid mobile applications with Typescript,
+HTML, and CSS. Ryan also specifically has experience developing with
+the front end platform FYI will be using, Ionic. The developer for
+the project is Steve Rubin ([steverubin.net][4])
+and his company Melting Pot Solutions LLC (meltingpotsolutions.co).
+We have examined previous work by Steve and have chosen the hybrid
+mobile framework over native development because of decreased
+development costs beginning at 75% but up to 95% as well as a
+decrease in development time from 6 months to around 3 months. Hybrid
+development does come at a cost with slightly reduced functionality
+which entails the risk of the application not supporting future
+functionality that has not been defined at this point in planning.
+Hybrid development also risks being slightly slower than native
+development, but FYI is not a graphically or data heavy application
+and should not experience this setback. The specific functionality
+and a more detailed technical analysis can be found in the
+functionality document. Ryan also studies extensively the business of
+big data, monetizing mobile applications, analytics, e-commerce, and
+many more relevant technical topics necessary to be competitive in
+the current technological climate (ryanroe.io).
+
+Organizational
+Development
+
+We
+understand that "many e-commerce firms and many traditional
+firms that attempt an e-commerce strategy have failed because they
+lacked the organizational structures and supportive cultural values
+required to support new forms of commerce (Pearson 65). We have
+planned for this, but not extensively. We have decided to form a
+50-50 partnership with an extensive partnership agreement because we
+understand that disagreements among equal partners can be
+catastrophic for business and tend to happen. The partnership entails
+both parties owe 50% of the intial investment if the project fails
+and neither partner will benefit until the investment has paid back
+(unless it is necessary to make more money). The full partnership
+agreement will be disclosed in the weeks following beginning the
+development.
+
+The
+rest of the organizational development will have to grow with the
+business. For now Alex Waelde is in primarily in charge of developing
+the legal agreements and developing and carrying out the marketing
+plan. Ryan Roe is in charge of overseeing the technical development
+and making sure that the app is positioned properly to take full
+advantage of all of its monetization capabilities. We will carry
+these jobs until new ones are created.
+
+Conclusion
+
+In
+conclusion, a business model is a set of planned activities designed
+to result in a profit in a marketplace and an e-commerce business
+model aims to use and leverage the unique
+qualities of the Internet, the Web, and the mobile platform to
+generate a profit. The 8 elements of the business model were
+explained in an attempt to lead towards a successful e-commerce
+business model: Value Proposition, Revenue Model, Market Opportunity,
+Competitive Environment, Competitive Advantage, Market Strategy,
+Organizational Development, and the Management Team. A study of
+statistics about the global climate of the mobile application economy
+found that mobile applications are still a very quickly growing
+source of revenue. Consumers have exceed spending $86 billion in 2017
+up 105% from 2015\. Global application downloads exceeded 175 billion
+in 2017 up 60% from 2015 and users spend over 3 hours of their days
+in mobile applications. A business model was developed for the mobile
+application project, FYI, according to the 8 key elements: The value
+proposition was described, the revenue model was fleshed out with a
+monetization strategy that utilizes push notifications, monetizes the
+user data, and uses affiliate sponsorships. The competitive
+environment was assessed along with the competitive advantage
+and the market strategy. The management team was introduced and
+the organizational roles were defined. The mobile application economy
+is a booming market with plenty of opportunity, and FYI intends to
+take advantage of the opportunity.
 
 [0]: https://www.statista.com/statistics/297024/most-popular-mobile-app-monetization-models/
 [1]: https://www.tamoco.com/blog/in-app-push-notifications-best-practices
 [2]: https://www.ecomdash.com/top-ecommerce-niches-of-2018/
+[3]: https://twitter.com/DrinkingTicket
+[4]: http://steverubin.net/
