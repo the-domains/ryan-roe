@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Thread: Personal Development'
-dateModified: '2018-05-08T18:51:33.622Z'
-datePublished: '2018-05-08T18:51:34.182Z'
+dateModified: '2018-05-08T18:51:46.436Z'
+datePublished: '2018-05-08T18:51:46.968Z'
 title: ''
 author: []
 publisher: {}
@@ -29,5 +29,7 @@ Posts:
 [AI Website Development Technology and Plans for My Personal Website][0]
 
 Ryan Roe
+
+January 1, 2018
 
 [0]: http://ryanroe.io/what-is-the-grid-and-why-i-am-using-it-for-my-website
