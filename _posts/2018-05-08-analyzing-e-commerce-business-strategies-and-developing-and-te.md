@@ -15,8 +15,8 @@ description: >-
   defined according to eight key elements of an e-commerce business model. The
   testing of the mobile application e-commerce business model example will begin
   the Fall of 2018, dubbed FYI. April 2, 2018 Ryan Roe
-dateModified: '2018-05-08T23:20:27.952Z'
-datePublished: '2018-05-08T23:20:29.272Z'
+dateModified: '2018-05-08T23:27:44.747Z'
+datePublished: '2018-05-08T23:27:45.817Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
