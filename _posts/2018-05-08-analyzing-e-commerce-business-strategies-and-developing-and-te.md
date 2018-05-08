@@ -1,14 +1,8 @@
 ---
 inFeed: true
-description: >-
-  This 27 page research paper will discuss an analysis of e-commerce strategies
-  for a new organization. The research paper begins to outline a successful
-  e-commerce strategy by looking at the components of common e-commerce
-  strategies that use technology as an advantage. A definition of e-commerce
-  will then be defined and chosen to be utilized throughout the paper. The scope
-  will be further honed to a focus on Mobile E-Commerce strategies. 
-dateModified: '2018-05-08T23:36:49.989Z'
-datePublished: '2018-05-08T23:36:50.763Z'
+description: ''
+dateModified: '2018-05-08T23:37:15.628Z'
+datePublished: '2018-05-08T23:37:18.634Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
@@ -19,16 +13,17 @@ hasPage: true
 sourcePath: >-
   _posts/2018-05-08-analyzing-e-commerce-business-strategies-and-developing-and-te.md
 starred: false
-datePublishedOriginal: '2018-05-08T23:35:57.672Z'
+datePublishedOriginal: '2018-05-08T19:19:37.833Z'
 url: analyzing-e-commerce-business-strategies-and-developing-and-te/index.html
 _type: Article
 
 ---
 # Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile Application E-Commerce Business Model
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e38ea99-4485-48d1-a724-0d84da237fe0.png)
 
-This 27 page research paper will discuss an analysis of e-commerce strategies for a new organization. The research paper begins to outline a successful e-commerce strategy by looking at the components of common e-commerce strategies that use technology as an advantage. A definition of e-commerce will then be defined and chosen to be utilized throughout the paper. The scope will be further honed to a focus on Mobile E-Commerce strategies. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e38ea99-4485-48d1-a724-0d84da237fe0.png)
+---
 
-The global mobile application market will be studied in detail to provide a background for research on developing a mobile application e-commerce strategy. The paper will utilize this information to show that mobile applications are monetizable and to develop a very specific mobile application business model that will be tested. Every aspect of the mobile application's business model will be defined according to eight key elements of an e-commerce business model. The testing of the mobile application e-commerce business model example will begin the Fall of 2018, dubbed FYI. April 2, 2018 Ryan Roe
+This 27 page research paper will discuss an analysis of e-commerce strategies for a new organization. The research paper begins to outline a successful e-commerce strategy by looking at the components of common e-commerce strategies that use technology as an advantage. A definition of e-commerce will then be defined and chosen to be utilized throughout the paper. The scope will be further honed to a focus on Mobile E-Commerce strategies. The global mobile application market will be studied in detail to provide a background for research on developing a mobile application e-commerce strategy. The paper will utilize this information to show that mobile applications are monetizable and to develop a very specific mobile application business model that will be tested. Every aspect of the mobile application's business model will be defined according to eight key elements of an e-commerce business model. The testing of the mobile application e-commerce business model example will begin the Fall of 2018, dubbed FYI. April 2, 2018 Ryan Roe
 
 ---
 
