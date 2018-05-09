@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: 'April 2, 2018'
-dateModified: '2018-05-09T19:30:15.552Z'
-datePublished: '2018-05-09T19:30:16.983Z'
+description: ''
+dateModified: '2018-05-09T19:30:32.186Z'
+datePublished: '2018-05-09T19:30:33.711Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
@@ -23,9 +23,9 @@ _type: Article
 
 ## A 27 page research paper analyzing e-commerce business strategies followed by global mobile application market statistics to support application development endeavors. Following, a very detailed mobile application business model is conceived according to eight key elements of an e-commerce business model. The resulting strategy will be released for testing beginning Fall 2018, dubbed FYI.
 
-April 2, 2018
+### April 2, 2018
 
-Ryan Roe
+### Ryan Roe
 
 ---
 
