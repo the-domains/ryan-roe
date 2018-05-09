@@ -2,9 +2,9 @@
 inFeed: true
 description: >-
   Image: An Internet Mapping from The Institute of Electrical and Electronics
-  Engineers’ The Opte Project. 
-dateModified: '2018-05-09T18:57:51.788Z'
-datePublished: '2018-05-09T18:57:52.403Z'
+  Engineers’ The Opte Project.
+dateModified: '2018-05-09T19:30:50.440Z'
+datePublished: '2018-05-09T19:30:51.201Z'
 title: 'Thread: Network+'
 author: []
 publisher: {}
@@ -20,13 +20,13 @@ _type: Article
 # Thread: Network+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2350cd8f-e14e-4783-8691-47c90d1c6c33.png)
 
-Image: An Internet Mapping from The Institute of Electrical and Electronics Engineers' The Opte Project. 
+Image: An Internet Mapping from The Institute of Electrical and Electronics Engineers' The Opte Project.
 
-This thread is my collection of notes on the various topics involved with a CompTIA Network+ Certification.
+## This thread is my collection of notes on the various topics involved with a CompTIA Network+ Certification.
 
-May 8, 2018
+### May 8, 2018
 
-Ryan Roe
+### Ryan Roe
 
 ---
 
