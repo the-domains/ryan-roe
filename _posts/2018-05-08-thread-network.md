@@ -1,9 +1,11 @@
 ---
 inFeed: true
-description: 'Thread: Network+'
-dateModified: '2018-05-09T03:20:12.166Z'
-datePublished: '2018-05-09T03:20:12.672Z'
-title: ''
+description: >-
+  Image: An Internet Mapping from The Institute of Electrical and Electronics
+  Engineers’ The Opte Project
+dateModified: '2018-05-09T03:21:15.477Z'
+datePublished: '2018-05-09T03:21:16.090Z'
+title: 'Thread: Network+'
 author: []
 publisher: {}
 via: {}
@@ -15,7 +17,7 @@ url: thread-network/index.html
 _type: Article
 
 ---
-Thread: Network+
+# Thread: Network+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2350cd8f-e14e-4783-8691-47c90d1c6c33.png)
 
 Image: An Internet Mapping from The Institute of Electrical and Electronics Engineers' The Opte Project
