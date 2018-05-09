@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'May 9, 2018'
-dateModified: '2018-05-09T20:17:11.281Z'
-datePublished: '2018-05-09T20:17:12.104Z'
+dateModified: '2018-05-09T20:20:16.260Z'
+datePublished: '2018-05-09T20:20:17.851Z'
 title: Installing OpenOffice on Linux Ubuntu Unity (Deb & Rem?)
 author: []
 publisher: {}
@@ -112,6 +112,8 @@ _**Linux RPM-based Installation**_
 ### Conclusion
 
 You can start OpenOffice by typing soffice into the command line or simly finding it in applications. I am now able to view and edit the .docx file. However I need to migrate it back to a fresh .docx file.
+
+Ryan Roe
 
 [0]: https://forum.openoffice.org/en/forum/viewtopic.php?f=7&t=80923&p=404588#p404588
 [1]: https://www.openoffice.org/download/common/instructions.html#linux-preinstall
