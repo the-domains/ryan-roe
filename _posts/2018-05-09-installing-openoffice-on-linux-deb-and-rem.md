@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'May 9, 2018'
-dateModified: '2018-05-09T20:05:26.868Z'
-datePublished: '2018-05-09T20:05:27.878Z'
+dateModified: '2018-05-09T20:17:11.281Z'
+datePublished: '2018-05-09T20:17:12.104Z'
 title: Installing OpenOffice on Linux Ubuntu Unity (Deb & Rem?)
 author: []
 publisher: {}
@@ -78,6 +78,40 @@ Remove this symbolic link (or any others that appeared):
 
 * .deb because it is based from debian like Ubuntu, and mint 
 * .rpm files are for Redhat based distr like CentOS, Fedora
+
+Navigate to the file using terminal (cd) and unzip the file using tar (or you could just double click using Files).The following command should work:tar -xvzf "linux package name".tar.gz  
+where "linux package name" is the beginning part of the archive you just downloaded.  
+This will create an **installation directory**.  
+The name of the installation directory will likely be the language abbreviation for the install set, e.g., en-US.
+
+    tar -xvzf "linux package name".tar.gz
+
+If you are using a GUI package manager: Add the install directory as a "local repository" for your GUI package manager if possible. This will enable you to do a GUI install rather than command line. Lets continue using the command line.
+
+### Step 3: Installation
+
+_**Linux DEB-based Installation (for Ubuntu)**_
+
+1. cd into the installation directory: "en-US"
+2. cd into the DEBS subdirectory of the installation directory.You should see a lot of debs here and one sub-directory called "desktop-integration".
+3. Install this new version by typing sudo dpkg -i \*.deb or become root using su command.By default, this will install/update Apache OpenOffice in your /opt directory.Alternatively, you can use a GUI package installer, reference the installation directory, and install all debs at the top level. This may also aid you in determing any dependency problems if they exist.
+4. Install the desktop integration features for your setup.cd to desktop-integration (in the installation directory),and install the desktop intgration using dpkg.
+5. Finally, start up Apache OpenOffice 4.x.x to insure it's working.
+
+_Note:_ Apache OpenOffice executable is called soffice and is located in /opt/OpenOffice4/program/  
+A softlink is created on your /usr/local/bin/ directory. You can always map to the original at /opt/ if it doesnt start for whatever reason.
+
+_**Linux RPM-based Installation**_
+
+1. su to root, if necessary, and navigate to Apache OpenOffice **installation directory**._You will likely need to be root to run the rpm command to install the software._
+2. cd into the RPMS subdirectory of the installation directory.You should see a lot of rpms here and one sub-directory called "desktop-integration".
+3. Install this new version by typing rpm -Uvih \*rpm.By default, this will install Apache OpenOffice in your /opt directory.Alternatively, you can use a GUI package installer, reference the installation directory, and install all rpms at the top level. This may also aid you in determing any dependency problems if they exist.
+4. Install the desktop integration features for your setup.cd to desktop-integration (in the installation directory),and install an appropriate desktop interface using RPM. (Try the freedesktop-menus first.)
+5. Finally, start up Apache OpenOffice 4.x.x to insure it's working.
+
+### Conclusion
+
+You can start OpenOffice by typing soffice into the command line or simly finding it in applications. I am now able to view and edit the .docx file. However I need to migrate it back to a fresh .docx file.
 
 [0]: https://forum.openoffice.org/en/forum/viewtopic.php?f=7&t=80923&p=404588#p404588
 [1]: https://www.openoffice.org/download/common/instructions.html#linux-preinstall
