@@ -6,8 +6,8 @@ description: >-
   endeavors. A very detailed mobile application business model is conceived
   according to eight key elements of an e-commerce business model. The testing
   of this business model will begin Fall 2018 and will be dubbed, FYI.
-dateModified: '2018-05-09T03:16:59.487Z'
-datePublished: '2018-05-09T03:17:01.961Z'
+dateModified: '2018-05-09T03:18:19.256Z'
+datePublished: '2018-05-09T03:18:19.744Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
