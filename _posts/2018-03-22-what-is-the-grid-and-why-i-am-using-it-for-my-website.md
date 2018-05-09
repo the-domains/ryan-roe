@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Thread: Personal Development'
-dateModified: '2018-05-09T06:22:37.459Z'
-datePublished: '2018-05-09T06:22:38.729Z'
+dateModified: '2018-05-09T06:30:54.124Z'
+datePublished: '2018-05-09T06:30:54.527Z'
 title: Artificial Website Development Technology? The Grid?
 author: []
 publisher: {}
