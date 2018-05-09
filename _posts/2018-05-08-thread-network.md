@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: 'Thread: Network+'
-dateModified: '2018-05-09T03:18:19.256Z'
-datePublished: '2018-05-09T03:18:19.720Z'
+dateModified: '2018-05-09T03:19:48.803Z'
+datePublished: '2018-05-09T03:19:49.331Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2018-05-08-thread-network.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-05-08T23:27:05.802Z'
-_type: Blurb
+url: thread-network/index.html
+_type: Article
 
 ---
 Thread: Network+
