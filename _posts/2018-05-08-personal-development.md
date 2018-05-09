@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Photo: Weronika Gesicka'
-dateModified: '2018-05-09T20:20:29.566Z'
-datePublished: '2018-05-09T20:20:30.218Z'
+dateModified: '2018-05-09T20:44:04.077Z'
+datePublished: '2018-05-09T20:44:04.827Z'
 title: 'Thread: Personal Development'
 author: []
 publisher: {}
