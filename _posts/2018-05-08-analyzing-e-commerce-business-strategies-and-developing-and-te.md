@@ -7,8 +7,8 @@ description: >-
   conceived according to eight key elements of an e-commerce business model. The
   resulting business model will be released for testing beginning Fall 2018 and
   is be dubbed, FYI.
-dateModified: '2018-05-09T06:53:46.459Z'
-datePublished: '2018-05-09T06:53:48.343Z'
+dateModified: '2018-05-09T06:56:16.274Z'
+datePublished: '2018-05-09T06:56:16.694Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
