@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Thread: An Introduction to Difficult Tech Concepts'
-dateModified: '2018-05-09T06:30:54.124Z'
-datePublished: '2018-05-09T06:30:54.541Z'
+dateModified: '2018-05-09T06:33:40.410Z'
+datePublished: '2018-05-09T06:33:41.092Z'
 title: The Importance of Cryptocurrency on E-Commerce
 author: []
 publisher: {}
@@ -20,17 +20,17 @@ _type: Article
 
 Thread: An Introduction to Difficult Tech Concepts
 
-The invention of blockchain technology has sent the e-commerce community into a frenzy. Learn about the impact this new technology has on the modern e-commerce market. 
-
----
-
-With the release of cryptocurrency an unlimited set of opportunities have revealed themselves. This technology has created huge new markets. Cryptocurrency has challenged the global dollar standard, impacted the international monetary middleman, revolutionized the crowdfunding process, and impacts the stock market sending shock waves throughout the entire economy. The technology has created a conflict between centralization and decentralization that could change the entire landscape the global monetary system.
+The invention of blockchain technology has sent the e-commerce community into a frenzy. Learn about the impact this new technology has on the modern e-commerce market.
 
 8 March 2018
 
 Ryan Roe
 
 Artwork from [Peter Frölich][0]
+
+---
+
+With the release of cryptocurrency an unlimited set of opportunities have revealed themselves. This technology has created huge new markets. Cryptocurrency has challenged the global dollar standard, impacted the international monetary middleman, revolutionized the crowdfunding process, and impacts the stock market sending shock waves throughout the entire economy. The technology has created a conflict between centralization and decentralization that could change the entire landscape the global monetary system.
 
 ---
 
