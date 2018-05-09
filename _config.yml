@@ -1,4 +1,3 @@
-layout_spectrum: 0.661711178100714
 typography_spectrum: 0.13016932028788372
 color:
   brandStrength: 0.9549487419869049
@@ -12,6 +11,7 @@ color:
     - '#4D4D4D'
     - '#333333'
 github: true
+layout_spectrum: 0.661711178100714
 analytics:
   google: UA-117266865-1
 author:
@@ -38,6 +38,9 @@ navigation:
     type: content
   - name: 'Thread: Personal Development'
     id: 3d21501b-e615-4763-8efa-2695ebc8a4d1
+    type: content
+  - name: 'Thread: Network+'
+    id: a2ca3462-e557-4bf8-b86a-1564d202db7b
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/88c4f167-4f3f-43b3-a02c-e7788303d771.jpg
