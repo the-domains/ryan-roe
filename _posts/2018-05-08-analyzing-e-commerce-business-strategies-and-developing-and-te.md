@@ -6,8 +6,8 @@ description: >-
   endeavors. A very detailed mobile application business model is conceived
   according to eight key elements of an e-commerce business model. The testing
   of this business model will begin Fall 2018 and will be dubbed, FYI.
-dateModified: '2018-05-09T03:15:48.933Z'
-datePublished: '2018-05-09T03:15:52.480Z'
+dateModified: '2018-05-09T03:16:59.487Z'
+datePublished: '2018-05-09T03:17:01.961Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
@@ -27,6 +27,10 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e38ea99-4485-48d1-a724-0d84da237fe0.png)
 
 A 27 page research paper analyzing e-commerce business strategies followed by global mobile application market statistics to support application development endeavors. A very detailed mobile application business model is conceived according to eight key elements of an e-commerce business model. The testing of this business model will begin Fall 2018 and will be dubbed, FYI.
+
+April 2, 2018
+
+Ryan Roe
 
 ---
 
