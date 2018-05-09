@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Image: An Internet Mapping from The Institute of Electrical and Electronics
   Engineers’ The Opte Project
-dateModified: '2018-05-09T06:27:44.466Z'
-datePublished: '2018-05-09T06:27:44.904Z'
+dateModified: '2018-05-09T06:29:39.237Z'
+datePublished: '2018-05-09T06:29:39.887Z'
 title: 'Thread: Network+'
 author: []
 publisher: {}
@@ -22,9 +22,15 @@ _type: Article
 
 Image: An Internet Mapping from The Institute of Electrical and Electronics Engineers' The Opte Project
 
+This thread is my collection of notes on the various topics involved with a CompTIA Network+ Certification.
+
+May 8, 2018
+
+Ryan Roe
+
 ---
 
-This thread is my collection of notes on the various topics required to study for acquiring a CompTIA Network+ Certification. The information comes from Mike Meyers's The Total Course from total Seminars.
+. The information comes from Mike Meyers's The Total Course from total Seminars.
 
 * Network Models
 * Cabling
@@ -43,10 +49,6 @@ This thread is my collection of notes on the various topics required to study fo
 * Virtualization and Cloud Computing
 * Building a Real-World Network
 * Managing Risk
-* protecting Your Netowrk
+* Protecting Your Network
 * Network Monitoring
 * Network Troubleshooting
-
-May 8, 2018
-
-Ryan Roe
