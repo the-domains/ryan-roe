@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Image: An Internet Mapping from The Institute of Electrical and Electronics
   Engineers’ The Opte Project
-dateModified: '2018-05-09T06:22:37.459Z'
-datePublished: '2018-05-09T06:22:38.632Z'
+dateModified: '2018-05-09T06:26:31.526Z'
+datePublished: '2018-05-09T06:26:32.204Z'
 title: 'Thread: Network+'
 author: []
 publisher: {}
@@ -28,11 +28,11 @@ This thread is my collection of notes on the various topics required to study fo
 * Cabling
 * Ethernet Basics
 * Modern Ethernet
-* installing a Physical Network
+* Installing a Physical Network
 * TCP/IP Basics
 * Routing
 * TCP/IP Applications
-* Netwrok Naming
+* Network Naming
 * Securing TCP/IP
 * Advanced Networking Devices
 * IPv6
@@ -43,7 +43,7 @@ This thread is my collection of notes on the various topics required to study fo
 * Managing Risk
 * protecting Your Netowrk
 * Network Monitoring
-* Network troubleshooting
+* Network Troubleshooting
 
 May 8, 2018
 
