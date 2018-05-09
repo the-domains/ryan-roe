@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'May 9, 2018'
-dateModified: '2018-05-09T20:45:47.787Z'
-datePublished: '2018-05-09T20:45:48.770Z'
+dateModified: '2018-05-09T20:48:34.294Z'
+datePublished: '2018-05-09T20:48:35.022Z'
 title: Installing OpenOffice on Linux Ubuntu Unity (Deb & Rem)
 author: []
 publisher: {}
@@ -71,6 +71,13 @@ It will (most likely) return:
 Remove this symbolic link (or any others that appeared):
 
     rm /usr/bin/soffice
+
+Make sure you have java installed and it is up to date (Java is preinstalled with Ubuntu). On the terminal:
+
+    java --version
+    sudo add-apt-repository ppa:webupd8team/java
+    sudo apt-get update
+    sudo apt-get install oracle-java8-installer
 
 ### Step 2: Download
 
