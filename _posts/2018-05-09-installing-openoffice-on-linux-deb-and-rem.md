@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'May 9, 2018'
-dateModified: '2018-05-09T20:04:43.619Z'
-datePublished: '2018-05-09T20:04:44.191Z'
+dateModified: '2018-05-09T20:05:26.868Z'
+datePublished: '2018-05-09T20:05:27.878Z'
 title: Installing OpenOffice on Linux Ubuntu Unity (Deb & Rem?)
 author: []
 publisher: {}
@@ -76,8 +76,8 @@ Remove this symbolic link (or any others that appeared):
 
 [Download your favorite Linux version of Apache OpenOffice][2] Make sure that it corresponds with your operating systems 32bit vs 64 bit architecture AND your Linux Distribution
 
-* (ubuntu, mint) is .deb because it is based from debian)
-* (.rpm files are for redhat based distr like CentOS, Fedora)
+* .deb because it is based from debian like Ubuntu, and mint 
+* .rpm files are for Redhat based distr like CentOS, Fedora
 
 [0]: https://forum.openoffice.org/en/forum/viewtopic.php?f=7&t=80923&p=404588#p404588
 [1]: https://www.openoffice.org/download/common/instructions.html#linux-preinstall
