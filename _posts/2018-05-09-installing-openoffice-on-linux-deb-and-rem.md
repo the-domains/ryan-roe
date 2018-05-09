@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: 'May 9, 2018'
-dateModified: '2018-05-09T20:44:04.077Z'
-datePublished: '2018-05-09T20:44:05.018Z'
-title: Installing OpenOffice on Linux Ubuntu Unity (Deb & Rem?)
+dateModified: '2018-05-09T20:44:17.584Z'
+datePublished: '2018-05-09T20:44:18.074Z'
+title: Installing OpenOffice on Linux Ubuntu Unity (Deb & Rem)
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ url: installing-openoffice-on-linux-ubuntu-unity-deb-and-rem/index.html
 _type: Article
 
 ---
-# Installing OpenOffice on Linux Ubuntu Unity (Deb & Rem?)
+# Installing OpenOffice on Linux Ubuntu Unity (Deb & Rem)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93b0ac92-92f3-48e6-bf6f-c51b6954fcf3.png)
 
 ## LibreOffice and Microsoft Word Files are notoriously incompatible, so installing OpenOffice on a Linux distribution is a necessary addition. This post details how to **properly **install OpenOffice on a Ubuntu Unity Desktop. Here is the error while opening up the .docx file in LibreOffice or Word:
