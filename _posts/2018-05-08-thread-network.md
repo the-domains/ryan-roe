@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Image: An Internet Mapping from The Institute of Electrical and Electronics
   Engineers’ The Opte Project
-dateModified: '2018-05-09T06:26:31.526Z'
-datePublished: '2018-05-09T06:26:32.204Z'
+dateModified: '2018-05-09T06:27:44.466Z'
+datePublished: '2018-05-09T06:27:44.904Z'
 title: 'Thread: Network+'
 author: []
 publisher: {}
@@ -21,6 +21,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2350cd8f-e14e-4783-8691-47c90d1c6c33.png)
 
 Image: An Internet Mapping from The Institute of Electrical and Electronics Engineers' The Opte Project
+
+---
 
 This thread is my collection of notes on the various topics required to study for acquiring a CompTIA Network+ Certification. The information comes from Mike Meyers's The Total Course from total Seminars.
 
