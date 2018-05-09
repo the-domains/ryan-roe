@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Thread: Network+'
-dateModified: '2018-05-09T02:53:07.597Z'
-datePublished: '2018-05-09T02:53:08.020Z'
+dateModified: '2018-05-09T03:17:50.126Z'
+datePublished: '2018-05-09T03:17:51.663Z'
 title: ''
 author: []
 publisher: {}
@@ -40,5 +40,7 @@ This thread is my collection of notes on the various topics required to study fo
 * protecting Your Netowrk
 * Network Monitoring
 * Network troubleshooting
+
+May 8, 2018
 
 Ryan Roe
