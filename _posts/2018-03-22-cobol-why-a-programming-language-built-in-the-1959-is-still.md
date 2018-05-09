@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Thread: An Introduction to Difficult Tech Concepts'
-dateModified: '2018-05-09T16:33:15.981Z'
-datePublished: '2018-05-09T16:33:19.049Z'
+dateModified: '2018-05-09T20:20:29.566Z'
+datePublished: '2018-05-09T20:20:30.274Z'
 title: 'COBOL: Why a programming language built in 1959 should still be taught.'
 author: []
 publisher: {}
