@@ -1,14 +1,8 @@
 ---
 inFeed: true
-description: >-
-  A 27 page research paper analyzing e-commerce business strategies followed by
-  global mobile application market statistics to support application development
-  endeavors. Following, a very detailed mobile application business model is
-  conceived according to eight key elements of an e-commerce business model. The
-  resulting strategy will be released for testing beginning Fall 2018, dubbed
-  FYI.
-dateModified: '2018-05-09T16:33:15.981Z'
-datePublished: '2018-05-09T16:33:19.016Z'
+description: 'April 2, 2018'
+dateModified: '2018-05-09T19:30:15.552Z'
+datePublished: '2018-05-09T19:30:16.983Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
@@ -27,7 +21,7 @@ _type: Article
 # Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile Application E-Commerce Business Model
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e38ea99-4485-48d1-a724-0d84da237fe0.png)
 
-A 27 page research paper analyzing e-commerce business strategies followed by global mobile application market statistics to support application development endeavors. Following, a very detailed mobile application business model is conceived according to eight key elements of an e-commerce business model. The resulting strategy will be released for testing beginning Fall 2018, dubbed FYI.
+## A 27 page research paper analyzing e-commerce business strategies followed by global mobile application market statistics to support application development endeavors. Following, a very detailed mobile application business model is conceived according to eight key elements of an e-commerce business model. The resulting strategy will be released for testing beginning Fall 2018, dubbed FYI.
 
 April 2, 2018
 
