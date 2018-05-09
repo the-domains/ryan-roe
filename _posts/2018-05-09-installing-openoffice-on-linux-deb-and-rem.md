@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'May 9, 2018'
-dateModified: '2018-05-09T19:59:37.064Z'
-datePublished: '2018-05-09T19:59:37.645Z'
+dateModified: '2018-05-09T20:04:43.619Z'
+datePublished: '2018-05-09T20:04:44.191Z'
 title: Installing OpenOffice on Linux Ubuntu Unity (Deb & Rem?)
 author: []
 publisher: {}
@@ -52,15 +52,15 @@ So downloading Open Office allowed me to open the file, but this is no simple ta
 
 [OpenOffice Download Information][1]
 
-### **Step 1: PreInstallation**
+### Step 1: PreInstallation
 
-Completely Remove LibreOffice. This is necessary because of dependency issues that OpenOffice has. Run the following code from your home directory (open up terminal, type cd).
-
+Completely Remove LibreOffice. This is necessary because of dependency issues that OpenOffice has. Sorry, if you figure out how to keep them both, let me know. Run the following code from your home directory (open up terminal, type cd). 
+    
     sudo apt-get -f remove libreoffice-common
 
     sudo apt-get purge libreoffice*
 
-Remove any Symbolic Links to LibreOffice. Open terminal:
+Remove any Symbolic Links (sym links are like shortcuts) to LibreOffice. Open terminal:
 
     whereis soffice
 
@@ -68,7 +68,17 @@ It will (most likely) return:
     
     /usr/bin/soffice
 
+Remove this symbolic link (or any others that appeared):
 
+    rm /usr/bin/soffice
+
+### Step 2: Download
+
+[Download your favorite Linux version of Apache OpenOffice][2] Make sure that it corresponds with your operating systems 32bit vs 64 bit architecture AND your Linux Distribution
+
+* (ubuntu, mint) is .deb because it is based from debian)
+* (.rpm files are for redhat based distr like CentOS, Fedora)
 
 [0]: https://forum.openoffice.org/en/forum/viewtopic.php?f=7&t=80923&p=404588#p404588
 [1]: https://www.openoffice.org/download/common/instructions.html#linux-preinstall
+[2]: https://www.openoffice.org/download/
