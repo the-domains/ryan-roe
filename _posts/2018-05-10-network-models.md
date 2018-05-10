@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Thread: Network+'
-dateModified: '2018-05-10T04:44:42.077Z'
-datePublished: '2018-05-10T04:44:42.862Z'
+dateModified: '2018-05-10T04:58:51.958Z'
+datePublished: '2018-05-10T04:58:52.506Z'
 title: Network Models
 author: []
 publisher: {}
@@ -120,33 +120,26 @@ Default gateway
 
 ---
 
-Packets and Ports
+### Packets and Ports
 
-* Adding Port numbers to the Packet (frame)
+Adding Port numbers to the Packet (frame)
 
 * First is port to where its going to go
 * Second is Port \# of sender so it knows where it needs to be sent back
 
-* Port 80
-
-* Web page
-
 * Well-known Ports \*\*need to memorize popular reserved ports\*\*
+  * Port 80: Web page
+  * First 1024 port numbers Reserved
+  * Need to know these
+  * Can go up to 64,000
 
-* First 1024 port numbers
-
-* Reserved
-* Need to know these
-
-* Can go up to 64,000
-
-* TCP (Transmission Control Protocol)
+TCP (Transmission Control Protocol)
 
 * Connection oriented conversation between two computers to make sure the data gets to you whole complete and in order
 * Sequence Number: allows reassembly of packets
 * Acknowledgement
 
-* UDP (User Datagram Protocol)
+UDP (User Datagram Protocol)
 
 * Not connection oriented (connectionless) also not always sent in order
 
@@ -159,7 +152,7 @@ Models
 
 ---
 
-* OSI 7-Layer Model
+### OSI 7-Layer Model
 
 1. Physical: Cables
 2. Data Link: Anything that works with MAC address: NIC, switches
@@ -168,10 +161,9 @@ Models
 5. Session: Type of connection: Video? Email? File? How the connectivity works.
 6. Presentation Layer: Old, converts data into a format applications could read
 7. Applications: The smarts in the applications that make them network aware
+  * API as a definition of the smarts that are built into an application that make them network aware
 
-1. API as a definition of the smarts that are built into an application that make them network aware
-
-* TCP Model
+### TCP Model
 
 1. Network Interface layer: Physical cables, MAC, NIC (hardware except routers)
 2. Internet: Ip Addresses, Routers
@@ -183,8 +175,7 @@ Models
 OSI & TCP/IP Layer Functionality
 
 * Example of reading in Frame to data applications can use
-
-OSI LayerTCP/IP LayerSituationCheckExecution1 Physical and 2 Data Link1 Network InterfaceNIC receives ethernet frameVerify that is for me. Checks frame check sequenceStrips off mac address and stores the mac address because we may want to send frame back out3 Network Layer2 Internet LayerNow we have IP packet. Deal with IP AddressesIs IP for me? If yes..Pulls IP info off, and keeps the info to send packet back4 Transport Layer3 Transport LayerNow we have TCP segment. Could be web page or http request, or big chunksIf data is big, chop it up into chunks or reassemble using sequencing number (ex: 3/100)Take sequencing \# off. 5 Session: Connect server to client on remote system (not anymore, apps are smart), 6 Presentation: if data was received but not in right form (deprecated), 7 Application Layers: Smarts to interface to network4 Application LayerLeft with port numbers and dataLook at port numbers and determine where it goes (Ex: Port 80 for web server)Send data up to application
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/558ea1fc-8700-4adf-b4e5-93289144dd04.png)
 
 ---
 
