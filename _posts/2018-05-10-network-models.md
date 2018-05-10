@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Thread: Network+'
-dateModified: '2018-05-10T04:58:51.958Z'
-datePublished: '2018-05-10T04:58:52.506Z'
+dateModified: '2018-05-10T04:58:58.492Z'
+datePublished: '2018-05-10T04:58:59.002Z'
 title: Network Models
 author: []
 publisher: {}
@@ -175,7 +175,7 @@ Models
 OSI & TCP/IP Layer Functionality
 
 * Example of reading in Frame to data applications can use
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/558ea1fc-8700-4adf-b4e5-93289144dd04.png)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5e72ec9275d40e7d1956ffb4b8cbfb59/croprotate.png?cropheight=649&cropwidth=959&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F558ea1fc-8700-4adf-b4e5-93289144dd04.png&x=7&y=8)
 
 ---
 
@@ -185,3 +185,5 @@ Quiz 1:
 2. 1500 Bytes is maximum size of frame
 3. Data packets are contained within frame during transmission
 4. IP Packet is found in frame
+
+Ryan Roe
