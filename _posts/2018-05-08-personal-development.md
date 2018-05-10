@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Photo: Weronika Gesicka'
-dateModified: '2018-05-10T23:15:10.360Z'
-datePublished: '2018-05-10T23:15:10.826Z'
+dateModified: '2018-05-10T23:15:17.215Z'
+datePublished: '2018-05-10T23:15:17.649Z'
 title: 'Thread: Personal Development'
 author: []
 publisher: {}
@@ -30,8 +30,6 @@ Posts:
 * [Disable a Key on your Keyboard in Linux and MAC][1]
 
 Ryan Roe
-
-January 1, 2018
 
 [0]: http://ryanroe.io/what-is-the-grid-and-why-i-am-using-it-for-my-website
 [1]: http://ryanroe.io/disable-key-on-keyboard-in-linux
