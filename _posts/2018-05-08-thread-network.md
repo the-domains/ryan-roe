@@ -1,10 +1,16 @@
 ---
 inFeed: true
 description: >-
-  Image: An Internet Mapping from The Institute of Electrical and Electronics
-  Engineers’ The Opte Project.
-dateModified: '2018-05-10T19:24:54.839Z'
-datePublished: '2018-05-10T19:24:55.274Z'
+  Image: Partial map of the Internet based on the January 15, 2005 data found on
+  opte.org. Each line is drawn between two nodes, representing two IP addresses.
+  The length of the lines are indicative of the delay between those two nodes.
+  This graph represents less than 30% of the Class C networks reachable by the
+  data collection program in early 2005. Lines are color-coded according to
+  their corresponding RFC 1918allocation as follows: Dark blue: net, ca, us
+  Green: com, org Red: mil, gov, edu Yellow: jp, cn, tw, au, de Magenta: uk, it,
+  pl, fr Gold: br, kr, nl White: unknown
+dateModified: '2018-05-10T23:31:48.495Z'
+datePublished: '2018-05-10T23:31:49.571Z'
 title: 'Thread: Network+'
 author: []
 publisher: {}
@@ -20,7 +26,7 @@ _type: Article
 # Thread: Network+
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2350cd8f-e14e-4783-8691-47c90d1c6c33.png)
 
-Image: An Internet Mapping from The Institute of Electrical and Electronics Engineers' The Opte Project.
+Image: Partial map of the Internet based on the January 15, 2005 data found on [opte.org][0]. Each line is drawn between two nodes, representing two [IP addresses][1]. The length of the lines are indicative of the delay between those two nodes. This graph represents less than 30% of the [Class C ][2]networks reachable by the data collection program in early 2005\. Lines are color-coded according to their corresponding [RFC 1918][3]allocation as follows: Dark blue: net, ca, us Green: com, org Red: mil, gov, edu Yellow: jp, cn, tw, au, de Magenta: uk, it, pl, fr Gold: br, kr, nl White: unknown
 
 This thread is my collection of notes on the various topics involved with a CompTIA Network+ Certification.
 
@@ -32,7 +38,7 @@ This thread is my collection of notes on the various topics involved with a Comp
 
 The information comes from Mike Meyers's The Total Course from total Seminars.
 
-* [Network Models][0]
+* [Network Models][4]
 * Cabling
 * Ethernet Basics
 * Modern Ethernet
@@ -57,4 +63,8 @@ Topics without links are coming soon!
 
 Ryan Roe
 
-[0]: http://ryanroe.io/network-models
+[0]: http://www.opte.org/maps/
+[1]: https://en.wikipedia.org/wiki/IP_address "en:IP address"
+[2]: https://en.wikipedia.org/wiki/Classful_network "en:Classful network"
+[3]: https://tools.ietf.org/html/rfc1918
+[4]: http://ryanroe.io/network-models
