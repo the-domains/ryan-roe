@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Keys on keyboards will malfunction and break so they either need to be
   remapped or removed.
-dateModified: '2018-05-10T18:53:11.732Z'
-datePublished: '2018-05-10T18:53:12.289Z'
+dateModified: '2018-05-10T19:22:41.246Z'
+datePublished: '2018-05-10T19:22:41.886Z'
 title: Disable Key on Keyboard in Linux
 author: []
 publisher: {}
@@ -47,4 +47,27 @@ Open up the terminal.
 
 If you would like to learn how to remap the keys, Google it. Typing 'man xev' in terminal will get you started.
 
+This script needs to be run everytime the computer is booted up so put it in the /etc/rc.local file
+
+    cd
+    
+    cd/etc
+    
+    vi/etc/rc.local
+
+* Input the command (research how to edit in VI)
+* Then save it pressing Esc then typing ':w !sudo tee %' press enter
+  * this is a read only file so you are unable to save it
+  * Taken from [Adam Culp][0]
+  * :w = Write a file.
+  * !sudo = Call shell sudo command.
+  * tee = The output of the vi/vim write command is redirected using tee.
+  * % = Triggers the use of the current filename.
+  * Simply put, the 'tee' command is run as sudo and follows the vi/vim command on the current filename given. 
+
+* [Link to create startup, shutdown scripts][1]
+
 Ryan Roe
+
+[0]: http://www.geekyboy.com/archives/629
+[1]: https://ccm.net/faq/3348-execute-a-script-at-startup-and-shutdown-on-ubuntu
