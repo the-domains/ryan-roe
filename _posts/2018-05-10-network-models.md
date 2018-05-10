@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Thread: Network+'
-dateModified: '2018-05-10T04:58:58.492Z'
-datePublished: '2018-05-10T04:58:59.002Z'
+dateModified: '2018-05-10T04:59:00.894Z'
+datePublished: '2018-05-10T04:59:01.668Z'
 title: Network Models
 author: []
 publisher: {}
