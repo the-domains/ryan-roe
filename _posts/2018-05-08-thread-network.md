@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Image: An Internet Mapping from The Institute of Electrical and Electronics
   Engineers’ The Opte Project.
-dateModified: '2018-05-10T04:25:08.332Z'
-datePublished: '2018-05-10T04:25:10.935Z'
+dateModified: '2018-05-10T05:02:14.430Z'
+datePublished: '2018-05-10T05:02:15.188Z'
 title: 'Thread: Network+'
 author: []
 publisher: {}
@@ -32,7 +32,7 @@ Image: An Internet Mapping from The Institute of Electrical and Electronics Engi
 
 The information comes from Mike Meyers's The Total Course from total Seminars.
 
-* Network Models
+* [Network Models][0]
 * Cabling
 * Ethernet Basics
 * Modern Ethernet
@@ -56,3 +56,5 @@ The information comes from Mike Meyers's The Total Course from total Seminars.
 Topics without links are coming soon!
 
 Ryan Roe
+
+[0]: http://ryanroe.io/network-models
