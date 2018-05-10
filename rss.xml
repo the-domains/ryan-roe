@@ -4,9 +4,9 @@
         <description><![CDATA[Ryan Roe]]></description>
         <link>http://ryanroe.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 May 2018 23:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 May 2018 23:31:52 GMT</lastBuildDate>
         <atom:link href="http://ryanroe.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 May 2018 23:15:18 GMT</pubDate>
+        <pubDate>Thu, 10 May 2018 23:31:50 GMT</pubDate>
         <item>
             <title><![CDATA[Disable a Key on your Keyboard in Linux and MAC]]></title>
             <description><![CDATA[<h1>Disable a Key on your Keyboard in Linux and MAC</h1>,<p>Keys on keyboards will malfunction and break so their keycode needs to be remapped or removed.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08d9fb1c-83ef-4696-9fb7-dbfb9de4b4ab.png">,<p>Thread: Personal Development</p>,<p>May 10, 2018</p>,<p>Ryan Roe</p>]]></description>
@@ -23,7 +23,7 @@
         </item>
         <item>
             <title><![CDATA[Thread: Network+]]></title>
-            <description><![CDATA[<h1>Thread: Network+</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2350cd8f-e14e-4783-8691-47c90d1c6c33.png">,<p>Image: An Internet Mapping from The Institute of Electrical and Electronics Engineers’ The Opte Project.</p>,<p>This thread is my collection of notes on the various topics involved with a CompTIA Network+ Certification.</p>,<h3>May 8, 2018</h3>,<h3>Ryan Roe</h3>]]></description>
+            <description><![CDATA[<h1>Thread: Network+</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2350cd8f-e14e-4783-8691-47c90d1c6c33.png">,<p>Image: Partial map of the Internet based on the January 15, 2005 data found on <a href="http://www.opte.org/maps/">opte.org</a>. Each line is drawn between two nodes, representing two <a href="https://en.wikipedia.org/wiki/IP_address" title="en:IP address">IP addresses</a>. The length of the lines are indicative of the delay between those two nodes. This graph represents less than 30% of the <a href="https://en.wikipedia.org/wiki/Classful_network" title="en:Classful network">Class C </a>networks reachable by the data collection program in early 2005. Lines are color-coded according to their corresponding <a href="https://tools.ietf.org/html/rfc1918">RFC 1918</a>allocation as follows: Dark blue: net, ca, us Green: com, org Red: mil, gov, edu Yellow: jp, cn, tw, au, de Magenta: uk, it, pl, fr Gold: br, kr, nl White: unknown</p>,<p>This thread is my collection of notes on the various topics involved with a CompTIA Network+ Certification.</p>,<h3>May 8, 2018</h3>,<h3>Ryan Roe</h3>]]></description>
             <link>http://ryanroe.io/thread-network/index.html</link>
             <guid isPermaLink="false">a2ca3462-e557-4bf8-b86a-1564d202db7b</guid>
             <pubDate>Tue, 08 May 2018 23:27:05 GMT</pubDate>
