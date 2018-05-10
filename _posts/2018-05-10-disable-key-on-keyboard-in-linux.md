@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   Keys on keyboards will malfunction and break so they either need to be
   remapped or removed.
-dateModified: '2018-05-10T19:22:41.246Z'
-datePublished: '2018-05-10T19:22:41.886Z'
-title: Disable Key on Keyboard in Linux
+dateModified: '2018-05-10T19:24:00.769Z'
+datePublished: '2018-05-10T19:24:01.483Z'
+title: Disable a Key on Keyboard in Linux
 author: []
 publisher: {}
 via: {}
@@ -17,7 +17,7 @@ url: disable-key-on-keyboard-in-linux/index.html
 _type: Article
 
 ---
-# Disable Key on Keyboard in Linux
+# Disable a Key on Keyboard in Linux
 
 Keys on keyboards will malfunction and break so they either need to be remapped or removed.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08d9fb1c-83ef-4696-9fb7-dbfb9de4b4ab.png)
@@ -63,7 +63,7 @@ This script needs to be run everytime the computer is booted up so put it in the
   * !sudo = Call shell sudo command.
   * tee = The output of the vi/vim write command is redirected using tee.
   * % = Triggers the use of the current filename.
-  * Simply put, the 'tee' command is run as sudo and follows the vi/vim command on the current filename given. 
+  * Simply put, the 'tee' command is run as sudo and follows the vi/vim command on the current filename given.
 
 * [Link to create startup, shutdown scripts][1]
 
