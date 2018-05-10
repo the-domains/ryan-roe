@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-05-10T17:56:05.769Z'
-datePublished: '2018-05-10T17:56:08.682Z'
+dateModified: '2018-05-10T18:26:30.147Z'
+datePublished: '2018-05-10T18:26:30.708Z'
 title: Linux Administration
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-05-10-linux-administration.md
 starred: false
 datePublishedOriginal: '2018-05-10T17:56:08.682Z'
-sourcePath: _posts/2018-05-10-linux-administration.md
 url: linux-administration/index.html
 _type: Article
 
@@ -88,8 +88,8 @@ _type: Article
 
 ### Linux Kernel
 
-* Kernel Ring Buffer
-  * Ring Buffer is a data structure that is always the same size
+* Kernel Ring Buffer 
+  * Ring Buffer is a data structure that at is always the same size
   * Contains messages from the Linux kernel
   * dmesg
   * /var/log/dmesg
