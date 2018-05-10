@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: 'Thread: Network+'
-dateModified: '2018-05-10T04:30:33.322Z'
-datePublished: '2018-05-10T04:30:34.390Z'
+dateModified: '2018-05-10T04:42:14.091Z'
+datePublished: '2018-05-10T04:42:15.275Z'
 title: Network Models
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-05-10-network-models.md
 starred: false
 datePublishedOriginal: '2018-05-10T04:30:34.390Z'
-sourcePath: _posts/2018-05-10-network-models.md
 url: network-models/index.html
 _type: Article
 
@@ -18,52 +18,53 @@ _type: Article
 # Network Models
 
 Thread: Network+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e51ebd17-8481-47ad-b540-74523b01df6f.jpg)
 
 * Network Interface Card (NIC)
+  * plugged into interface computers called a hub
+  * back in time
+  * where LAN came from
 
-* plugged into interface computers called a hub
-* back in time
-* where LAN came from
-
-* Data sent in Packets aka Frames
-
-* Binary
-* Up to 1500 bytes long
-* Network Card creates the frame and shoots it out to the network or wiped by Network card
+* Data is sent in Packets aka Frames
+  * Binary
+  * Up to 1500 bytes long
+* Network Card creates the frame and shoots it out to the network or incoming data is wiped by the Network card
 
 ---
 
 * HUB is a Repeater that sends frames to every computer in the network
 
-* Media Access Control (MAC) Address is how the end computer determines if it was meant for them or not
+* Media Access Control (MAC) Address is how the end computer determines if the information is meant for them or not 
+* MACs are hard coded into every device that connects to the internet
 
-C:\\Users\\vkpatel\>ipconfigipconfig /all \*\*in order to see the MAC address\*\*
+    C:\Users\vkpatel>ipconfigipconfig /all **in order to see the MAC address**
 
 * ipconfig
-
-* ip information
-* have to type /all for MAC address
-* look for the network card that is working
-* physical address: in hexadecimal (each character represents 4 binary characters)
+  * command prompt for displaying network information
+  * ip information
+  * have to type /all for MAC address
+  * look for the network card that is working
+  * physical address: in hexadecimal (each character represents 4 binary characters)
 
 * MAC Addresses will be 48 bits.
-* broken up into 6 parts each consisting of two characters in hex
+  * broken up into 6 parts each consisting of two characters in hex
 
 * OEM (Original Equipment Manufacturer): first three parts are owned by manufacturer
 * Unique ID: it puts a different set of numbers on every network owned by the manufacturer. Every NIC has unique MAC address
 
-* Frame now consists of:
+Frame now consists of:
 
 * Data
 * Sender MAC
 * Receiver MAC
 * Cyclical Redundancy Check (CRC)
 
-* NICs use MAC addresses to determine whether they should process the frame.
+NICs use MAC addresses to determine whether they should process the frame.
 
 ---
 
-* Broadcast vs Unicast
+### Broadcast vs Unicast
+
 * Unicast situation
 
 * Addressed to single device on network
@@ -78,37 +79,44 @@ C:\\Users\\vkpatel\>ipconfigipconfig /all \*\*in order to see the MAC address\*\
 
 ---
 
-Hubs vs Switches
+### Hubs vs Switches
 
 * Hub
-
-* Repeater: computer sends frame, makes copies, then makes copies for each connected port
+  * Repeater: computer sends frame, makes copies, then makes copies for each connected port
 
 * Switch
-
-* Smart Hub: Keeps track of MAC addresses hooked to it based on ports
-* Port lined up to MAC
-* Checks destination MAC then sends it only to that computer
+  * Smart Hub: Keeps track of MAC addresses hooked to it based on ports
+  * Port lined up to MAC
+  * Checks destination MAC then sends it only to that computer
 
 ---
 
-Intro to IP Addressing
+### Intro to IP Addressing
 
-* IP Addressing is a type of Logical Addressing
+IP Addressing is a type of Logical Addressing
 
-* These are not fixed like MAC
+These are not fixed like MAC
 
-* 32.44.17.231 \*\*change: IP is more like 227.0.0.1 or 192.168.1.255
+32.44.17.231 \*\*change: IP is more like 227.0.0.1 or 192.168.1.255
 
-* First 3 numbers are assigned to every computer in the network
-* Network ID
+First 3 numbers are assigned to every computer in the network
 
-* Router
+Network ID
 
-* Usually have built in switch
-* Changes the frame to include the IP address of the computer they want to talk to
+Router
 
-* **Frames** now have:
+Usually have built in switch
+
+Changes the frame to include the IP address of the computer they want to talk to
+
+**Frames** now have:
+
+* Data
+* Source MAC
+* Destination MAC
+* CRC
+* Source IP
+* Destination IP
 
 * Data
 * Source MAC
