@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Thread: Personal Development'
-dateModified: '2018-05-10T18:50:54.737Z'
-datePublished: '2018-05-10T18:50:55.097Z'
+dateModified: '2018-05-10T18:51:06.772Z'
+datePublished: '2018-05-10T18:51:07.185Z'
 title: Disable Key on Keyboard in Linux
 author: []
 publisher: {}
@@ -43,6 +43,6 @@ Open up the terminal.
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/039e21d9-01a6-49da-8e15-fbe276c912ef.png)
 
-If you would like to learn how to remap the keys, Google it. Typing 'man xev' will get you started.
+If you would like to learn how to remap the keys, Google it. Typing 'man xev' in terminal will get you started.
 
 Ryan Roe
