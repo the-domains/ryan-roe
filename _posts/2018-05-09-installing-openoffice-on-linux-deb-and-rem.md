@@ -6,8 +6,8 @@ description: >-
   any errors. This post details how to properly install OpenOffice on a Ubuntu
   Unity Desktop. Here is a common error that appears after editing a .docx in
   LibreOffice:
-dateModified: '2018-05-10T19:24:41.936Z'
-datePublished: '2018-05-10T19:24:42.611Z'
+dateModified: '2018-05-10T19:24:43.178Z'
+datePublished: '2018-05-10T19:24:43.636Z'
 title: Installing OpenOffice on Linux Ubuntu Unity (Deb & Rem)
 author: []
 publisher: {}
