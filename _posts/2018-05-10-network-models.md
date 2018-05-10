@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Thread: Network+'
-dateModified: '2018-05-10T04:42:14.091Z'
-datePublished: '2018-05-10T04:42:15.275Z'
+dateModified: '2018-05-10T04:44:42.077Z'
+datePublished: '2018-05-10T04:44:42.862Z'
 title: Network Models
 author: []
 publisher: {}
@@ -34,7 +34,7 @@ Thread: Network+
 
 * HUB is a Repeater that sends frames to every computer in the network
 
-* Media Access Control (MAC) Address is how the end computer determines if the information is meant for them or not 
+* Media Access Control (MAC) Address is how the end computer determines if the information is meant for them or not
 * MACs are hard coded into every device that connects to the internet
 
     C:\Users\vkpatel>ipconfigipconfig /all **in order to see the MAC address**
@@ -65,13 +65,13 @@ NICs use MAC addresses to determine whether they should process the frame.
 
 ### Broadcast vs Unicast
 
-* Unicast situation
+Unicast situation
 
 * Addressed to single device on network
 * Exact MAC address matches NIC
 * Keeps return MAC just in case
 
-* Broadcast
+Broadcast
 
 * Destination MAC: all F's ex: FF-FF-FF-FF-FF-FF
 * sends the data into the computer because it does not know the MAC address and may be asking for it.
@@ -93,21 +93,14 @@ NICs use MAC addresses to determine whether they should process the frame.
 
 ### Intro to IP Addressing
 
-IP Addressing is a type of Logical Addressing
-
-These are not fixed like MAC
-
-32.44.17.231 \*\*change: IP is more like 227.0.0.1 or 192.168.1.255
-
-First 3 numbers are assigned to every computer in the network
-
-Network ID
-
-Router
-
-Usually have built in switch
-
-Changes the frame to include the IP address of the computer they want to talk to
+* IP Addressing is a type of Logical Addressing
+* These are not fixed like MAC
+  * IP is like 227.0.0.1 or 192.168.1.255
+  * First 3 numbers are assigned to every computer in the network
+* aka Network ID
+* Router
+  * Usually have built in switch
+  * Changes the frame to include the IP address of the computer they want to talk to
 
 **Frames** now have:
 
@@ -118,19 +111,11 @@ Changes the frame to include the IP address of the computer they want to talk to
 * Source IP
 * Destination IP
 
-* Data
-* Source MAC
-* Destination MAC
-* CRC
-* Source IP
-* Destination IP
+Default gateway
 
-* Default gateway
-
-* Sender attaches its MAC and Router MAC to the IP Packet (Data, source & sender IP) which strips the  MAC info and user a... routing table to put the receivers MAC address
-
+* Router is common example
+* Sender attaches its MAC and Router MAC to the IP Packet (Data, source & sender IP) which strips the MAC info and user a... routing table to put the receivers MAC address
 * Routing Table
-
 * Tells where to send data within network
 
 ---
@@ -155,7 +140,7 @@ Packets and Ports
 
 * Can go up to 64,000
 
-* TCP  (Transmission Control Protocol)
+* TCP (Transmission Control Protocol)
 
 * Connection oriented conversation between two computers to make sure the data gets to you whole complete and in order
 * Sequence Number: allows reassembly of packets
@@ -191,7 +176,7 @@ Models
 1. Network Interface layer: Physical cables, MAC, NIC (hardware except routers)
 2. Internet: Ip Addresses, Routers
 3. Transport: Assembly, dissassembly, TCP vs UDP whatever it takes to get data from one application to the next
-4. Application:  combined 5-7 of OSI, email? ftp? looks at applications as applications: email, ftp, telnet, things with distinct port numbers
+4. Application: combined 5-7 of OSI, email? ftp? looks at applications as applications: email, ftp, telnet, things with distinct port numbers
 
 ---
 
