@@ -4,9 +4,9 @@
         <description><![CDATA[Ryan Roe]]></description>
         <link>http://ryanroe.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 May 2018 05:02:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 May 2018 05:02:19 GMT</lastBuildDate>
         <atom:link href="http://ryanroe.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 10 May 2018 05:02:16 GMT</pubDate>
+        <pubDate>Thu, 10 May 2018 05:02:17 GMT</pubDate>
         <item>
             <title><![CDATA[Installing OpenOffice on Linux Ubuntu Unity (Deb & Rem)]]></title>
             <description><![CDATA[<h1>Installing OpenOffice on Linux Ubuntu Unity (Deb &amp; Rem)</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/93b0ac92-92f3-48e6-bf6f-c51b6954fcf3.png">,<h2>LibreOffice and Microsoft Word Files are notoriously incompatible, so installing OpenOffice on a Linux distribution is a necessary addition to avoid any errors. This post details how to <strong>properly </strong>install OpenOffice on a Ubuntu Unity Desktop. Here is a common error that appears after editing a .docx in LibreOffice:</h2>,<pre><code>SAXParseException: &apos;[word/document.xml line 2]: Attribute w:themeShade redefined &apos;, Stream &apos;word/document.xml&apos;, Line 2, Column 73125(row,col).</code></pre>,<p>May 9, 2018</p>,<p>Ryan Roe</p>]]></description>
