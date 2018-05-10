@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: 'Thread: Network+'
-dateModified: '2018-05-10T04:59:00.894Z'
-datePublished: '2018-05-10T04:59:01.668Z'
+dateModified: '2018-05-10T04:59:15.138Z'
+datePublished: '2018-05-10T04:59:15.753Z'
 title: Network Models
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ sourcePath: _posts/2018-05-10-network-models.md
 starred: false
 datePublishedOriginal: '2018-05-10T04:30:34.390Z'
 url: network-models/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Network Models
