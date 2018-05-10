@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: 'Thread: Network+'
-dateModified: '2018-05-10T05:00:29.870Z'
-datePublished: '2018-05-10T05:00:30.867Z'
+dateModified: '2018-05-10T05:02:27.958Z'
+datePublished: '2018-05-10T05:02:28.571Z'
 title: Network Models
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ sourcePath: _posts/2018-05-10-network-models.md
 starred: false
 datePublishedOriginal: '2018-05-10T04:30:34.390Z'
 url: network-models/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Network Models
@@ -175,7 +175,7 @@ Models
 OSI & TCP/IP Layer Functionality
 
 * Example of reading in Frame to data applications can use
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2b78828997130813ac35589e99169063/croprotate.png?cropheight=647&cropwidth=957&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F4476bb1d64fef13f62563db1db4e192ff3020c10.png&x=1&y=1)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/284b4b48dc88ca77ca07b2232d42661c6df494a2.png)
 
 ---
 
