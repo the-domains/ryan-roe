@@ -1,10 +1,8 @@
 ---
 inFeed: true
-description: >-
-  Keys on keyboards will malfunction and break so they either need to be
-  remapped or removed.
-dateModified: '2018-05-10T18:49:36.333Z'
-datePublished: '2018-05-10T18:49:36.744Z'
+description: 'Thread: Personal Development'
+dateModified: '2018-05-10T18:50:54.737Z'
+datePublished: '2018-05-10T18:50:55.097Z'
 title: Disable Key on Keyboard in Linux
 author: []
 publisher: {}
@@ -19,14 +17,14 @@ _type: Article
 ---
 # Disable Key on Keyboard in Linux
 
-Keys on keyboards will malfunction and break so they either need to be remapped or removed.
+### Keys on keyboards will malfunction and break so they either need to be remapped or removed.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08d9fb1c-83ef-4696-9fb7-dbfb9de4b4ab.png)
 
 Thread: Personal Development
 
-May 10, 2018
+### May 10, 2018
 
-Ryan Roe
+### Ryan Roe
 
 ---
 
