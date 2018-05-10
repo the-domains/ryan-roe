@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'May 9, 2018'
-dateModified: '2018-05-10T04:19:27.382Z'
-datePublished: '2018-05-10T04:19:28.328Z'
+dateModified: '2018-05-10T18:51:34.849Z'
+datePublished: '2018-05-10T18:51:35.685Z'
 title: Installing OpenOffice on Linux Ubuntu Unity (Deb & Rem)
 author: []
 publisher: {}
