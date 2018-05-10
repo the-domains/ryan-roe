@@ -3,9 +3,9 @@ inFeed: true
 description: >-
   Keys on keyboards will malfunction and break so they either need to be
   remapped or removed.
-dateModified: '2018-05-10T19:24:13.213Z'
-datePublished: '2018-05-10T19:24:14.822Z'
-title: Disable a Key on your Keyboard in Linux
+dateModified: '2018-05-10T19:24:26.208Z'
+datePublished: '2018-05-10T19:24:26.855Z'
+title: Disable a Key on your Keyboard in Linux and MAC
 author: []
 publisher: {}
 via: {}
@@ -17,7 +17,7 @@ url: disable-key-on-keyboard-in-linux/index.html
 _type: Article
 
 ---
-# Disable a Key on your Keyboard in Linux
+# Disable a Key on your Keyboard in Linux and MAC
 
 Keys on keyboards will malfunction and break so they either need to be remapped or removed.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08d9fb1c-83ef-4696-9fb7-dbfb9de4b4ab.png)
