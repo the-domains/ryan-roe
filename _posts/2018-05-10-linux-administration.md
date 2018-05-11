@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T20:02:59.219Z'
-datePublished: '2018-05-11T20:03:01.472Z'
+dateModified: '2018-05-11T20:04:31.795Z'
+datePublished: '2018-05-11T20:04:32.737Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -995,3 +995,9 @@ Accounts have the following attributes:
   * **jobs \[%num\]** List jobs.
 * Launch background processes.
 * Kill processes
+
+### Scheduling Repeated Jobs with Cron
+
+* Cron Serice
+* Crontab format
+* Crontab command
