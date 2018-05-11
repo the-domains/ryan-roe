@@ -4,9 +4,16 @@
         <description><![CDATA[Ryan Roe]]></description>
         <link>http://ryanroe.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 May 2018 05:33:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 May 2018 05:33:58 GMT</lastBuildDate>
         <atom:link href="http://ryanroe.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 11 May 2018 05:33:38 GMT</pubDate>
+        <pubDate>Fri, 11 May 2018 05:33:53 GMT</pubDate>
+        <item>
+            <title><![CDATA[Linux Administration]]></title>
+            <description><![CDATA[<h1>Linux Administration</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9563fee-0d55-4aa6-9b62-f2cfc50f93f3.png">,<h3>What this post covers</h3>,<ul><li>Lesson 1: Linux Boot Process <strong>CHECK</strong></li><li>Lesson 2: System messages and logging <strong>CHECK</strong></li><li>Lesson 3: disk and file system management CHECK</li><li>Lesson 4: managing users and groups CHECK</li><li>Lesson 5: Linux networking concepts and applications CHECK</li><li>Lesson 6: Process and job management</li><li>Lesson 7: file and directory permission</li><li>Lesson 8: installing managing software</li><li>Lesson 9: shell scripting</li></ul>]]></description>
+            <link>http://ryanroe.io/linux-administration/index.html</link>
+            <guid isPermaLink="false">17c77aa4-e3f0-46e6-8294-0785ff501fcf</guid>
+            <pubDate>Fri, 11 May 2018 05:33:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Disable a Key on your Keyboard in Linux and MAC]]></title>
             <description><![CDATA[<h1>Disable a Key on your Keyboard in Linux and MAC</h1>,<p>Keys on keyboards will malfunction and break so their keycode needs to be remapped or removed.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08d9fb1c-83ef-4696-9fb7-dbfb9de4b4ab.png">,<p>Thread: Personal Development</p>,<p>May 10, 2018</p>,<p>Ryan Roe</p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://ryanroe.io/what-is-the-grid-and-why-i-am-using-it-for-my-website/index.html</link>
             <guid isPermaLink="false">3e44658f-3136-4e33-85bb-c83e5859f13e</guid>
             <pubDate>Thu, 22 Mar 2018 23:57:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thread: Breaking Down Difficult Technology Concepts]]></title>
-            <description><![CDATA[<h1>Thread: Breaking Down Difficult Technology Concepts</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3a4a4e3-68e2-4031-8954-137fac227059.jpg">,<h2>Throughout my blog you will see that each post is associated with a topic or thread. This is one of them.</h2>,<p>January 1, 2018</p>,<p>Ryan Roe</p>]]></description>
-            <link>http://ryanroe.io/thread-breaking-down-difficult-technology-concepts/index.html</link>
-            <guid isPermaLink="false">1131c292-4132-458d-b195-3a4897bf7301</guid>
-            <pubDate>Thu, 22 Mar 2018 22:14:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
