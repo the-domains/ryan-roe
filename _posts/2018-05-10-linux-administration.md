@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T23:26:41.194Z'
-datePublished: '2018-05-11T23:26:42.449Z'
+dateModified: '2018-05-11T23:28:06.251Z'
+datePublished: '2018-05-11T23:28:07.205Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -1198,3 +1198,14 @@ Insert mode
 * I insert at beginning of line
 * a append after cursor
 * A end of line
+
+Line Mode
+
+* :w saves the file
+* :w! force save
+* :q quit
+* :q! force quit 
+* :wq! write and quit force
+* :x same as :wq
+
+*
