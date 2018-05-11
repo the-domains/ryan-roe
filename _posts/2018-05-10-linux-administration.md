@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T20:29:54.061Z'
-datePublished: '2018-05-11T20:29:55.227Z'
+dateModified: '2018-05-11T20:30:24.545Z'
+datePublished: '2018-05-11T20:30:25.727Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -1051,4 +1051,4 @@ Accounts have the following attributes:
 
 ---
 
-Lesson 7: Linux Permissions
+Lesson 7: Linux File and Directory Permissions
