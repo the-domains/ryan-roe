@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T23:28:06.251Z'
-datePublished: '2018-05-11T23:28:07.205Z'
+dateModified: '2018-05-11T23:32:27.479Z'
+datePublished: '2018-05-11T23:32:28.764Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -1207,5 +1207,30 @@ Line Mode
 * :q! force quit 
 * :wq! write and quit force
 * :x same as :wq
+* :n position cursor at line n
+* :$ cursor at end
+* :set nu turn on line number
+* :set nonu turn off line numbering
+* :help
 
-*
+Repeat commands
+
+* 5k = move up a line 5 time
+* 80i<text\><ESC\> = Insert <text\> 80 times
+* 80i\_<esc\> = Insert 80" "\_" characters
+
+Deleteing Text from command mode
+
+* x delete a 
+* dw delete a word
+* dd delete a line
+* D delete from the current position
+
+Changing text
+
+* r replace the current character
+* cw change the current word
+* cc change the current line
+* c$change the text from the current position to the end of the line
+* C same as c$
+* ~ reverses teh case of a character
