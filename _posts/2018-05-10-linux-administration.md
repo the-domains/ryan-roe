@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T19:40:01.778Z'
-datePublished: '2018-05-11T19:40:03.766Z'
+dateModified: '2018-05-11T20:02:59.219Z'
+datePublished: '2018-05-11T20:03:01.472Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -965,7 +965,33 @@ Accounts have the following attributes:
       * then we can look at the specific process by supplying one of the process id's
 * Foreground vs background processes.
   * **command &** start command in the background
+    * can be convenient for long processes
+    * place & at end of the command
   * **ctrl c **kill the foreground process
   * **ctrl z** suspend the foreground process
+    * stops program
+  * **bg \[%num\]** background a suspended process
+  * **fg\[%num\]** Foreground a background process.
+    * will operate on the current process if no job \# specified
+  * **jobs **list current jobs (**ps **is also helpful)
+    * you then need to type **jobs %jobnumber**
+    * then type **fg **then ctrl c
+    * current job can be refered to as **%% **or **%+**
+    * previous job can be referred to as **%-**
+    * ex: fg %2
+  * **kill** Kill a process by job number or PID.
+    * Ctrl-c
+    * kill \[-sig\] pid send a signal to a process
+      * ex: kill -15 123
+    * ex: **kill %1 **kill job 1
+    * **kill -l** display a list of signals 
+    * kill 123
+    * kill -15 123
+      * the default terminal signal is -15 so this is the same as kill 123
+    * kill -TERM 123 
+      * same
+    * **kill -9 123**
+      * for hard to kill process
+  * **jobs \[%num\]** List jobs.
 * Launch background processes.
 * Kill processes
