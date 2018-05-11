@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T20:44:08.075Z'
-datePublished: '2018-05-11T20:44:09.507Z'
+dateModified: '2018-05-11T20:51:52.735Z'
+datePublished: '2018-05-11T20:51:54.243Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -1086,7 +1086,23 @@ Accounts have the following attributes:
   * Groups are used to organize users.
   * The **groups** command displays a user's groups.
     * You can also use **id -Gn**.
-    * * Numeric / octal permissions
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a49e8e1d-c31c-40cf-ae51-907e31f262e1.png)
+
+* Permissions aka Modes
+  * **chmod **Change mode command with symbolic followed by
+    * **ugoa **User category user, group, other, al
+    * **+-= **Add, subtract, or set permissions
+    * **rwx ** Read, Write, Execute
+    * ex: chmod g+w sales.data
+    * ex: chmod u+rwx, g-x sale.data
+      * gave user rwx and took away x from group
+    * ex: chmod a=r sales.data
+      * set them all to just read
+    * ex: chmod u=rwx, g=rx, o= sales.data
+      * if = has nothing behind it they have no permissions
+
+Numeric / octal permissions
+
 * File versus directory permissions
 * Changing permissions
 * Working with groups
