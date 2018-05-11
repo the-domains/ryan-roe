@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-05-11T05:33:39.752Z'
-datePublished: '2018-05-11T05:33:40.302Z'
+dateModified: '2018-05-11T05:33:57.558Z'
+datePublished: '2018-05-11T05:33:58.530Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -200,7 +200,7 @@ He is using CentOS Linux 7 (Core)
   * _**\#dmesg | less**_
     * piping the output to a pager called less
     * number is bracket represent time in seconds since boot
-      * run _**\# dmesg -T | less**_****to see it in human readable time
+      * run _**\# dmesg -T | less**_to see it in human readable time
   * ring buffer will fill up so to see all the messages since boot
 6. _**\# cat /var/log/dmesg**_
   * run | less on this as well
@@ -284,7 +284,7 @@ List of Severities Code, Keyword, and Description
 Rsyslog
 
 * _**\#/etc/rsyslog.conf:**_
-  * Main config file 
+  * Main config file
   * _**$IncludeConfig /etc/rsyslog.d/\*.conf**_
     * Include addition config files
     * Include all conf files in that end in .conf that also exist in the rsyslog.d directory
@@ -293,7 +293,7 @@ Logging Rules
 
 * Selector field
   * FACILITY.SEVERITY
-    * format 
+    * format
   * mail.\*
     * wildcards are supported
   * mail
@@ -321,7 +321,7 @@ Example Logging Rules
 
 * _**mail.info -/var/log/mail.info**_
 * _**mail.warn -/var/log/mail.warn**_
-* _**mail.err /var/log/mail.err **_
+* _**mail.err /var/log/mail.err**_
   * notice how this one is not using a cache but the more important messages are
 
 * _**auth,authpriv.\* /var/log/auth.log**_
@@ -339,7 +339,7 @@ Logger Command
   * Options:
     * -p FACILITY.SEVERITY
       * it will default to user.notice if not specified
-    * -t TAG 
+    * -t TAG
 * ex:
   * _**$ logger -p mail.info -t mailtest "Test."**_
     * generate message with mail facilitity with severity of info
@@ -645,10 +645,10 @@ Summary
 
 * pvcreate /dev/sdb
 * vgcreate vg\_name /dev/sb \#configure vg
-* lvcreate -L 10G -n lv\_name vg\_name 
+* lvcreate -L 10G -n lv\_name vg\_name
 * mkfs -t ext4 /dev/vg\_name/lv\_name
 * lvextend -L +10G -r /dev/vg\_name/lv\_name \#extend lv
-* pvcreate /dev/sdc 
+* pvcreate /dev/sdc
 * vgextend vg\_name /dev/sdc \#add more to VG
 * lvcreate -m 1 -L 100G 0n lv\_name vg\_name \#mirror lvs
 * lvremove /dev/vg\_name/lv\_name
@@ -670,7 +670,7 @@ Summary
 * UID (user ID). This is a unique number.
 * Default group.
 * Comments.
-* Shell. 
+* Shell.
 * Home directory location.
 
 _**/etc/passwd **_file
@@ -730,20 +730,20 @@ _**/etc/passwd **_file
   * useradd\[options\]username
   * _**-c**_ "comment"
   * _**-m**_ home directory
-  * _**-s**__**/shell/path**_ the path the user's shell
+  * _**-s/shell/path**_ the path the user's shell
   * ex: useradd --c "Grant Stewart" --m --s /bin/bash grant
     * \# passwd grant
     * _**\# tail -1 /etc/passwd**_
       * grant:x:1000:1000:Grant Stewart:/home/grant:/bin/bash
     * **\# tail -1 /etc/shadow**
       * grant:$6$iDDsgsPYtR8c2Uc.:16507:0:99999:7:::
-  * _**-g **_GROUP 
+  * _**-g **_GROUP
   * _**-G**_ GROUP1,GROUPN
   * ex: \# useradd --c "Apache Web Server User" --d /opt/apache --r --s /usr/sbin/nologin apache
     * _**\# tail -1 /etc/passwd**_
     * apache:x:999:999:Apache Web Server User:/opt/apache:/usr/sbin/nologin
   * _**-d**_ specify a directory (we didnt use -m)
-  * _**--s**__**/usr/sbin/nologin apache**_ user is not allowd to login
+  * _**--s/usr/sbin/nologin apache**_ user is not allowd to login
   * _**-r**_ create a system account
   * _**-u**_ specify UID
   * ex: \# useradd --c "MySQL Server" --d /opt/mysql -u 97 --s /usr/sbin/nologin mysql
@@ -932,3 +932,4 @@ Accounts have the following attributes:
   * telnet is deprecated because of ssh
   * telent HOST\_OR\_IP PORT\_NUMBER
   * Tests for port connectivity
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae7151fb-bbdc-404b-9106-9f0daaf74b87.png)
