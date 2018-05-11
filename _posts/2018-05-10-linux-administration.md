@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T05:35:58.503Z'
-datePublished: '2018-05-11T05:35:59.271Z'
+dateModified: '2018-05-11T05:39:47.271Z'
+datePublished: '2018-05-11T05:39:48.271Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -16,7 +16,8 @@ _type: Article
 
 ---
 # Linux Administration
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9563fee-0d55-4aa6-9b62-f2cfc50f93f3.png)
+
+## Fundamental concepts of Linux server administration.
 
 Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996\.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d162116a-b12c-4000-864d-56c107afb419.png)
