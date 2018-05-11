@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T05:44:09.968Z'
-datePublished: '2018-05-11T05:44:10.636Z'
+dateModified: '2018-05-11T05:46:04.463Z'
+datePublished: '2018-05-11T05:46:06.102Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -23,7 +23,7 @@ Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996\.
 
 Screenfetch of Ubuntu logo drawn by the terminal.
 
-### The Fundamental Concepts of Linux Server Administration
+### The 
 
 * Lesson 1: Linux Boot Process **CHECK**
 * Lesson 2: System messages and logging **CHECK**
@@ -34,6 +34,8 @@ Screenfetch of Ubuntu logo drawn by the terminal.
 * Lesson 7: file and directory permission
 * Lesson 8: installing managing software
 * Lesson 9: shell scripting
+
+---
 
 ---
 
