@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Thread: An Introduction to Difficult Tech Concepts'
-dateModified: '2018-05-10T18:51:34.849Z'
-datePublished: '2018-05-10T18:51:35.737Z'
+dateModified: '2018-05-11T05:33:39.752Z'
+datePublished: '2018-05-11T05:33:40.362Z'
 title: The Importance of Cryptocurrency on E-Commerce
 author: []
 publisher: {}
