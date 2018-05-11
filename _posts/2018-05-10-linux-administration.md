@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T23:03:39.516Z'
-datePublished: '2018-05-11T23:03:41.041Z'
+dateModified: '2018-05-11T23:04:01.711Z'
+datePublished: '2018-05-11T23:04:02.933Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -1146,4 +1146,4 @@ Accounts have the following attributes:
 
 # Lesson 9a Viewing and Editing Files
 
-Differetn ways to dip
+* Different ways to display the contents of files.How to use the Nano editor
