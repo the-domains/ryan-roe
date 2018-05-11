@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T22:48:24.516Z'
-datePublished: '2018-05-11T22:48:26.268Z'
+dateModified: '2018-05-11T22:59:57.937Z'
+datePublished: '2018-05-11T22:59:59.902Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -1134,3 +1134,10 @@ Accounts have the following attributes:
   * creates a file if it doesn't exist or updates the timestamp if it does
 
 ---
+
+Lesson 8 Software Installation
+
+* Packages
+* Package managers
+* managing software for RPM based distros
+* Managing software for DEB based distros
