@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T20:53:21.642Z'
-datePublished: '2018-05-11T20:53:23.046Z'
+dateModified: '2018-05-11T21:09:04.501Z'
+datePublished: '2018-05-11T21:09:05.534Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -1104,7 +1104,20 @@ Accounts have the following attributes:
 ## Numeric / octal permissions
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62a42e43-d916-4cd3-b050-8d1e06dd0ed1.png)
 
+* Commonly Used Permissions
+  * Symbolic Octal
+  * -rwx------ 700 only owner has rwx
+  * -rwxr-xr-x 755 everyone on the system can x but only user can edit
+  * -rw-rw-r-- 664 user and group and rw but everyone else can read
+  * -rw-rw---- 660 only user and group can rw other cant read
+  * -rw-r--r-- 644 everyone can read but only user can edit
+  * avoid 777 and 666
 * File versus directory permissions
+  * Permissions on a directory can effect the files in the directory.
+  * If the file permissions look correct, start checking directory permissions.
+  * Work your way up to the root.
 * Changing permissions
 * Working with groups
+  * New files belong to your primary group
+  * the **chgrp **command changes the group
 * File creation mask
