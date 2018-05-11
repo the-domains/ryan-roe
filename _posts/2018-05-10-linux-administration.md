@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T20:30:28.691Z'
-datePublished: '2018-05-11T20:30:29.724Z'
+dateModified: '2018-05-11T20:31:24.709Z'
+datePublished: '2018-05-11T20:31:26.188Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -32,7 +32,7 @@ Screenfetch of Ubuntu logo drawn by the terminal.
 * Lesson 3: disk and file system management **CHECK**
 * Lesson 4: managing users and groups **CHECK**
 * Lesson 5: Linux networking concepts and applications **CHECK**
-* Lesson 6: Process and job management CHECK
+* Lesson 6: Process and job management **CHECK**
 * Lesson 7: file and directory permission
 * Lesson 8: installing managing software
 * Lesson 9: shell scripting
@@ -951,7 +951,7 @@ Accounts have the following attributes:
   * _**ps **Display process status_
     * **-e** all the process
     * **-f** full format
-    * **-u****username** display usernames processes
+    * **-uusername** display usernames processes
     * **-p pid** display information about specific process information number
   * **ps -ef** display all processes in full
   * **ps -eH** display a process tree
@@ -984,11 +984,11 @@ Accounts have the following attributes:
     * kill \[-sig\] pid send a signal to a process
       * ex: kill -15 123
     * ex: **kill %1 **kill job 1
-    * **kill -l** display a list of signals 
+    * **kill -l** display a list of signals
     * kill 123
     * kill -15 123
       * the default terminal signal is -15 so this is the same as kill 123
-    * kill -TERM 123 
+    * kill -TERM 123
       * same
     * **kill -9 123**
       * for hard to kill process
@@ -1003,12 +1003,12 @@ Accounts have the following attributes:
   * **crontab** - A program to create, read, update, and delete your job schedules.
   * Use cron to schedule and automate tasks.
 * Crontab format
-  * crontable is a config file that keeps 
+  * crontable is a config file that keeps
     * when to run
     * what to run
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4a35284-cfcc-4745-a48f-467925103cb2.png)
 
-* ex: \# Run every Monday at 07:00\. 
+* ex: \# Run every Monday at 07:00\.
   * 0 7 \* \* 1 /opt/sales/bin/weekly-report
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf7de42e-e34a-48fe-b858-b6602aae3b51.png)
 
@@ -1051,4 +1051,4 @@ Accounts have the following attributes:
 
 ---
 
-Lesson 7: Linux File and Directory Permissions
+# Lesson 7: Linux File and Directory Permissions
