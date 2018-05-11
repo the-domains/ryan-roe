@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T20:37:29.625Z'
-datePublished: '2018-05-11T20:37:30.943Z'
+dateModified: '2018-05-11T20:41:12.082Z'
+datePublished: '2018-05-11T20:41:13.190Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -1056,22 +1056,28 @@ Accounts have the following attributes:
 * Symbolic permissions
   * **ls -l **
   * Ex: -rw-rw-r-- 1 jason users 10400 Sep 27 08:52 sales.data
-    * The first space on the left:
-      * Symbol Type
-      * **-** Regular file
-      * **d ** Directory
-      * **l **Symbolic link
-    * Other characters:
-      * Symbol Permission
-      * **r** Read
-        * File: Allows a file to be read.
-        * Directory: Allows file names in thedirectory to be read.
-      * **w** Write
-        * File: Allows a file to modified.
-        * Directory: Allows entries to bemodified within thedirectory.
-      * **x** Execute
-        * File: Allows the execution of afile
-        * Directory: Allows access to contentsand metadata for entries
+  * The first space on the left/types of files:
+    * Symbol Type
+    * **-** Regular file
+    * **d ** Directory
+    * **l **Symbolic link
+  * Other characters/Permissions:
+    * Symbol - Permission
+    * **r** - Read
+      * File: Allows a file to be read.
+      * Directory: Allows file names in the directory to be read.
+    * **w** - Write
+      * File: Allows a file to modified.
+      * Directory: Allows entries to be modified within the directory.
+    * **x** - Execute
+      * File: Allows the execution of a file
+      * Directory: Allows access to contents and metadata for entries
+  * Permission Categories
+    * Symbol - Category
+    * u - User
+    * g - Group
+    * o - Other
+    * a - All
 * Numeric / octal permissions
 * File versus directory permissions
 * Changing permissions
