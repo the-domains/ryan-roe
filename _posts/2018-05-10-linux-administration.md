@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by  Larry Ewing in 1996.'
-dateModified: '2018-05-11T05:35:47.840Z'
-datePublished: '2018-05-11T05:35:48.775Z'
+dateModified: '2018-05-11T05:35:51.809Z'
+datePublished: '2018-05-11T05:35:52.718Z'
 title: Linux Administration
 author: []
 publisher: {}
