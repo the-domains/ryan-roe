@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Keys on keyboards will malfunction and break so their keycode needs to be
   remapped or removed.
-dateModified: '2018-05-11T05:33:39.752Z'
-datePublished: '2018-05-11T05:33:40.260Z'
+dateModified: '2018-05-11T19:02:24.721Z'
+datePublished: '2018-05-11T19:02:25.207Z'
 title: Disable a Key on your Keyboard in Linux and MAC
 author: []
 publisher: {}
@@ -67,7 +67,19 @@ This script needs to be run everytime the computer is booted up so put it in the
 
 * [Link to create startup, shutdown scripts][1]
 
+## Update May 11, 2018
+
+The xmodmap function is only a temporary remapping and will be reset to default even in the same session. A full description of what is going on here is in this Medium article, [A Simple but Comprehensive Guide to XKB for Linux][2]. Basically, to make the change persist, you need to create a new file and add the script into it.
+
+    #Open up terminal
+    cd
+    vi ~/.Xmodmap 
+      #Type i to insert text
+      xmodmap -e "keycode 86 = "
+      #ESC :wq!
+
 Ryan Roe
 
 [0]: http://www.geekyboy.com/archives/629
 [1]: https://ccm.net/faq/3348-execute-a-script-at-startup-and-shutdown-on-ubuntu
+[2]: https://medium.com/@damko/a-simple-humble-but-comprehensive-guide-to-xkb-for-linux-6f1ad5e13450
