@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T19:06:30.403Z'
-datePublished: '2018-05-11T19:06:31.423Z'
+dateModified: '2018-05-11T19:15:27.466Z'
+datePublished: '2018-05-11T19:15:29.168Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -29,9 +29,9 @@ Screenfetch of Ubuntu logo drawn by the terminal.
 
 * Lesson 1: Linux Boot Process **CHECK**
 * Lesson 2: System messages and logging **CHECK**
-* Lesson 3: disk and file system management CHECK
-* Lesson 4: managing users and groups CHECK
-* Lesson 5: Linux networking concepts and applications CHECK
+* Lesson 3: disk and file system management **CHECK**
+* Lesson 4: managing users and groups **CHECK**
+* Lesson 5: Linux networking concepts and applications **CHECK**
 * Lesson 6: Process and job management
 * Lesson 7: file and directory permission
 * Lesson 8: installing managing software
@@ -405,7 +405,7 @@ Logrotate Command
 
 ---
 
-## Lesson 3: Disk and File System Management
+# Lesson 3: Disk and File System Management
 
 In this lesson
 
@@ -566,7 +566,7 @@ Summary
 
 ---
 
-## Lesson 3b: Logical Volume Manager
+# Lesson 3b: Logical Volume Manager
 
 Why use LVM?
 
@@ -667,7 +667,7 @@ Summary
 
 ---
 
-## Lesson 4: Managing Users and Groups
+# Lesson 4: Managing Users and Groups
 
 * How to manage users and groups
 * Where user and group info lives
@@ -815,7 +815,7 @@ Accounts have the following attributes:
 
 ---
 
-## Lesson 5: Networking
+# Lesson 5: Networking
 
 * TCP/IP
   * see network+
@@ -910,7 +910,7 @@ Accounts have the following attributes:
   * Ubuntu
     * No official tool available
 
-### Network Troubleshooting
+## Network Troubleshooting
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dee4aa0-3981-4ae9-bfac-9079d6a32834.png)
 
 * ping
