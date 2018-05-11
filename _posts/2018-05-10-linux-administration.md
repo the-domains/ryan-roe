@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T20:51:52.735Z'
-datePublished: '2018-05-11T20:51:54.243Z'
+dateModified: '2018-05-11T20:53:21.642Z'
+datePublished: '2018-05-11T20:53:23.046Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -1101,7 +1101,8 @@ Accounts have the following attributes:
     * ex: chmod u=rwx, g=rx, o= sales.data
       * if = has nothing behind it they have no permissions
 
-Numeric / octal permissions
+## Numeric / octal permissions
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62a42e43-d916-4cd3-b050-8d1e06dd0ed1.png)
 
 * File versus directory permissions
 * Changing permissions
