@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T22:59:57.937Z'
-datePublished: '2018-05-11T22:59:59.902Z'
+dateModified: '2018-05-11T23:03:39.516Z'
+datePublished: '2018-05-11T23:03:41.041Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -1135,9 +1135,15 @@ Accounts have the following attributes:
 
 ---
 
-Lesson 8 Software Installation
+# Lesson 8 Software Installation
 
 * Packages
 * Package managers
 * managing software for RPM based distros
 * Managing software for DEB based distros
+
+---
+
+# Lesson 9a Viewing and Editing Files
+
+Differetn ways to dip
