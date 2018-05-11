@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T20:29:21.208Z'
-datePublished: '2018-05-11T20:29:22.482Z'
+dateModified: '2018-05-11T20:29:40.690Z'
+datePublished: '2018-05-11T20:29:42.025Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -1046,3 +1046,9 @@ Accounts have the following attributes:
     $ echo $EDITOR #checking what the editor is set to
     $ EDITOR=VI
     $ crontab -e #edit the crontab, brings you back to VI
+      
+        
+
+---
+
+Lesson 7: Linux Permissions
