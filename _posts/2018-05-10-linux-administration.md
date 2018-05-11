@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T20:04:31.795Z'
-datePublished: '2018-05-11T20:04:32.737Z'
+dateModified: '2018-05-11T20:25:45.697Z'
+datePublished: '2018-05-11T20:25:47.847Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -998,6 +998,40 @@ Accounts have the following attributes:
 
 ### Scheduling Repeated Jobs with Cron
 
-* Cron Serice
+* Cron Service
+  * **cron** - A time based job scheduling service.
+  * **crontab** - A program to create, read, update, and delete your job schedules.
+  * Use cron to schedule and automate tasks.
 * Crontab format
+  * crontable is a config file that keeps 
+    * when to run
+    * what to run
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4a35284-cfcc-4745-a48f-467925103cb2.png)
+
+* ex: \# Run every Monday at 07:00\. 
+  * 0 7 \* \* 1 /opt/sales/bin/weekly-report
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf7de42e-e34a-48fe-b858-b6602aae3b51.png)
+
+* Ex: \# Run at 02:00 every day and
+  * \# send output to a log file.
+  * 0 2 \* \* \* /root/backupdb \> /tmp/db.log 2\>&1
+    * this puts the output in /tmp/db.log2\>&1
+  * Cron job commands are directed to your local email
+    * use **mail**
+* Crontab Shortcuts
+  * @yearly 0 0 1 1 \*
+  * @annually 0 0 1 1 \*
+  * @monthly 0 0 1 \* \*
+  * @weekly 0 0 \* \* 0
+  * @daily 0 0 \* \* \*
+  * @midnight 0 0 \* \* \*
+  * @hourly 0 \* \* \* \*
 * Crontab command
+  * **crontab file** Install a new crontab from file.
+  * **crontab -l **List your cron jobs.
+  * **crontab -e** Edit your cron jobs.
+  * **crontab -r** Remove all of your cron jobs
+* Demo
+  * crontab -l
+    * no crontab for ryan
+  * vi
