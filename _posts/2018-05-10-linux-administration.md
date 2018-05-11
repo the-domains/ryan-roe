@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T20:41:12.082Z'
-datePublished: '2018-05-11T20:41:13.190Z'
+dateModified: '2018-05-11T20:44:08.075Z'
+datePublished: '2018-05-11T20:44:09.507Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -1053,32 +1053,40 @@ Accounts have the following attributes:
 
 # Lesson 7: Linux File and Directory Permissions
 
-* Symbolic permissions
-  * **ls -l **
-  * Ex: -rw-rw-r-- 1 jason users 10400 Sep 27 08:52 sales.data
-  * The first space on the left/types of files:
-    * Symbol Type
-    * **-** Regular file
-    * **d ** Directory
-    * **l **Symbolic link
-  * Other characters/Permissions:
-    * Symbol - Permission
-    * **r** - Read
-      * File: Allows a file to be read.
-      * Directory: Allows file names in the directory to be read.
-    * **w** - Write
-      * File: Allows a file to modified.
-      * Directory: Allows entries to be modified within the directory.
-    * **x** - Execute
-      * File: Allows the execution of a file
-      * Directory: Allows access to contents and metadata for entries
-  * Permission Categories
-    * Symbol - Category
-    * u - User
-    * g - Group
-    * o - Other
-    * a - All
-* Numeric / octal permissions
+## Symbolic permissions
+
+* **ls -l **
+
+* Ex: -rw-rw-r-- 1 jason users 10400 Sep 27 08:52 sales.data
+* The first space on the left/types of files:
+  * Symbol - Type
+  * **-** Regular file
+  * **d ** Directory
+  * **l **Symbolic link
+* Other characters/Permissions:
+  * Symbol - Permission
+  * **r** - Read
+    * File: Allows a file to be read.
+    * Directory: Allows file names in the directory to be read.
+  * **w** - Write
+    * File: Allows a file to modified.
+    * Directory: Allows entries to be modified within the directory.
+  * **x** - Execute
+    * File: Allows the execution of a file
+    * Directory: Allows access to contents and metadata for entries
+* Permission Categories
+  * Symbol - Category
+  * **u ** - User
+  * **g** - Group
+  * **o ** - Other
+  * **a** - All
+* Groups
+  * Every user is in at least one group.
+  * Users can belong to many groups.
+  * Groups are used to organize users.
+  * The **groups** command displays a user's groups.
+    * You can also use **id -Gn**.
+    * * Numeric / octal permissions
 * File versus directory permissions
 * Changing permissions
 * Working with groups
