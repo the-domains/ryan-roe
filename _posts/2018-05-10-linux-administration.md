@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T20:31:24.709Z'
-datePublished: '2018-05-11T20:31:26.188Z'
+dateModified: '2018-05-11T20:37:29.625Z'
+datePublished: '2018-05-11T20:37:30.943Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -1052,3 +1052,28 @@ Accounts have the following attributes:
 ---
 
 # Lesson 7: Linux File and Directory Permissions
+
+* Symbolic permissions
+  * **ls -l **
+  * Ex: -rw-rw-r-- 1 jason users 10400 Sep 27 08:52 sales.data
+    * The first space on the left:
+      * Symbol Type
+      * **-** Regular file
+      * **d ** Directory
+      * **l **Symbolic link
+    * Other characters:
+      * Symbol Permission
+      * **r** Read
+        * File: Allows a file to be read.
+        * Directory: Allows file names in thedirectory to be read.
+      * **w** Write
+        * File: Allows a file to modified.
+        * Directory: Allows entries to bemodified within thedirectory.
+      * **x** Execute
+        * File: Allows the execution of afile
+        * Directory: Allows access to contentsand metadata for entries
+* Numeric / octal permissions
+* File versus directory permissions
+* Changing permissions
+* Working with groups
+* File creation mask
