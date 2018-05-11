@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T23:32:27.479Z'
-datePublished: '2018-05-11T23:32:28.764Z'
+dateModified: '2018-05-11T23:55:53.759Z'
+datePublished: '2018-05-11T23:55:55.164Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -1194,43 +1194,103 @@ Accounts have the following attributes:
 
 Insert mode
 
-* i insert at cursor position
-* I insert at beginning of line
-* a append after cursor
-* A end of line
+* **i** insert at cursor position
+* **I** insert at beginning of line
+* **a** append after cursor
+* **A** end of line
 
 Line Mode
 
-* :w saves the file
-* :w! force save
-* :q quit
-* :q! force quit 
-* :wq! write and quit force
-* :x same as :wq
-* :n position cursor at line n
-* :$ cursor at end
-* :set nu turn on line number
-* :set nonu turn off line numbering
-* :help
+* **:w** saves the file
+* **:w!** force save
+* **:q** quit
+* **:q!** force quit 
+* **:wq!** write and quit force
+* **:x** same as :wq
+* **:n** position cursor at line n
+* **:$** cursor at end
+* **:set nu** turn on line number
+* **:set nonu** turn off line numbering
+* **:help**
+* **:tutor**
 
 Repeat commands
 
-* 5k = move up a line 5 time
-* 80i<text\><ESC\> = Insert <text\> 80 times
-* 80i\_<esc\> = Insert 80" "\_" characters
+* **5k** = move up a line 5 time
+* **80i<text\><ESC\>** = Insert <text\> 80 times
+* **80i\_<esc\>** = Insert 80" "\_" characters
 
 Deleteing Text from command mode
 
-* x delete a 
-* dw delete a word
-* dd delete a line
-* D delete from the current position
+* **x** delete a 
+* **dw** delete a word
+* **dd** delete a line
+* **D** delete from the current position
 
 Changing text
 
-* r replace the current character
-* cw change the current word
-* cc change the current line
-* c$change the text from the current position to the end of the line
-* C same as c$
-* ~ reverses teh case of a character
+* **r** replace the current character
+* **cw** change the current word
+* **cc** change the current line
+* **c$ **change the text from the current position to the end of the line
+* **C** same as c$
+* **~** reverses the case of a character
+
+### Copying and Pasting
+
+* **yy **Yank (copy) the current line
+* **y<position\> **Yank from the <position\>
+  * **yw **yank current word
+  * **y3w** yank three words
+* **p** Paste the most recent deleted or yanked text
+
+### VI Undo/Redo
+
+* **u** Undo
+* **Ctrl-R** Redo
+
+### Vi Searching
+
+* **/<pattern\>**
+* **?<pattern\>**
+
+## Emacs
+
+* emacs \[file\] Edit file.
+* C-<char\> press control while <char\>
+* M-<char\> hold down alt key (or esc)
+* M-<char\>
+
+### Emacs commands
+
+* C-h
+* C-x C-c
+* C-x C-s
+* C-h t
+* C-h k <key\>
+
+Emacs Navigation
+
+* C-p
+* C-n
+* C-b
+* C-f
+* M-f
+* M-b
+* C-a
+* C-e
+* M-<
+* M-\>
+
+Emacs Deleting Text
+
+* C-d
+* M-d
+
+Emacs Copying, Pasting, Undo
+
+\*
+
+Emacs Searching
+
+Emacs Repeating Commands
