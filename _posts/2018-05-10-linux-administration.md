@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T22:48:15.121Z'
-datePublished: '2018-05-11T22:48:16.221Z'
+dateModified: '2018-05-11T22:48:24.516Z'
+datePublished: '2018-05-11T22:48:26.268Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -33,7 +33,7 @@ Screenfetch of Ubuntu logo drawn by the terminal.
 * Lesson 4: managing users and groups **CHECK**
 * Lesson 5: Linux networking concepts and applications **CHECK**
 * Lesson 6: Process and job management **CHECK**
-* Lesson 7: file and directory permission
+* Lesson 7: file and directory permission **CHECK**
 * Lesson 8: installing managing software
 * Lesson 9: shell scripting
 
