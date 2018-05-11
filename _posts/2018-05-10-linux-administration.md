@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T21:09:04.501Z'
-datePublished: '2018-05-11T21:09:05.534Z'
+dateModified: '2018-05-11T22:48:15.121Z'
+datePublished: '2018-05-11T22:48:16.221Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -1121,3 +1121,16 @@ Accounts have the following attributes:
   * New files belong to your primary group
   * the **chgrp **command changes the group
 * File creation mask
+  * File creation mask determines default permissions.
+  * If no mask were used permissions would be:
+    * 777 for directories
+    * 666 for files
+  * **umask \[-S\] \[mode\]**
+    * Sets the file creation mask to mode, if given.Use -S to for symbolic notation
+    * Takes away permissions like subtraction
+    * Opposite of chmod
+    * Displayed in 4 character instead of 3 because of special modes
+* **touch**
+  * creates a file if it doesn't exist or updates the timestamp if it does
+
+---
