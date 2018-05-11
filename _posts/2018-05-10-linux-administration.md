@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T19:15:27.466Z'
-datePublished: '2018-05-11T19:15:29.168Z'
+dateModified: '2018-05-11T19:40:01.778Z'
+datePublished: '2018-05-11T19:40:03.766Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -942,3 +942,30 @@ Accounts have the following attributes:
   * telent HOST\_OR\_IP PORT\_NUMBER
   * Tests for port connectivity
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae7151fb-bbdc-404b-9106-9f0daaf74b87.png)
+
+---
+
+# Lesson 6 Processes and Job Control
+
+* List running processes.
+  * _**ps **Display process status_
+    * **-e** all the process
+    * **-f** full format
+    * **-u****username** display usernames processes
+    * **-p pid** display information about specific process information number
+  * **ps -ef** display all processes in full
+  * **ps -eH** display a process tree
+  * **ps -e **---forest display a process tree
+  * **pstree** display in tree format
+  * **top** interactive process viewer
+    * places the process that are using the most CPU resources at top
+  * **htop** interactive process viewer
+  * ex
+    * ps will show the few processes associated with my session
+      * then we can look at the specific process by supplying one of the process id's
+* Foreground vs background processes.
+  * **command &** start command in the background
+  * **ctrl c **kill the foreground process
+  * **ctrl z** suspend the foreground process
+* Launch background processes.
+* Kill processes
