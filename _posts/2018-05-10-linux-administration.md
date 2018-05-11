@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T20:25:45.697Z'
-datePublished: '2018-05-11T20:25:47.847Z'
+dateModified: '2018-05-11T20:29:21.208Z'
+datePublished: '2018-05-11T20:29:22.482Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -1032,6 +1032,17 @@ Accounts have the following attributes:
   * **crontab -e** Edit your cron jobs.
   * **crontab -r** Remove all of your cron jobs
 * Demo
-  * crontab -l
-    * no crontab for ryan
-  * vi
+
+    $ crontab -l
+    no crontab for ryan
+    
+    $ vi my-cron
+      #run every monday at 07:00
+      0 7 * * 1 /opt/sales/bin/weekly-report
+      #:wq
+    $ crontab my-crob
+    $ crontab -l
+    0 7 * * 1 /opt/sales/bin/weekly-report
+    $ echo $EDITOR #checking what the editor is set to
+    $ EDITOR=VI
+    $ crontab -e #edit the crontab, brings you back to VI
