@@ -9,8 +9,8 @@ description: >-
   their corresponding RFC 1918allocation as follows: Dark blue: net, ca, us
   Green: com, org Red: mil, gov, edu Yellow: jp, cn, tw, au, de Magenta: uk, it,
   pl, fr Gold: br, kr, nl White: unknown
-dateModified: '2018-05-11T19:11:18.603Z'
-datePublished: '2018-05-11T19:11:19.299Z'
+dateModified: '2018-05-11T19:11:53.485Z'
+datePublished: '2018-05-11T19:11:54.135Z'
 title: 'Thread: Network+'
 author: []
 publisher: {}
@@ -62,6 +62,12 @@ Topics without links are coming soon!
 The information comes from Mike Meyers's The Total Course from total Seminars.
 
 Ryan Roe
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9928084b-9c18-4a24-ae4c-52137875cf5f.png)
+
+2010
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d03c0075-2725-4bde-95d9-1b0a7d6c205f.png)
+
+2015
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2350cd8f-e14e-4783-8691-47c90d1c6c33.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d7cbbe6-e065-46fb-acf9-e2979d881609.gif)
 
