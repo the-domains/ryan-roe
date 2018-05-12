@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-12T01:16:45.404Z'
-datePublished: '2018-05-12T01:16:46.899Z'
+dateModified: '2018-05-12T01:39:32.888Z'
+datePublished: '2018-05-12T01:39:34.022Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -1305,3 +1305,16 @@ Emacs Repeating Commands
 ---
 
 # Lesson 9b: Shell Scripts
+
+Variable name
+
+* all uppercase and precede with $
+* ex: $ VARIABLE\_NAME="Value"
+  * no spaces before or after = sign
+  * case sensitive and all caps by convention
+* To use variable precede with $
+  * ex: echo "I like the $VARIABLE\_NAME of that coin."
+  * ex2: echo "I like the ${VARIABLE\_NAME} of that coin."
+    * the curly brace is optional unless you need to follow or precede variable with additional data
+  * ex3: MY\_SHELL = "bash"
+    * echo "I am ${bashing}ing on my keyboard."
