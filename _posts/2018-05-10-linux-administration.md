@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-12T00:21:50.350Z'
-datePublished: '2018-05-12T00:21:52.017Z'
+dateModified: '2018-05-12T00:32:27.410Z'
+datePublished: '2018-05-12T00:32:28.893Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -911,7 +911,6 @@ Accounts have the following attributes:
     * No official tool available
 
 ## Network Troubleshooting
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dee4aa0-3981-4ae9-bfac-9079d6a32834.png)
 
 * ping
   * ping HOST
@@ -1055,13 +1054,13 @@ Accounts have the following attributes:
 
 ## Symbolic permissions
 
-* **ls -l **
+* **ls -l**
 
 * Ex: -rw-rw-r-- 1 jason users 10400 Sep 27 08:52 sales.data
 * The first space on the left/types of files:
   * Symbol - Type
   * **-** Regular file
-  * **d ** Directory
+  * **d **Directory
   * **l **Symbolic link
 * Other characters/Permissions:
   * Symbol - Permission
@@ -1076,9 +1075,9 @@ Accounts have the following attributes:
     * Directory: Allows access to contents and metadata for entries
 * Permission Categories
   * Symbol - Category
-  * **u ** - User
+  * **u **- User
   * **g** - Group
-  * **o ** - Other
+  * **o **- Other
   * **a** - All
 * Groups
   * Every user is in at least one group.
@@ -1092,7 +1091,7 @@ Accounts have the following attributes:
   * **chmod **Change mode command with symbolic followed by
     * **ugoa **User category user, group, other, al
     * **+-= **Add, subtract, or set permissions
-    * **rwx ** Read, Write, Execute
+    * **rwx **Read, Write, Execute
     * ex: chmod g+w sales.data
     * ex: chmod u+rwx, g-x sale.data
       * gave user rwx and took away x from group
@@ -1170,13 +1169,13 @@ Accounts have the following attributes:
 * Not intuitive
 * Harder to learn than nano
 * Requires a time investment
-* Key mappings apply to other programs 
+* Key mappings apply to other programs
   * man, more, less, view, edit shell commands
 
-### Enter VI Editor 
+### Enter VI Editor
 
 * **vi \[file\]**
-* **vim \[file\] **vim has more features 
+* **vim \[file\] **vim has more features
   * vi improved
 * **view \[file\]** starts vim in read-only mode
 
@@ -1204,7 +1203,7 @@ Line Mode
 * **:w** saves the file
 * **:w!** force save
 * **:q** quit
-* **:q!** force quit 
+* **:q!** force quit
 * **:wq!** write and quit force
 * **:x** same as :wq
 * **:n** position cursor at line n
@@ -1222,7 +1221,7 @@ Repeat commands
 
 Deleteing Text from command mode
 
-* **x** delete a 
+* **x** delete a
 * **dw** delete a word
 * **dd** delete a line
 * **D** delete from the current position
