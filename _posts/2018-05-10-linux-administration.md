@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-11T23:55:53.759Z'
-datePublished: '2018-05-11T23:55:55.164Z'
+dateModified: '2018-05-12T00:21:50.350Z'
+datePublished: '2018-05-12T00:21:52.017Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -1263,34 +1263,41 @@ Changing text
 
 ### Emacs commands
 
-* C-h
-* C-x C-c
-* C-x C-s
-* C-h t
-* C-h k <key\>
+* C-h help
+* C-x C-c exit emacs
+* C-x C-s save file
+* C-h t built in turotial
+* C-h k <key\> describe the key
 
 Emacs Navigation
 
-* C-p
-* C-n
-* C-b
-* C-f
-* M-f
-* M-b
-* C-a
-* C-e
-* M-<
-* M-\>
+* **C-p**
+* **C-n**
+* **C-b**
+* **C-f**
+* **M-f**
+* **M-b**
+* **C-a**
+* **C-e**
+* **M-<**
+* **M-\>**
 
 Emacs Deleting Text
 
-* C-d
-* M-d
+* **C-d**
+* **M-d**
 
 Emacs Copying, Pasting, Undo
 
-\*
+* **C-k**
+* **C-y**
+* **C-x u**
 
 Emacs Searching
 
+* **C-s**
+* **C-r**
+
 Emacs Repeating Commands
+
+* **C-u N <command\>**
