@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-12T00:32:27.410Z'
-datePublished: '2018-05-12T00:32:28.893Z'
+dateModified: '2018-05-12T01:11:20.774Z'
+datePublished: '2018-05-12T01:11:22.273Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -940,7 +940,6 @@ Accounts have the following attributes:
   * telnet is deprecated because of ssh
   * telent HOST\_OR\_IP PORT\_NUMBER
   * Tests for port connectivity
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae7151fb-bbdc-404b-9106-9f0daaf74b87.png)
 
 ---
 
