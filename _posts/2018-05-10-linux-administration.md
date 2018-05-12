@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-12T01:11:20.774Z'
-datePublished: '2018-05-12T01:11:22.273Z'
+dateModified: '2018-05-12T01:13:57.587Z'
+datePublished: '2018-05-12T01:13:58.627Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -1163,6 +1163,7 @@ Accounts have the following attributes:
   * ^G = help
 
 ## VI
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/acc93623-6e77-4a89-8ec8-46004b0d7e30.pdf)
 
 * Has advanced and powerful features
 * Not intuitive
@@ -1299,3 +1300,4 @@ Emacs Searching
 Emacs Repeating Commands
 
 * **C-u N <command\>**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74181f7e-e774-4c64-8cdb-ad745ad8adbc.pdf)
