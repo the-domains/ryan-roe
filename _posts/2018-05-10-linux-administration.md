@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-12T01:13:57.587Z'
-datePublished: '2018-05-12T01:13:58.627Z'
+dateModified: '2018-05-12T01:16:45.404Z'
+datePublished: '2018-05-12T01:16:46.899Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -1254,6 +1254,7 @@ Changing text
 * **?<pattern\>**
 
 ## Emacs
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74181f7e-e774-4c64-8cdb-ad745ad8adbc.pdf)
 
 * emacs \[file\] Edit file.
 * C-<char\> press control while <char\>
@@ -1300,4 +1301,7 @@ Emacs Searching
 Emacs Repeating Commands
 
 * **C-u N <command\>**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74181f7e-e774-4c64-8cdb-ad745ad8adbc.pdf)
+
+---
+
+# Lesson 9b: Shell Scripts
