@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-15T23:21:54.878Z'
-datePublished: '2018-05-15T23:21:58.273Z'
+dateModified: '2018-05-15T23:29:25.620Z'
+datePublished: '2018-05-15T23:29:27.847Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -1327,4 +1327,50 @@ Variable name
   * -r if readable by you
   * -s true if file exists and not empty
   * -w true if file is writable by you
-  * -x true if file is executable by you
+  * -x true if file is executable by you 
+  * -z STRING true if string is empty
+  * -n STRGIN true if string is not mepty
+  * STRING1 = STRING2 true if string are not equal
+  * arg1 -eq arg2 true if arg1 is equal to arg2
+  * arg1 -new arg2 not equal
+  * -lt less than
+  * -le less than or equal to
+  * -gt greater than
+  * -ge greater than or equal to
+* if statements
+
+    if [condition-is-true]
+      then
+      	command1
+      	command 2
+      	command N
+    fi
+      
+
+    if
+      then
+      else
+    fi
+
+* elif
+  * else if \[condition\]
+* for loop
+
+    for VARIABLE_NAME in ITEM_1 ITEM_N
+    do
+      command 1
+      command 2
+      command N
+    done
+      
+    for COLOR in red green blue
+    do
+      echo "COLOR: $COLOR"
+    done
+    
+      for VARIABLE_NAME in ITEM_1 ITEM_N
+    do
+      command 1
+      command 2
+      command N
+    done
