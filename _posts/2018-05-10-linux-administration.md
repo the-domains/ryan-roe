@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-12T01:39:32.888Z'
-datePublished: '2018-05-12T01:39:34.022Z'
+dateModified: '2018-05-15T23:21:54.878Z'
+datePublished: '2018-05-15T23:21:58.273Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -1312,9 +1312,19 @@ Variable name
 * ex: $ VARIABLE\_NAME="Value"
   * no spaces before or after = sign
   * case sensitive and all caps by convention
+  * cannot start with numbers, have dashes or symbols like @
 * To use variable precede with $
   * ex: echo "I like the $VARIABLE\_NAME of that coin."
   * ex2: echo "I like the ${VARIABLE\_NAME} of that coin."
     * the curly brace is optional unless you need to follow or precede variable with additional data
   * ex3: MY\_SHELL = "bash"
     * echo "I am ${bashing}ing on my keyboard."
+* You can assign terminal output to variables
+* Brackets \[condition-to-test-for\]
+  * -d true if file is a directory
+  * -e true if file exists
+  * -f true if ifile is regular file
+  * -r if readable by you
+  * -s true if file exists and not empty
+  * -w true if file is writable by you
+  * -x true if file is executable by you
