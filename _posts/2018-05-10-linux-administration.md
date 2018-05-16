@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-16T03:23:38.606Z'
-datePublished: '2018-05-16T03:23:44.601Z'
+dateModified: '2018-05-16T03:29:48.323Z'
+datePublished: '2018-05-16T03:29:52.636Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -673,7 +673,7 @@ Summary
 * Where user and group info lives
 * How to add, delete and change users and groups
 
-### Accounts have:
+## Accounts have:
 
 * Username (or login ID).
 * UID (user ID). This is a unique number.
@@ -682,7 +682,7 @@ Summary
 * Shell.
 * Home directory location.
 
-_**/etc/passwd **_file
+## _**/etc/passwd **_file
 
 * root:x:0:0:root:/root:/bin/bash
 * The format of the /etc/passwd:
@@ -733,7 +733,7 @@ _**/etc/passwd **_file
   * root:$6$9g1IC8AYzqoZP21:16502:0:99999:7:::
   * username:encryptedpassword:\#ofdayssincejan11970sincepasschange:\#ofdaytillavailablepasschange:\#ofdaysuntilpassmustbechanged(99999meanuserdoesntneedtobechanged):\#ofdaystowarnuserpassisexp:\#ofdayspassexpireduntilcountisdisabled:\#ofdaysaccdisabled
 
-### Create an Account
+## Create an Account
 
 * _**useradd**_
   * useradd\[options\]username
@@ -787,9 +787,7 @@ _**/etc/passwd **_file
 * _**groupadd \[ options \] group\_name**_
 * _**groupmod \[options\] group\_name**_
 
-Summary
-
-●
+## Summary
 
 Account information is stored in:
 
