@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-16T13:04:54.457Z'
-datePublished: '2018-05-16T13:04:55.642Z'
+dateModified: '2018-05-16T13:25:12.926Z'
+datePublished: '2018-05-16T13:25:14.319Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -731,7 +731,7 @@ Summary
   * Could force users into a menu based access that only allows users certain actions
 * _**/etc/shadow**_
   * root:$6$9g1IC8AYzqoZP21:16502:0:99999:7:::
-  * username:encryptedpassword:\#ofdayssincejan11970sincepasschange:\#ofdaytillavailablepasschange:\#ofdaysuntilpassmustbechanged(99999meanuserdoesntneedtobechanged):\#ofdaystowarnuserpassisexp:\#ofdayspassexpireduntilcountisdisabled:\#ofdaysaccdisabled
+  * username:encryptedpassword:\#ofdayssincejan11970:sincepasschange:\#ofdaytillavailablepasschange:\#ofdaysuntilpassmustbechanged(99999meanuserdoesntneedtobechanged):\#ofdaystowarnuserpassisexp:\#ofdayspassexpireduntilcountisdisabled:\#ofdaysaccdisabled
 
 ## Create an Account
 
