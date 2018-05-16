@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-16T03:29:48.323Z'
-datePublished: '2018-05-16T03:29:52.636Z'
+dateModified: '2018-05-16T13:04:54.457Z'
+datePublished: '2018-05-16T13:04:55.642Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -892,7 +892,7 @@ Accounts have the following attributes:
   * ifconfig -a _or_ ip link
   * /etc/network/interfaces to assign a static ip
 * Static IP addresses
-  * Manually assigning an IP adress
+  * Manually assigning an IP address
   * ip address add IP\[/NETMASK\] dev NETWORK\_DEVICE
   * ip address add 10.11.12.13 dev eth0
   * ip address add 10.11.12.13/255.255.225.0 dev eth0
@@ -1036,7 +1036,7 @@ Accounts have the following attributes:
       #run every monday at 07:00
       0 7 * * 1 /opt/sales/bin/weekly-report
       #:wq
-    $ crontab my-crob
+    $ crontab my-cron
     $ crontab -l
     0 7 * * 1 /opt/sales/bin/weekly-report
     $ echo $EDITOR #checking what the editor is set to
@@ -1325,7 +1325,7 @@ Variable name
   * -r if readable by you
   * -s true if file exists and not empty
   * -w true if file is writable by you
-  * -x true if file is executable by you 
+  * -x true if file is executable by you
   * -z STRING true if string is empty
   * -n STRGIN true if string is not mepty
   * STRING1 = STRING2 true if string are not equal
