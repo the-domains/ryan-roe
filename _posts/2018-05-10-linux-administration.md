@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-05-15T23:29:25.620Z'
-datePublished: '2018-05-15T23:29:27.847Z'
+dateModified: '2018-05-16T03:23:38.606Z'
+datePublished: '2018-05-16T03:23:44.601Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -464,9 +464,9 @@ Mounting over existing data
 
 * _**mkdir /home/sarah**_
 * _**mount /dev/sdb2 /home**_
-* \* You will not be able to see /home/sarah now.
+  * You will not be able to see /home/sarah now.
 * _**umount /home**_
-* \* You can now see /home/sarah again.
+  * You can now see /home/sarah again.
 * You can Mount Points on Mount Points
 
 _**fdisk**_ (partitioning tool)
