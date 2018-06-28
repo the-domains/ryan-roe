@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   How E-commerce Benefits Small Businesses & How to Implement an E-Commerce
   Solution for a Small Business
-dateModified: '2018-06-28T06:41:53.508Z'
-datePublished: '2018-06-28T06:41:56.219Z'
+dateModified: '2018-06-28T06:41:56.061Z'
+datePublished: '2018-06-28T06:41:56.953Z'
 title: "7. \_\_\_\nWritten word of mouth\nreviews"
 author: []
 publisher:
@@ -16,7 +16,7 @@ via: {}
 isBasedOnUrl: >-
   https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&htmlfid=GBE03672USEN&attachment=GBE03672USEN.PDF
 starred: false
-datePublishedOriginal: '2018-06-28T06:41:56.219Z'
+datePublishedOriginal: '2018-06-28T06:41:56.953Z'
 sourcePath: _posts/2018-06-28-7-written-word-of-mouth-reviews.md
 _type: MediaObject
 
