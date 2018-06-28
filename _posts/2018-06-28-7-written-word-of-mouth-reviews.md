@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Photo by Riku Lu on Unsplash
-dateModified: '2018-06-28T08:13:41.113Z'
-datePublished: '2018-06-28T08:13:42.211Z'
+dateModified: '2018-06-28T08:13:57.518Z'
+datePublished: '2018-06-28T08:13:58.508Z'
 title: >-
   How E-commerce Benefits Small Businesses & How to Implement an E-Commerce
   Solution for a Small Business
@@ -177,7 +177,7 @@ Briggman, Salvador. "15 Advantages of Ecommerce For Small Businesses." Salvador 
 E.W.T. Ngai\* , F.K.T. Wat. "A Literature Review and Classification of Electronic Commerce Research." Information & Management, North-Holland, 13 Jan. 2002, www.sciencedirect.com/science/article/pii/S0378720601001070\.
 
 Figures
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e218870902ff607271fbdd24b2ad524d/croprotate.png?cropheight=735&cropwidth=898&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2da1c23e-b096-4d5a-9f93-0c2d3735f9a2.png&x=40&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7803c927c27147eecb3cb4dd5124f652fbae459a.png)
 
 Figure 1: Pearson
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ce38661-6c35-45f1-90d2-52f2e9f58f9b.png)
@@ -196,15 +196,15 @@ Figure 3: Orendorff
 Figure 4: Statista
 
 [https://www.statista.com/statistics/534123/e-commerce-share-of-retail-sales-worldwide/][14]
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ea8dcb72a4f98d62dff72f7949a945ed/croprotate.png?cropheight=783&cropwidth=897&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F45d6637f-cf1c-41b4-b095-65ee5f8997a0.png&x=34&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/41c7f7fc4610bbb444d167e427d5f921b8b82f1e.png)
 
 Figure 5:
 
 Countries with the largest B2C e-commerce markets in 2015 and 2016 (in billion U.S. dollars).
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5f09b24e12235df3669f23865cc494ef/croprotate.png?cropheight=71&amp;cropwidth=96&amp;degrees=0&amp;input=https%3A%2F%2Fcdn.statcdn.com%2FStatistic%2F270000%2F274493-blank-100.png&amp;x=2&amp;y=0" /><h1>Leading B2C e-commerce markets 2016 | Statistic</h1><p>The figure shows the size of the largest B2C e-commerce markets in 2015 with estimates regarding 2016. The source valued China's B2C e-commerce market at 766.5 billion U.S. dollars. The United States were ranked second with a 595 billion U.S. dollar e-commerce turnover during that year.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8309c1db3987fe7ff6061fce15aa1fdc7f4371f9.png" /><h1>Leading B2C e-commerce markets 2016 | Statistic</h1><p>The figure shows the size of the largest B2C e-commerce markets in 2015 with estimates regarding 2016. The source valued China's B2C e-commerce market at 766.5 billion U.S. dollars. The United States were ranked second with a 595 billion U.S. dollar e-commerce turnover during that year.</p></article>
 
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c9f4272625fbdbef276d3a0ac53d10fb/croprotate.png?cropheight=591&cropwidth=821&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1b8880a5-9de2-48c1-9234-2c6447a7646a.png&x=81&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/364f72e24c660ea325f4f28b1f1868eb81d094e0.png)
 
 Figure 6:
 
