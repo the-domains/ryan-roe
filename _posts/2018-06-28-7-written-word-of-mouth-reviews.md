@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Photo by Riku Lu on Unsplash
-dateModified: '2018-06-28T08:06:56.693Z'
-datePublished: '2018-06-28T08:06:58.141Z'
+dateModified: '2018-06-28T08:13:41.113Z'
+datePublished: '2018-06-28T08:13:42.211Z'
 title: >-
   How E-commerce Benefits Small Businesses & How to Implement an E-Commerce
   Solution for a Small Business
@@ -17,7 +17,7 @@ url: 7-written-word-of-mouth-reviews/index.html
 _type: Article
 
 ---
-# How E-commerce Benefits Small Businesses & How to Implement an E-Commerce Solution for a Small Business
+## How E-commerce Benefits Small Businesses & How to Implement an E-Commerce Solution for a Small Business
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b15e95f0017fa723454b8d9c2387e1d564f52774.jpg)
 
 Photo by [Riku Lu ][0]on [Unsplash][1]
@@ -28,24 +28,24 @@ A major trend in modern e-commerce is the rise of easily accessible e-commerce s
 
 ---
 
-## Table of Contents 
+## Table of Contents
 
-Section 1 -- Introduction with Review of Literature 
+Section 1 -- Introduction with Review of Literature
 
-Section 2 -- Research Objective and Analysis 
+Section 2 -- Research Objective and Analysis
 
 * Why Small Businesses Should Utilize E-Commerce
 * How E-Commerce Benefits Small Businesses
 
-Section 3 -- Results 
+Section 3 -- Results
 
 * How to Implement E-Commerce for a Small Business
 
-Section 4 -- Conclusion 
+Section 4 -- Conclusion
 
-Section 5 -- References 
+Section 5 -- References
 
-Section 6 -- Figures 
+Section 6 -- Figures
 
 ## Section 1 -- Introduction with Review of Literature
 
@@ -186,7 +186,7 @@ Figure 2: Statista
 
 Retail e-commerce sales worldwide from 2014 to 2021 (in billion U.S. dollars)
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/af7ee2a3e9114c204f1a77f9b1b2eddc/croprotate.png?cropheight=71&amp;cropwidth=92&amp;degrees=0&amp;input=https%3A%2F%2Fcdn.statcdn.com%2FStatistic%2F530000%2F534123-blank-100.png&amp;x=4&amp;y=0" /><h1>Global e-commerce share of retail sales 2021 | Statistic</h1><p>This statistic shows retail e-commerce sales as a percent of global retail sales from 2015 to 2021. In 2017, e-retail sales accounted for 10.2 percent of all retail sales worldwide. This figure is expected to reach 17.5 percent in 2021.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d699e6a11ebe8a308b69cd3780d706445b3a2b6a.png" /><h1>Global e-commerce share of retail sales 2021 | Statistic</h1><p>This statistic shows retail e-commerce sales as a percent of global retail sales from 2015 to 2021. In 2017, e-retail sales accounted for 10.2 percent of all retail sales worldwide. This figure is expected to reach 17.5 percent in 2021.</p></article>
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7832324a-52d6-476f-830b-19f81446ef39.png)
 
@@ -209,17 +209,19 @@ Countries with the largest B2C e-commerce markets in 2015 and 2016 (in billion U
 Figure 6:
 
 [https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&htmlfid=GBE03672USEN&attachment=GBE03672USEN.PDF][15]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68bf88f6-6b4b-406b-90f5-d6d2299c1d43.png)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e8184e0759797578b6c4037e169558ca/croprotate.png?cropheight=687&cropwidth=872&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F68bf88f6-6b4b-406b-90f5-d6d2299c1d43.png&x=39&y=0)
 
 Figure 7:
 
 <article style=""><h1>Shoppers disrupted - Retailing through the noise</h1><p>Disruption in retail prompts the question: when will there be a "new normal?</p></article>
 
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/28c798ee4c4c96cb2531b460f252a03c/croprotate.png?cropheight=718&cropwidth=870&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fff726ef9-c633-4d5e-ae8a-42cbd3c223e7.png&x=33&y=0)
+
 Figure 8:
 
 <article style=""><h1>Shoppers disrupted - Retailing through the noise</h1><p>Disruption in retail prompts the question: when will there be a "new normal?</p></article>
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff726ef9-c633-4d5e-ae8a-42cbd3c223e7.png)
+
 
 [0]: https://unsplash.com/photos/dzzui_irHbg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 [1]: https://unsplash.com/search/photos/electronic-commerce?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
