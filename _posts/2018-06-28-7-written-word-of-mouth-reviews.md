@@ -1,11 +1,11 @@
 ---
 inFeed: true
-description: >-
+description: Photo by Riku Lu on Unsplash
+dateModified: '2018-06-28T08:01:45.522Z'
+datePublished: '2018-06-28T08:01:46.532Z'
+title: >-
   How E-commerce Benefits Small Businesses & How to Implement an E-Commerce
   Solution for a Small Business
-dateModified: '2018-06-28T06:52:37.218Z'
-datePublished: '2018-06-28T06:52:37.787Z'
-title: ''
 author: []
 publisher: {}
 via: {}
@@ -17,10 +17,10 @@ url: 7-written-word-of-mouth-reviews/index.html
 _type: Article
 
 ---
-How E-commerce Benefits Small Businesses & How to Implement an E-Commerce Solution for a Small Business
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/df05817e3c0d11f40cfb2eb063010d20/croprotate.jpg?cropheight=2632&cropwidth=4687&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F51668ad3-7e13-4471-a05c-548cb51b7446.jpg&x=0&y=0)
+# How E-commerce Benefits Small Businesses & How to Implement an E-Commerce Solution for a Small Business
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b15e95f0017fa723454b8d9c2387e1d564f52774.jpg)
 
-Photo by [Riku Lu][0]on[Unsplash][1]
+Photo by [Riku Lu ][0]on [Unsplash][1]
 
 A major trend in modern e-commerce is the rise of easily accessible e-commerce solutions which have greatly transformed the economic landscape. This paper begins by showing what e-commerce is and why a small business should consider implementing an e-commerce solution to keep up with the challenges of competing for a market share in the current economic climate. To follow is how the plethora of e-commerce solutions can greatly add to a business's value. Many of the different types of e-commerce solutions for small businesses are discussed to show how easily e-commerce can be added to a business. I intend to implement the strategies discussed in this research paper as a case study as I develop an e-commerce solution for a local Charleston business, Charleston Office Furniture Source.
 
@@ -28,49 +28,47 @@ A major trend in modern e-commerce is the rise of easily accessible e-commerce s
 
 ---
 
-Table of Contents 2
+## Table of Contents 
 
-Section 1 -- Introduction with Review of Literature 3
+Section 1 -- Introduction with Review of Literature 
 
-Section 2 -- Research Objective and Analysis 4
+Section 2 -- Research Objective and Analysis 
 
-Why Small Businesses Should Utilize E-Commerce
+* Why Small Businesses Should Utilize E-Commerce
+* How E-Commerce Benefits Small Businesses
 
-How E-Commerce Benefits Small Businesses
+Section 3 -- Results 
 
-Section 3 -- Results 8
+* How to Implement E-Commerce for a Small Business
 
-How to Implement E-Commerce for a Small Business
+Section 4 -- Conclusion 
 
-Section 4 -- Conclusion 10
+Section 5 -- References 
 
-Section 5 -- References 12
+Section 6 -- Figures 
 
-Section 6 -- Figures 13
-
-Section 1 -- Introduction with Review of Literature
+## Section 1 -- Introduction with Review of Literature
 
 A major trend in modern e-commerce is the rise of easily accessible e-commerce solutions which have greatly transformed the economic landscape. This paper begins by showing what e-commerce is and why a small business should consider implementing an e-commerce solution to keep up with the challenges of competing for a market share in the current economic climate. To follow is how the plethora of e-commerce solutions can greatly add to a business's value. Many of the different types of e-commerce solutions for small businesses are discussed to show how easily e-commerce can be added to a business. I intend to implement the strategies discussed in this research paper as a case study as I develop an e-commerce solution for a local Charleston business, Charleston Office Furniture Source.
 
 The description of e-commerce and many supporting points as to why e-commerce is necessary come from Pearson's _E-Commerce 2017, 13th Edition_. The definition of e-commerce is bolstered with an Elsevier Information and Management Journal article, "A Literature Review and Classification of Electronic Commerce Research" by Elizabeth Grandon. The benefits of e-commerce are supported by another article from the same journal titled, "Electronic commerce adoption: an empirical study of small and medium US businesses: benefits of e-commerce." An article titled, "Business environment and internet commerce benefit---a small business perspective" by the European Journal of Information Systems provides information supporting implementation of e-commerce in small businesses. Statista.com, BigCommerce.com, and the US Department of Commerce are used to gather statistics on the current e-commerce climate. A report by IBM published in 2015 titled, "Shoppers disrupted: Retailing through the noise" provides insight into changing shopping trends and summation of the change.
 
-Section 2 -- Research Objective and Analysis
+## Section 2 -- Research Objective and Analysis
 
 The scope of what actually defines e-commerce has grown exponentially in the past decade and there is no exhaustive definition as the topic continues to transform and grow, so I will provide multiple definitions. According to Pearson's _E-Commerce_, e-commerce is
 
 "the use of the Internet, the Web, and mobile apps and browsers running on mobile devices to transact business. More formally, digitally enabled commercial transactions between and among organizations and individual." A literature review conducted in 2002 of over 270 academic journals defines e-commerce based on four perspective (Ngai):
 
-\* From a communications perspective, EC is the delivery of information, products/services, or payments via telephone lines, computer networks, or any other means.
-
-\* From a business process perspective, EC is the application of technology toward the automation of business transactions and workflow.
-
-\* From a service perspective, EC is a tool that addresses the desire of firms, consumers, and management to cut service costs while improving the quality of goods and increasing the speed of service delivery.
-
-\* From an online perspective, EC provides the capability of buying and selling products and information on the Internet and other online services.
+* From a communications perspective, EC is the delivery of information, products/services, or payments via telephone lines, computer networks, or any other means.
+* From a business process perspective, EC is the application of technology toward the automation of business transactions and workflow.
+* From a service perspective, EC is a tool that addresses the desire of firms, consumers, and management to cut service costs while improving the quality of goods and increasing the speed of service delivery.
+* From an online perspective, EC provides the capability of buying and selling products and information on the Internet and other online services.
 
 For this paper we will use the definition from the journal by Grandon: "the process of buying and selling products or services using electronic data transmission via the Internet and the www." There are three type of E-commerce B2B, B2C, C2C. The most commonly discussed type of e-commerce and the type of e-commerce we will be addressing with the case study is business-to-consumer (B2C) e-commerce, "in which online businesses attempt to reach individual consumers. B2C e-commerce includes purchases of retail goods, travel and other types of services, and online content" (Pearson 22) The next is Business-to-business (B2B) e-commerce, where business focus on selling to other businesses. B2B is the largest form of e-commerce. Despite B2C being what first comes to mind, according to Statista, B2B has 2.3 trillion in worldwide in 2017 while B2C boasted 7.7 trillion in worldwide sales in 2017 (Orendorff, Fig 3). The final type of e-commerce, consumer-to-consumer (C2C) e-commerce, "provides a way for consumers to sell to each other, with the help of an online market maker (also called a platform provider) such as eBay or Etsy, the classifieds site Craigslist, or on-demand service companies such as Airbnb and Uber. In C2C e-commerce, the consumer prepares the product for market, places the product for auction or sale, and relies on the market maker to provide catalog, search engine, and transaction-clearing capabilities so that products can be easily displayed, discovered, and paid for" (Pearson 24).
 
 According to Pearson there are 8 unique aspects of e-commerce that make it so significant in business. These are ubiquity, global reach, universal standards, richness of information, interactivity, information density, personalization & customization, and social technology implementing user generated content and social networks. These are best shown alongside their business significance in their graphic (Table 1.2).
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57a07e2d-8884-4d66-8d02-fa3cd29050f8.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbfd958f-beb8-4037-9dd9-62118c11dae0.png)
 
 Why should a small business implement e-commerce? The statistics surrounding e-commerce are very supportive of adaptation. Global retail ecommerce Sales will reach $4.5 trillion by 2021 (Orendorff, Statista). By 2021 the e-commerce share of total global retail sales will be up to 17.5% (Statista, Fig 4). 53% of global internet users have made an online purchase in 2016 ([US Department of Commerce][2]), and 67% of Millennials prefer to shop online rather than in-store ([BigCommerce][3]) (Sleeknote). Countries with the largest B2C e-commerce markets in 2016 (in billion U.S. dollars) are China with $975 followed the US with $648.6 (Statista Fig 5). IBM sums up the growth wonderfully, "Shoppers have experienced tremendous disruption in the past four years. The explosion of online and mobile technologies, the spread of social networks, a new generation of advanced analytics -- all of these and more have combined to create an omnichannel environment that has completely transformed both the shopping experience and customer expectations. When and how will a "new normal" emerge, and what will it look like? To find out, the IBM Institute for Business Value analyzed more than 110,000 responses to global surveys from 2011-2014 to reveal how the speed and intensity of customers' changing attitudes and behaviors translate into must-haves for retailers." They found that nearly half of shoppers prefer to shop online and the perceived convenience has begun to shift from brick and mortar purchases to online purchases with 36% of shoppers in 2014 preferring online (up 23% from 2011). Trust between the players in a B2C interaction (trusted retailers) has also increased with 28% of customers being willing to share their location, 38% of shoppers being willing to share their social handles, and 42% are willing to share their mobile number.
 
@@ -78,7 +76,7 @@ It is clear that e-commerce is here to stay, but what are the benefits? E-commer
 
 The benefits and incentives are much more applicable. Starting a sales ready site is very easy to do and requires little programming knowledge. Free/low-cost services exist, but so do expensive custom options. E-commerce platforms level the playing field for small businesses against large competitors. A small business with a well-designed website can begin to compete with larger companies because of low internet marketing costs. E-commerce also facilitates very inexpensive product testing and trying new marketing tactics with quick feedback from customers. E-commerce platforms allow companies to "pivot quickly." A company can quickly change their e-commerce platform to incorporate new products and looks all the while "monitoring web traffic data and see how clients are responding" to the changes (BDC).
 
-Section 3 -- Results
+## Section 3 -- Results
 
 How should a business should implement e-commerce? The benefits a company receives from the e-commerce platform provide insight into how the company should specifically implement their unique model. Here are 15 advantages of e-commerce for small businesses taken from Salvador Briggman's blog:
 
@@ -106,11 +104,11 @@ Since a purchase of the product is happening online, the order can easily be sen
 
 When a customer comes into a physical store, it's unlikely that to have the opportunity or ability to persuade them to give their email address. However, the online world is a completely different story! The store must obtain their email address to send them an order confirmation and you can have an opt-in box which will enable you to send them future offers or marketing messages. Some examples of free/paid email marketing tools are: Mailchimp, MadMini, INinbox, Aweber, GetResponse, ConstantConatact, Infusionsoft, Drip Marketing.
 
-## 7\. Written word of mouth reviews
+7\. Written word of mouth reviews
 
 You might have raving fans in your local community, but unless those fans continually voice their appreciation of your store to new customers, you're going to have to **hope**that new customers check out your store. Online, it's easy to take advantage of customer reviews and reviews around the web to build credibility in the eyes of a potential customer.
 
-## 8\. Automated customer feedback and support
+8\. Automated customer feedback and support
 
 Every business must deal with customer feedback, questions, and issues. No customer wants to go to a physical store location and have to search a support manual, mail in a question, fill out a survey card, or talk to a customer support representative from another country.
 
