@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   How E-commerce Benefits Small Businesses & How to Implement an E-Commerce
   Solution for a Small Business
-dateModified: '2018-06-28T06:46:53.823Z'
-datePublished: '2018-06-28T06:46:54.373Z'
+dateModified: '2018-06-28T06:47:41.401Z'
+datePublished: '2018-06-28T06:47:42.337Z'
 title: ''
 author: []
 publisher: {}
@@ -21,6 +21,18 @@ How E-commerce Benefits Small Businesses & How to Implement an E-Commerce Soluti
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51668ad3-7e13-4471-a05c-548cb51b7446.jpg)
 
 Photo by[Riku Lu][0]on[Unsplash][1]
+
+A major trend in modern e-commerce is the rise of easily
+accessible e-commerce solutions which have greatly transformed the economic
+landscape. This paper begins by showing what e-commerce is and why a small
+business should consider implementing an e-commerce solution to keep up with
+the challenges of competing for a market share in the current economic climate.
+To follow is how the plethora of e-commerce solutions can greatly add to a
+business's value. Many of the different types of e-commerce solutions for small
+businesses are discussed to show how easily e-commerce can be added to a
+business. I intend to implement the strategies discussed in this research paper
+as a case study as I develop an e-commerce solution for a local Charleston
+business, Charleston Office Furniture Source.
 
 28 June 2018
 
