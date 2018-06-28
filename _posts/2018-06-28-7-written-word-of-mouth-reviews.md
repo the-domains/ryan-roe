@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   How E-commerce Benefits Small Businesses & How to Implement an E-Commerce
   Solution for a Small Business
-dateModified: '2018-06-28T06:51:33.355Z'
-datePublished: '2018-06-28T06:51:34.117Z'
+dateModified: '2018-06-28T06:52:37.218Z'
+datePublished: '2018-06-28T06:52:37.787Z'
 title: ''
 author: []
 publisher: {}
