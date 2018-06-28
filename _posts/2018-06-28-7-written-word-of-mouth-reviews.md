@@ -1,8 +1,19 @@
 ---
 inFeed: true
-description: Photo by Miguel Sousa on Unsplash
-dateModified: '2018-06-28T08:43:06.921Z'
-datePublished: '2018-06-28T08:43:07.787Z'
+description: >-
+  A major trend in modern e-commerce is the rise of easily accessible e-commerce
+  solutions which have greatly transformed the economic landscape. This paper
+  begins by showing what e-commerce is and why a small business should consider
+  implementing an e-commerce solution to keep up with the challenges of
+  competing for a market share in the current economic climate. To follow is how
+  the plethora of e-commerce solutions can greatly add to a business’s value.
+  Many of the different types of e-commerce solutions for small businesses are
+  discussed to show how easily e-commerce can be added to a business. I intend
+  to implement the strategies discussed in this research paper as a case study
+  as I develop an e-commerce solution for a local Charleston business,
+  Charleston Office Furniture Source.
+dateModified: '2018-06-28T08:45:28.463Z'
+datePublished: '2018-06-28T08:45:29.749Z'
 title: >-
   How E-commerce Benefits Small Businesses & How to Implement an E-Commerce
   Solution for a Small Business
@@ -18,9 +29,7 @@ _type: Article
 
 ---
 ## How E-commerce Benefits Small Businesses & How to Implement an E-Commerce Solution for a Small Business
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/39faa09e-2682-4eeb-8344-3243b71fab49.jpg)
-
-Photo by [Miguel Sousa ][0]on [Unsplash][1]
+![Photo by Miguel Sousa on Unsplash](https://the-grid-user-content.s3-us-west-2.amazonaws.com/39faa09e-2682-4eeb-8344-3243b71fab49.jpg)
 
 A major trend in modern e-commerce is the rise of easily accessible e-commerce solutions which have greatly transformed the economic landscape. This paper begins by showing what e-commerce is and why a small business should consider implementing an e-commerce solution to keep up with the challenges of competing for a market share in the current economic climate. To follow is how the plethora of e-commerce solutions can greatly add to a business's value. Many of the different types of e-commerce solutions for small businesses are discussed to show how easily e-commerce can be added to a business. I intend to implement the strategies discussed in this research paper as a case study as I develop an e-commerce solution for a local Charleston business, Charleston Office Furniture Source.
 
@@ -70,7 +79,7 @@ According to Pearson there are 8 unique aspects of e-commerce that make it so si
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57a07e2d-8884-4d66-8d02-fa3cd29050f8.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbfd958f-beb8-4037-9dd9-62118c11dae0.png)
 
-Why should a small business implement e-commerce? The statistics surrounding e-commerce are very supportive of adaptation. Global retail ecommerce Sales will reach $4.5 trillion by 2021 (Orendorff, Statista). By 2021 the e-commerce share of total global retail sales will be up to 17.5% (Statista, Fig 4). 53% of global internet users have made an online purchase in 2016 ([US Department of Commerce][2]), and 67% of Millennials prefer to shop online rather than in-store ([BigCommerce][3]) (Sleeknote). Countries with the largest B2C e-commerce markets in 2016 (in billion U.S. dollars) are China with $975 followed the US with $648.6 (Statista Fig 5). IBM sums up the growth wonderfully, "Shoppers have experienced tremendous disruption in the past four years. The explosion of online and mobile technologies, the spread of social networks, a new generation of advanced analytics -- all of these and more have combined to create an omnichannel environment that has completely transformed both the shopping experience and customer expectations. When and how will a "new normal" emerge, and what will it look like? To find out, the IBM Institute for Business Value analyzed more than 110,000 responses to global surveys from 2011-2014 to reveal how the speed and intensity of customers' changing attitudes and behaviors translate into must-haves for retailers." They found that nearly half of shoppers prefer to shop online and the perceived convenience has begun to shift from brick and mortar purchases to online purchases with 36% of shoppers in 2014 preferring online (up 23% from 2011). Trust between the players in a B2C interaction (trusted retailers) has also increased with 28% of customers being willing to share their location, 38% of shoppers being willing to share their social handles, and 42% are willing to share their mobile number.
+Why should a small business implement e-commerce? The statistics surrounding e-commerce are very supportive of adaptation. Global retail ecommerce Sales will reach $4.5 trillion by 2021 (Orendorff, Statista). By 2021 the e-commerce share of total global retail sales will be up to 17.5% (Statista, Fig 4). 53% of global internet users have made an online purchase in 2016 ([US Department of Commerce][0]), and 67% of Millennials prefer to shop online rather than in-store ([BigCommerce][1]) (Sleeknote). Countries with the largest B2C e-commerce markets in 2016 (in billion U.S. dollars) are China with $975 followed the US with $648.6 (Statista Fig 5). IBM sums up the growth wonderfully, "Shoppers have experienced tremendous disruption in the past four years. The explosion of online and mobile technologies, the spread of social networks, a new generation of advanced analytics -- all of these and more have combined to create an omnichannel environment that has completely transformed both the shopping experience and customer expectations. When and how will a "new normal" emerge, and what will it look like? To find out, the IBM Institute for Business Value analyzed more than 110,000 responses to global surveys from 2011-2014 to reveal how the speed and intensity of customers' changing attitudes and behaviors translate into must-haves for retailers." They found that nearly half of shoppers prefer to shop online and the perceived convenience has begun to shift from brick and mortar purchases to online purchases with 36% of shoppers in 2014 preferring online (up 23% from 2011). Trust between the players in a B2C interaction (trusted retailers) has also increased with 28% of customers being willing to share their location, 38% of shoppers being willing to share their social handles, and 42% are willing to share their mobile number.
 
 It is clear that e-commerce is here to stay, but what are the benefits? E-commerce was previously only available to large companies but now it is available to the entrepreneur and small business. It is no longer a primary interest of companies, but a necessity. Inc.com sums up the benefits by saying, "Improving a business's ecommerce and internet marketing strategy can prevent a small retailer from falling behind their competitors and provide new sources of revenue as more consumers choose to shop online" (Roesler). Another general benefit is discussed by The Information and Management Journal, "E-commerce provides many benefits to both sellers and buyers; ...by implementing and using e-commerce sellers can access narrow markets segments that are widely distributed while buyers can benefit by accessing global markets with larger product availability from a variety of sellers at reduced costs. Improvement in product quality and the creation of new methods of selling existing products are also benefits" (Grandon).
 
@@ -130,13 +139,13 @@ A storefront will have a limited amount of potential customers based upon the ge
 
 The internet allows you to: Automate. Scale, and Build a location-independent business. You can automate your marketing with social media software, email management tools, and a blogging engine. Some recommendations for promoting the platform are: building an email list, Networking Events and Communities (Meetup.com, Eventbrite.com, Linkedin Groups /Facebook Groups/Google+ Communities), Starting a blog with guest blogs, cross promoting with other sellers on the same platform, use social media to promote not to sell. Some specific tools are:
 
-§ [Buffer][4] or [Hootsuite][5] for social media scheduling and analytics
+§ [Buffer][2] or [Hootsuite][3] for social media scheduling and analytics
 
-§ [Mailchimp][6] or [Aweber][7] for email scheduling and analytics
+§ [Mailchimp][4] or [Aweber][5] for email scheduling and analytics
 
-§ [WordPress][8] for blog post scheduling
+§ [WordPress][6] for blog post scheduling
 
-§ [Google][9] and [Facebook][10] ads.
+§ [Google][7] and [Facebook][8] ads.
 
 ### 13\. Impulse purchases
 
@@ -162,15 +171,15 @@ The rise of easily accessible e-commerce solutions have revolutionized businesse
 
 ## Section 5 -- References
 
-Aaron Orendorff. "Global Ecommerce: Statistics and International Growth Trends \[Infographic\]." Enterprise Ecommerce Blog - Enterprise Business Marketing, News, Tips & More, 1 Sept. 2017, [www.shopify.com/enterprise/global-ecommerce-statistics][11].
+Aaron Orendorff. "Global Ecommerce: Statistics and International Growth Trends \[Infographic\]." Enterprise Ecommerce Blog - Enterprise Business Marketing, News, Tips & More, 1 Sept. 2017, [www.shopify.com/enterprise/global-ecommerce-statistics][9].
 
-Elizabeth E. Grandon, and J. Michael Pearson. "Electronic Commerce Adoption: an Empirical Study of Small and Medium US Businesses." Information & Management, North-Holland, 9 Apr. 2004, [www.sciencedirect.com/science/article/pii/S0378720604000205\#BIB44][12]
+Elizabeth E. Grandon, and J. Michael Pearson. "Electronic Commerce Adoption: an Empirical Study of Small and Medium US Businesses." Information & Management, North-Holland, 9 Apr. 2004, [www.sciencedirect.com/science/article/pii/S0378720604000205\#BIB44][10]
 
 Klena, Kali, et al. "Shoppers Disrupted: Retailing through the Noise." IBM: Offering Information, IBM Institute for Business Value, 1 Jan. 2015, www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&appname=GBSE\_GB\_TI\_USEN&htmlfid=GBE03643USEN&attachment=GBE03643USEN.PDF\#loaded.
 
 Laudon, Kenneth C., and Carol Guercio. Traver. E-Commerce: Business, Technology, Society. Pearson, 2018\.
 
-Roesler, Peter. "Why Small Businesses Need E-Commerce Now More Than Ever." Inc.com, Inc., 2 Feb. 2015, [www.inc.com/peter-roesler/why-small-businesses-need-ecommerce-now-more-than-ever.html][13].
+Roesler, Peter. "Why Small Businesses Need E-Commerce Now More Than Ever." Inc.com, Inc., 2 Feb. 2015, [www.inc.com/peter-roesler/why-small-businesses-need-ecommerce-now-more-than-ever.html][11].
 
 Briggman, Salvador. "15 Advantages of Ecommerce For Small Businesses." Salvador Briggman, 23 June 2015, www.salvadorbriggman.com/advantages-of-ecommerce-for-small-businesses/.
 
@@ -195,7 +204,7 @@ Figure 3: Orendorff
 
 Figure 4: Statista
 
-[https://www.statista.com/statistics/534123/e-commerce-share-of-retail-sales-worldwide/][14]
+[https://www.statista.com/statistics/534123/e-commerce-share-of-retail-sales-worldwide/][12]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/41c7f7fc4610bbb444d167e427d5f921b8b82f1e.png)
 
 Figure 5:
@@ -208,7 +217,7 @@ Countries with the largest B2C e-commerce markets in 2015 and 2016 (in billion U
 
 Figure 6:
 
-[https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&htmlfid=GBE03672USEN&attachment=GBE03672USEN.PDF][15]
+[https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&htmlfid=GBE03672USEN&attachment=GBE03672USEN.PDF][13]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3c30dd8f47548e94db594c81f6b88d2db78f63a2.png)
 
 Figure 7:
@@ -223,19 +232,17 @@ Figure 8:
 
 
 
-[0]: https://unsplash.com/photos/hUBeoOI0TmA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
-[1]: https://unsplash.com/search/photos/online-store?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
-[2]: https://www.census.gov/retail/mrts/www/data/pdf/ec_current.pdf
-[3]: https://www.bigcommerce.com/blog/ecommerce-trends/
-[4]: http://buffer.com/ "Buffer"
-[5]: http://www.shareasale.com/r.cfm?B=363460&U=822134&M=37818&urllink= "Hootsuite"
-[6]: http://www.mailchimp.com/ "Mailchimp"
-[7]: http://crowdcrux.aweber.com/ "Aweber"
-[8]: http://www.salvadorbriggman.com/how-to-make-a-wordpress-website-step-by-step/ "WordPress"
-[9]: http://www.google.com/ads/ "Google"
-[10]: https://www.facebook.com/advertising "Facebook"
-[11]: http://www.shopify.com/enterprise/global-ecommerce-statistics
-[12]: http://www.sciencedirect.com/science/article/pii/S0378720604000205#BIB44
-[13]: http://www.inc.com/peter-roesler/why-small-businesses-need-ecommerce-now-more-than-ever.html
-[14]: https://www.statista.com/statistics/534123/e-commerce-share-of-retail-sales-worldwide/
-[15]: https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&htmlfid=GBE03672USEN&attachment=GBE03672USEN.PDF
+[0]: https://www.census.gov/retail/mrts/www/data/pdf/ec_current.pdf
+[1]: https://www.bigcommerce.com/blog/ecommerce-trends/
+[2]: http://buffer.com/ "Buffer"
+[3]: http://www.shareasale.com/r.cfm?B=363460&U=822134&M=37818&urllink= "Hootsuite"
+[4]: http://www.mailchimp.com/ "Mailchimp"
+[5]: http://crowdcrux.aweber.com/ "Aweber"
+[6]: http://www.salvadorbriggman.com/how-to-make-a-wordpress-website-step-by-step/ "WordPress"
+[7]: http://www.google.com/ads/ "Google"
+[8]: https://www.facebook.com/advertising "Facebook"
+[9]: http://www.shopify.com/enterprise/global-ecommerce-statistics
+[10]: http://www.sciencedirect.com/science/article/pii/S0378720604000205#BIB44
+[11]: http://www.inc.com/peter-roesler/why-small-businesses-need-ecommerce-now-more-than-ever.html
+[12]: https://www.statista.com/statistics/534123/e-commerce-share-of-retail-sales-worldwide/
+[13]: https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&htmlfid=GBE03672USEN&attachment=GBE03672USEN.PDF
