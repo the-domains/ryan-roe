@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Photo by Riku Lu on Unsplash
-dateModified: '2018-06-28T08:01:45.522Z'
-datePublished: '2018-06-28T08:01:46.532Z'
+dateModified: '2018-06-28T08:07:09.307Z'
+datePublished: '2018-06-28T08:07:10.166Z'
 title: >-
   How E-commerce Benefits Small Businesses & How to Implement an E-Commerce
   Solution for a Small Business
@@ -80,41 +80,41 @@ The benefits and incentives are much more applicable. Starting a sales ready sit
 
 How should a business should implement e-commerce? The benefits a company receives from the e-commerce platform provide insight into how the company should specifically implement their unique model. Here are 15 advantages of e-commerce for small businesses taken from Salvador Briggman's blog:
 
-1\. Fewer costs
+### 1\. Fewer costs
 
 Without a physical storefront, setting up an e-commerce platform won't incur rental or management costs. The only costs will be the software you use to set up the online store, labor, and any money spent on marketing or advertising. Some suggestions for websites that will build the e-commerce are Shopify, BigCommerce, Volusion, Squarespace, WooCommerce, Magento, Prestashop, and OpenCart. These websites are a great starting point, but if a business becomes successful, a custom website will be the next step.
 
-2\. Visitor tracking and statistics
+### 2\. Visitor tracking and statistics
 
 Google analytics makes it extremely easy to see where people are finding the e-commerce website, which pages they are visiting, and from what region of the country they are hailing in from. Tools like Crazy Egg and MouseFlow allow the analysis of cursor movement as customers browse the web store. It would be very difficult to get these kinds of statistics regarding merchandise browsing patterns or visitor traffic with a physical store.
 
-3\. Search engine traffic
+### 3\. Search engine traffic
 
 Search engines are the holy grail of online activity. Rather than constantly pushing out marketing messages and trying to attract people to the store, a search engine will pair a customer's search queries with products and information that exists online. If it ranks well in a search engine like Google, then it will receive recurring monthly traffic that can convert into a steady flow of incoming sales. If the product is on Amazon, you can also get traffic from their search engine.
 
-4\. Social media traffic
+### 4\. Social media traffic
 
 While at one point in time, only bloggers had the ability to voice opinions and influence buying patterns of new products. Now, **everyone** has the ability to speak their mind or recommend products to their friends on Facebook, Twitter, Pinterest, LinkedIn, Instagram, and more.
 
-5\. Product inventory tracking
+### 5\. Product inventory tracking
 
 Since a purchase of the product is happening online, the order can easily be sent to the fulfillment company. Tracking where that product is in the fulfillment process as it's being shipped out to the customer is also available. One can also track how much of a product you have left in your storage unit or when you need to order more items from your wholesaler or manufacturer.
 
-6\. Customer email communication
+### 6\. Customer email communication
 
 When a customer comes into a physical store, it's unlikely that to have the opportunity or ability to persuade them to give their email address. However, the online world is a completely different story! The store must obtain their email address to send them an order confirmation and you can have an opt-in box which will enable you to send them future offers or marketing messages. Some examples of free/paid email marketing tools are: Mailchimp, MadMini, INinbox, Aweber, GetResponse, ConstantConatact, Infusionsoft, Drip Marketing.
 
-7\. Written word of mouth reviews
+### 7\. Written word of mouth reviews
 
 You might have raving fans in your local community, but unless those fans continually voice their appreciation of your store to new customers, you're going to have to **hope**that new customers check out your store. Online, it's easy to take advantage of customer reviews and reviews around the web to build credibility in the eyes of a potential customer.
 
-8\. Automated customer feedback and support
+### 8\. Automated customer feedback and support
 
 Every business must deal with customer feedback, questions, and issues. No customer wants to go to a physical store location and have to search a support manual, mail in a question, fill out a survey card, or talk to a customer support representative from another country.
 
 Ironically, many online customers are more than willing to search a online support forum, email in a question, fill out a customer survey, or take advantage of a businesses' 24-hour telephone support services, even if it means talking to someone in another country.
 
-## 9\. Labor cost advantages
+### 9\. Labor cost advantages
 
 Just because the online store is in say, Massachusetts, doesn't mean that you need to set up a warehouse in Massachusetts or hire staff there. You can hire a staff member from out of the state or even out of the country to take advantage of tax or labor costs.
 
@@ -122,11 +122,11 @@ Just because the online store is in say, Massachusetts, doesn't mean that you ne
 
 Similarly to point \#9, _**you**_ also don't need to be in Massachusetts in order to run your business. You could take a week off and be in Europe or on a beach in Malaysia, as long as you have a shipping and order fulfillment system in place.
 
-## 11\. Larger marketplace and marketing ROI
+### 11\. Larger marketplace and marketing ROI
 
 A storefront will have a limited amount of potential customers based upon the georgraphic area. Once the domain name and online storefront is running, you've now entered a world marketplace and your marketing can bring in domestic or international customers. It's true that you'll be competing on a larger scale, but the wins or rewards that you receive from having great products and a good business are magnified.
 
-12\. Automated marketing engine
+### 12\. Automated marketing engine
 
 The internet allows you to: Automate. Scale, and Build a location-independent business. You can automate your marketing with social media software, email management tools, and a blogging engine. Some recommendations for promoting the platform are: building an email list, Networking Events and Communities (Meetup.com, Eventbrite.com, Linkedin Groups /Facebook Groups/Google+ Communities), Starting a blog with guest blogs, cross promoting with other sellers on the same platform, use social media to promote not to sell. Some specific tools are:
 
@@ -138,11 +138,11 @@ The internet allows you to: Automate. Scale, and Build a location-independent bu
 
 § [Google][9] and [Facebook][10] ads.
 
-13\. Impulse purchases
+### 13\. Impulse purchases
 
 Social media is an awesome opportunity to capitalize on **customer's** free time by attracting them to your web store with cool photos and discounts or offers. They might see something they like and decide to buy it directly from their mobile phone while they are on their lunch hour!
 
-## 14\. Repeat customer and product data
+### 14\. Repeat customer and product data
 
 Similar to search engine traffic, identifying repeat customers and particularly the products they buy most frequently is the golden goose of building a long-term successful business.
 
@@ -150,17 +150,17 @@ The analytics of a web store make it very easy to see which customers are your *
 
 If you were operating out of a physical location, your POS might have some of this functionality, but it's likely that you'd have to remember who your good customers are and the items that are the most high-margin and responsibility for the majority of your store's profit.
 
-## 15\. Advertisement tracking
+### 15\. Advertisement tracking
 
 Finally, it's much easier to gauge and track the ROI of your marketing efforts through an online advertising platform like Google, Facebook, or BuySellAds. E-commerce platformsr can test messages, get click through data, and easily calculate your customer acquisition costs. It's harder to do that if you're doing a direct mail campaign, renting a banner on a freeway, or handing out flyers. You would need to make a tally of every customer that comes into your store and from which channel, which you could only do if you surveyed each one.
 
 "One of the benefits about adding ecommerce to a business strategy is that it doesn't require much more than what is already available at the brick and mortar location" (Inc.com).
 
-Section 4 -- Conclusion
+## Section 4 -- Conclusion
 
 The rise of easily accessible e-commerce solutions have revolutionized businesses and have been essential building block in creating what is known today as e-commerce. With over 10 trillion dollars in the industry, e-commerce is here to stay and only continues to grow. Implementing an e-commerce solution is no longer negotiable for businesses. Small businesses can greatly increase their value, sales, customers, revenue, and brand name through an e-commerce platform. Not to mention competing with larger companies on a global scale for part of the internet market share. Implementing an e-commerce platform and an internet marketing strategy can prevent a small retailer from falling behind their competitors and provide new sources of revenue as more consumers choose to shop online.
 
-Section 5 -- References
+## Section 5 -- References
 
 Aaron Orendorff. "Global Ecommerce: Statistics and International Growth Trends \[Infographic\]." Enterprise Ecommerce Blog - Enterprise Business Marketing, News, Tips & More, 1 Sept. 2017, [www.shopify.com/enterprise/global-ecommerce-statistics][11].
 
@@ -177,34 +177,45 @@ Briggman, Salvador. "15 Advantages of Ecommerce For Small Businesses." Salvador 
 E.W.T. Ngai\* , F.K.T. Wat. "A Literature Review and Classification of Electronic Commerce Research." Information & Management, North-Holland, 13 Jan. 2002, www.sciencedirect.com/science/article/pii/S0378720601001070\.
 
 Figures
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e218870902ff607271fbdd24b2ad524d/croprotate.png?cropheight=735&cropwidth=898&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2da1c23e-b096-4d5a-9f93-0c2d3735f9a2.png&x=40&y=0)
 
 Figure 1: Pearson
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ce38661-6c35-45f1-90d2-52f2e9f58f9b.png)
 
 Figure 2: Statista
 
 Retail e-commerce sales worldwide from 2014 to 2021 (in billion U.S. dollars)
 
-[https://www.statista.com/statistics/534123/e-commerce-share-of-retail-sales-worldwide/][14]
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/af7ee2a3e9114c204f1a77f9b1b2eddc/croprotate.png?cropheight=71&amp;cropwidth=92&amp;degrees=0&amp;input=https%3A%2F%2Fcdn.statcdn.com%2FStatistic%2F530000%2F534123-blank-100.png&amp;x=4&amp;y=0" /><h1>Global e-commerce share of retail sales 2021 | Statistic</h1><p>This statistic shows retail e-commerce sales as a percent of global retail sales from 2015 to 2021. In 2017, e-retail sales accounted for 10.2 percent of all retail sales worldwide. This figure is expected to reach 17.5 percent in 2021.</p></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7832324a-52d6-476f-830b-19f81446ef39.png)
 
 Figure 3: Orendorff
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b288eb00-901f-472a-89d0-634af253e19e.png)
 
 Figure 4: Statista
 
 [https://www.statista.com/statistics/534123/e-commerce-share-of-retail-sales-worldwide/][14]
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/ea8dcb72a4f98d62dff72f7949a945ed/croprotate.png?cropheight=783&cropwidth=897&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F45d6637f-cf1c-41b4-b095-65ee5f8997a0.png&x=34&y=0)
 
 Figure 5:
 
 Countries with the largest B2C e-commerce markets in 2015 and 2016 (in billion U.S. dollars).
 
-[https://www.statista.com/statistics/274493/worldwide-largest-e-commerce-markets-forecast/][15]
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5f09b24e12235df3669f23865cc494ef/croprotate.png?cropheight=71&amp;cropwidth=96&amp;degrees=0&amp;input=https%3A%2F%2Fcdn.statcdn.com%2FStatistic%2F270000%2F274493-blank-100.png&amp;x=2&amp;y=0" /><h1>Leading B2C e-commerce markets 2016 | Statistic</h1><p>The figure shows the size of the largest B2C e-commerce markets in 2015 with estimates regarding 2016. The source valued China's B2C e-commerce market at 766.5 billion U.S. dollars. The United States were ranked second with a 595 billion U.S. dollar e-commerce turnover during that year.</p></article>
+
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/c9f4272625fbdbef276d3a0ac53d10fb/croprotate.png?cropheight=591&cropwidth=821&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1b8880a5-9de2-48c1-9234-2c6447a7646a.png&x=81&y=0)
 
 Figure 6:
 
-[https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&htmlfid=GBE03672USEN&attachment=GBE03672USEN.PDF][16]
+[https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&htmlfid=GBE03672USEN&attachment=GBE03672USEN.PDF ][15]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68bf88f6-6b4b-406b-90f5-d6d2299c1d43.png)
 
 Figure 7:
 
-[https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&htmlfid=GBE03672USEN&attachment=GBE03672USEN.PDF][16]
+<article style=""><h1>Shoppers disrupted - Retailing through the noise</h1><p>Disruption in retail prompts the question: when will there be a "new normal?</p></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff726ef9-c633-4d5e-ae8a-42cbd3c223e7.png)
 
 Figure 8:
 
@@ -227,5 +238,4 @@ Figure 8:
 [12]: http://www.sciencedirect.com/science/article/pii/S0378720604000205#BIB44
 [13]: http://www.inc.com/peter-roesler/why-small-businesses-need-ecommerce-now-more-than-ever.html
 [14]: https://www.statista.com/statistics/534123/e-commerce-share-of-retail-sales-worldwide/
-[15]: https://www.statista.com/statistics/274493/worldwide-largest-e-commerce-markets-forecast/
-[16]: https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&htmlfid=GBE03672USEN&attachment=GBE03672USEN.PDF
+[15]: https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&htmlfid=GBE03672USEN&attachment=GBE03672USEN.PDF
