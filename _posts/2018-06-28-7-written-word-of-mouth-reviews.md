@@ -3,27 +3,28 @@ inFeed: true
 description: >-
   How E-commerce Benefits Small Businesses & How to Implement an E-Commerce
   Solution for a Small Business
-dateModified: '2018-06-28T06:41:56.061Z'
-datePublished: '2018-06-28T06:41:56.953Z'
-title: "7. \_\_\_\nWritten word of mouth\nreviews"
+dateModified: '2018-06-28T06:46:53.823Z'
+datePublished: '2018-06-28T06:46:54.373Z'
+title: ''
 author: []
-publisher:
-  url: 'https://www-01.ibm.com'
-  name: Ibm
-  favicon: 'https://www.ibm.com/favicon.ico'
-  domain: www-01.ibm.com
+publisher: {}
 via: {}
-isBasedOnUrl: >-
-  https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&htmlfid=GBE03672USEN&attachment=GBE03672USEN.PDF
+sourcePath: _posts/2018-06-28-7-written-word-of-mouth-reviews.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-06-28T06:41:56.953Z'
-sourcePath: _posts/2018-06-28-7-written-word-of-mouth-reviews.md
-_type: MediaObject
+url: 7-written-word-of-mouth-reviews/index.html
+_type: Article
 
 ---
 How E-commerce Benefits Small Businesses & How to Implement an E-Commerce Solution for a Small Business
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51668ad3-7e13-4471-a05c-548cb51b7446.jpg)
+
+Photo by[Riku Lu][0]on[Unsplash][1]
 
 28 June 2018
+
+---
 
 Table
 of Contents                                                                                                                    2
@@ -151,8 +152,8 @@ supportive of adaptation. Global retail ecommerce Sales will reach $4.5 trillion
 by 2021 (Orendorff, Statista). By 2021 the e-commerce share of total global
 retail sales will be up to 17.5% (Statista, Fig 4). 53% of global internet
 users have made an online purchase in 2016 ([US
-Department of Commerce][0]), and 67% of Millennials prefer to shop
-online rather than in-store ([BigCommerce][1])
+Department of Commerce][2]), and 67% of Millennials prefer to shop
+online rather than in-store ([BigCommerce][3])
 (Sleeknote). Countries with the largest B2C e-commerce markets in 2016 (in
 billion U.S. dollars) are China with $975 followed the US with $648.6 (Statista
 Fig 5). IBM sums up the growth wonderfully, "Shoppers have experienced
@@ -336,15 +337,15 @@ Eventbrite.com, Linkedin Groups /Facebook Groups/Google+ Communities), Starting
 a blog with guest blogs, cross promoting with other sellers on the same
 platform, use social media to promote not to sell. Some specific tools are: 
 
-§  [Buffer][2] or [Hootsuite][3] for
+§  [Buffer][4] or [Hootsuite][5] for
 social media scheduling and analytics
 
-§  [Mailchimp][4] or [Aweber][5] for email scheduling and analytics
+§  [Mailchimp][6] or [Aweber][7] for email scheduling and analytics
 
-§  [WordPress][6] for blog post
+§  [WordPress][8] for blog post
 scheduling
 
-§  [Google][7] and [Facebook][8] ads.
+§  [Google][9] and [Facebook][10] ads.
 
 13\. Impulse purchases
 
@@ -406,12 +407,12 @@ Section 5 -- References
 
 Aaron Orendorff. "Global Ecommerce:
 Statistics and International Growth Trends \[Infographic\]." Enterprise Ecommerce
-Blog - Enterprise Business Marketing, News, Tips & More, 1 Sept. 2017, [www.shopify.com/enterprise/global-ecommerce-statistics][9].
+Blog - Enterprise Business Marketing, News, Tips & More, 1 Sept. 2017, [www.shopify.com/enterprise/global-ecommerce-statistics][11].
 
 Elizabeth E. Grandon, and J.
 Michael Pearson. "Electronic Commerce Adoption: an Empirical Study of Small and
 Medium US Businesses." Information & Management, North-Holland, 9 Apr.
-2004, [www.sciencedirect.com/science/article/pii/S0378720604000205\#BIB44][10]
+2004, [www.sciencedirect.com/science/article/pii/S0378720604000205\#BIB44][12]
 
 Klena, Kali, et al. "Shoppers Disrupted:
 Retailing through the Noise." IBM: Offering Information, IBM Institute for
@@ -422,7 +423,7 @@ Laudon, Kenneth C., and Carol
 Guercio. Traver. E-Commerce: Business, Technology, Society. Pearson, 2018\.
 
 Roesler, Peter. "Why Small
-Businesses Need E-Commerce Now More Than Ever." Inc.com, Inc., 2 Feb. 2015, [www.inc.com/peter-roesler/why-small-businesses-need-ecommerce-now-more-than-ever.html][11].
+Businesses Need E-Commerce Now More Than Ever." Inc.com, Inc., 2 Feb. 2015, [www.inc.com/peter-roesler/why-small-businesses-need-ecommerce-now-more-than-ever.html][13].
 
 Briggman, Salvador. "15 Advantages
 of Ecommerce For Small Businesses." Salvador Briggman, 23 June 2015, www.salvadorbriggman.com/advantages-of-ecommerce-for-small-businesses/.
@@ -441,28 +442,28 @@ Figure 2: Statista
 Retail
 e-commerce sales worldwide from 2014 to 2021 (in billion U.S. dollars)
 
-[https://www.statista.com/statistics/534123/e-commerce-share-of-retail-sales-worldwide/][12]
+[https://www.statista.com/statistics/534123/e-commerce-share-of-retail-sales-worldwide/][14]
 
 Figure 3: Orendorff
 
 Figure 4: Statista
 
-[https://www.statista.com/statistics/534123/e-commerce-share-of-retail-sales-worldwide/][12]
+[https://www.statista.com/statistics/534123/e-commerce-share-of-retail-sales-worldwide/][14]
 
 Figure 5: 
 
 Countries with the largest B2C
 e-commerce markets in 2015 and 2016 (in billion U.S. dollars).
 
-[https://www.statista.com/statistics/274493/worldwide-largest-e-commerce-markets-forecast/][13]
+[https://www.statista.com/statistics/274493/worldwide-largest-e-commerce-markets-forecast/][15]
 
 Figure 6: 
 
-[https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&htmlfid=GBE03672USEN&attachment=GBE03672USEN.PDF][14]
+[https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&htmlfid=GBE03672USEN&attachment=GBE03672USEN.PDF][16]
 
 Figure 7: 
 
-[https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&htmlfid=GBE03672USEN&attachment=GBE03672USEN.PDF][14]
+[https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&htmlfid=GBE03672USEN&attachment=GBE03672USEN.PDF][16]
 
 Figure 8: 
 
@@ -470,18 +471,20 @@ Figure 8:
 
 
 
-[0]: https://www.census.gov/retail/mrts/www/data/pdf/ec_current.pdf
-[1]: https://www.bigcommerce.com/blog/ecommerce-trends/
-[2]: http://buffer.com/ "Buffer"
-[3]: http://www.shareasale.com/r.cfm?B=363460&U=822134&M=37818&urllink= "Hootsuite"
-[4]: http://www.mailchimp.com/ "Mailchimp"
-[5]: http://crowdcrux.aweber.com/ "Aweber"
-[6]: http://www.salvadorbriggman.com/how-to-make-a-wordpress-website-step-by-step/ "WordPress"
-[7]: http://www.google.com/ads/ "Google"
-[8]: https://www.facebook.com/advertising "Facebook"
-[9]: http://www.shopify.com/enterprise/global-ecommerce-statistics
-[10]: http://www.sciencedirect.com/science/article/pii/S0378720604000205#BIB44
-[11]: http://www.inc.com/peter-roesler/why-small-businesses-need-ecommerce-now-more-than-ever.html
-[12]: https://www.statista.com/statistics/534123/e-commerce-share-of-retail-sales-worldwide/
-[13]: https://www.statista.com/statistics/274493/worldwide-largest-e-commerce-markets-forecast/
-[14]: https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&htmlfid=GBE03672USEN&attachment=GBE03672USEN.PDF
+[0]: https://unsplash.com/photos/dzzui_irHbg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+[1]: https://unsplash.com/search/photos/electronic-commerce?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+[2]: https://www.census.gov/retail/mrts/www/data/pdf/ec_current.pdf
+[3]: https://www.bigcommerce.com/blog/ecommerce-trends/
+[4]: http://buffer.com/ "Buffer"
+[5]: http://www.shareasale.com/r.cfm?B=363460&U=822134&M=37818&urllink= "Hootsuite"
+[6]: http://www.mailchimp.com/ "Mailchimp"
+[7]: http://crowdcrux.aweber.com/ "Aweber"
+[8]: http://www.salvadorbriggman.com/how-to-make-a-wordpress-website-step-by-step/ "WordPress"
+[9]: http://www.google.com/ads/ "Google"
+[10]: https://www.facebook.com/advertising "Facebook"
+[11]: http://www.shopify.com/enterprise/global-ecommerce-statistics
+[12]: http://www.sciencedirect.com/science/article/pii/S0378720604000205#BIB44
+[13]: http://www.inc.com/peter-roesler/why-small-businesses-need-ecommerce-now-more-than-ever.html
+[14]: https://www.statista.com/statistics/534123/e-commerce-share-of-retail-sales-worldwide/
+[15]: https://www.statista.com/statistics/274493/worldwide-largest-e-commerce-markets-forecast/
+[16]: https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&htmlfid=GBE03672USEN&attachment=GBE03672USEN.PDF
