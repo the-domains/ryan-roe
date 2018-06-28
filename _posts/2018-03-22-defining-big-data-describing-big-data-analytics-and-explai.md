@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   New global map of Earth at night shows the growing impact of light pollution
   across the globe.
-dateModified: '2018-05-11T05:33:39.752Z'
-datePublished: '2018-05-11T05:33:40.799Z'
+dateModified: '2018-06-28T06:48:07.511Z'
+datePublished: '2018-06-28T06:48:08.613Z'
 title: >-
   Defining Big Data, Describing Big Data Analytics, and Explaining their Impact
   on E-Commerce
