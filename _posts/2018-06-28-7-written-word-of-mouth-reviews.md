@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Photo by Riku Lu on Unsplash
-dateModified: '2018-06-28T08:07:09.307Z'
-datePublished: '2018-06-28T08:07:10.166Z'
+dateModified: '2018-06-28T08:06:56.693Z'
+datePublished: '2018-06-28T08:06:58.141Z'
 title: >-
   How E-commerce Benefits Small Businesses & How to Implement an E-Commerce
   Solution for a Small Business
@@ -208,20 +208,18 @@ Countries with the largest B2C e-commerce markets in 2015 and 2016 (in billion U
 
 Figure 6:
 
-[https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&htmlfid=GBE03672USEN&attachment=GBE03672USEN.PDF ][15]
+[https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=XB&infotype=PM&htmlfid=GBE03672USEN&attachment=GBE03672USEN.PDF][15]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68bf88f6-6b4b-406b-90f5-d6d2299c1d43.png)
 
 Figure 7:
 
 <article style=""><h1>Shoppers disrupted - Retailing through the noise</h1><p>Disruption in retail prompts the question: when will there be a "new normal?</p></article>
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff726ef9-c633-4d5e-ae8a-42cbd3c223e7.png)
-
 Figure 8:
 
 <article style=""><h1>Shoppers disrupted - Retailing through the noise</h1><p>Disruption in retail prompts the question: when will there be a "new normal?</p></article>
 
-
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff726ef9-c633-4d5e-ae8a-42cbd3c223e7.png)
 
 [0]: https://unsplash.com/photos/dzzui_irHbg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 [1]: https://unsplash.com/search/photos/electronic-commerce?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
