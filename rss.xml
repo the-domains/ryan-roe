@@ -4,9 +4,16 @@
         <description><![CDATA[Ryan Roe]]></description>
         <link>http://ryanroe.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Jul 2018 18:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jul 2018 18:21:21 GMT</lastBuildDate>
         <atom:link href="http://ryanroe.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Jul 2018 18:20:33 GMT</pubDate>
+        <pubDate>Mon, 16 Jul 2018 18:21:09 GMT</pubDate>
+        <item>
+            <title><![CDATA[Website Development: Heart Strings]]></title>
+            <description><![CDATA[<h1>Website Development: Heart Strings</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9ed2eab-91f4-4bd3-aed3-6f61f64820c9.png">,<p>This is a writeup of the first website/business solutions I have create for a client. I include a very useful workflow that integrates a website, scheduling, and accounting software allowing the task selection, scheduling, invoicing, and payment processing funnel to be completely automated.</p>]]></description>
+            <link>http://ryanroe.io/website-development-heart-strings/index.html</link>
+            <guid isPermaLink="false">f3402a95-2639-4b61-9a77-10b0c680c9ce</guid>
+            <pubDate>Mon, 16 Jul 2018 18:20:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How E-commerce Benefits Small Businesses & How to Implement an E-Commerce Solution for a Small Business]]></title>
             <description><![CDATA[<h2>How E-commerce Benefits Small Businesses &amp; How to Implement an E-Commerce Solution for a Small Business</h2>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39faa09e-2682-4eeb-8344-3243b71fab49.jpg" alt="Photo by Miguel Sousa on Unsplash">,<p>A major trend in modern e-commerce is the rise of easily accessible e-commerce solutions which have greatly transformed the economic landscape. This paper begins by showing what e-commerce is and why a small business should consider implementing an e-commerce solution to keep up with the challenges of competing for a market share in the current economic climate. To follow is how the plethora of e-commerce solutions can greatly add to a business’s value. Many of the different types of e-commerce solutions for small businesses are discussed to show how easily e-commerce can be added to a business. I intend to implement the strategies discussed in this research paper as a case study as I develop an e-commerce solution for a local Charleston business, Charleston Office Furniture Source.</p>,<p>28 June 2018</p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://ryanroe.io/cobol-why-a-programming-language-built-in-the-1959-is-still/index.html</link>
             <guid isPermaLink="false">61b9b6a0-6a92-4d1b-a901-dddf2d44f1c5</guid>
             <pubDate>Thu, 22 Mar 2018 23:07:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Defining Big Data, Describing Big Data Analytics, and Explaining their Impact on E-Commerce]]></title>
-            <description><![CDATA[<h1>Defining Big Data, Describing Big Data Analytics, and Explaining their Impact on E-Commerce</h1>,<h2>Thread: An Introduction to Difficult Tech Concepts</h2>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec2348b5-e68e-4697-b1e5-02ab99fab844.jpg" title="NASA&apos;s &apos;Black Marble&apos; shows Earth&apos;s nighttime glow." alt="New global map of Earth at night shows the growing impact of light pollution across the globe.">,<h3>January 29, 2018</h3>,<h2>Ryan Roe</h2>]]></description>
-            <link>http://ryanroe.io/defining-big-data-describing-big-data-analytics-and-explai/index.html</link>
-            <guid isPermaLink="false">4eef7df2-6cf1-4ae0-a63a-bcbb0282bcbb</guid>
-            <pubDate>Thu, 22 Mar 2018 02:55:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
