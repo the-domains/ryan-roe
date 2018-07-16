@@ -12,8 +12,8 @@ description: >-
   to implement the strategies discussed in this research paper as a case study
   as I develop an e-commerce solution for a local Charleston business,
   Charleston Office Furniture Source.
-dateModified: '2018-07-16T18:20:48.683Z'
-datePublished: '2018-07-16T18:20:51.136Z'
+dateModified: '2018-07-16T18:25:28.240Z'
+datePublished: '2018-07-16T18:25:29.594Z'
 title: >-
   How E-commerce Benefits Small Businesses & How to Implement an E-Commerce
   Solution for a Small Business
@@ -34,6 +34,8 @@ _type: Article
 A major trend in modern e-commerce is the rise of easily accessible e-commerce solutions which have greatly transformed the economic landscape. This paper begins by showing what e-commerce is and why a small business should consider implementing an e-commerce solution to keep up with the challenges of competing for a market share in the current economic climate. To follow is how the plethora of e-commerce solutions can greatly add to a business's value. Many of the different types of e-commerce solutions for small businesses are discussed to show how easily e-commerce can be added to a business. I intend to implement the strategies discussed in this research paper as a case study as I develop an e-commerce solution for a local Charleston business, Charleston Office Furniture Source.
 
 28 June 2018
+
+---
 
 ---
 
