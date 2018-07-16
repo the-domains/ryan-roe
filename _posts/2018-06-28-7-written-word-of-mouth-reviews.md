@@ -12,8 +12,8 @@ description: >-
   to implement the strategies discussed in this research paper as a case study
   as I develop an e-commerce solution for a local Charleston business,
   Charleston Office Furniture Source.
-dateModified: '2018-07-16T18:25:32.207Z'
-datePublished: '2018-07-16T18:25:33.344Z'
+dateModified: '2018-07-16T18:53:25.136Z'
+datePublished: '2018-07-16T18:53:26.217Z'
 title: >-
   How E-commerce Benefits Small Businesses & How to Implement an E-Commerce
   Solution for a Small Business
