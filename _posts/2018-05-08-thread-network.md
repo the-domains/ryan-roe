@@ -9,8 +9,8 @@ description: >-
   their corresponding RFC 1918allocation as follows: Dark blue: net, ca, us
   Green: com, org Red: mil, gov, edu Yellow: jp, cn, tw, au, de Magenta: uk, it,
   pl, fr Gold: br, kr, nl White: unknown
-dateModified: '2018-07-16T18:20:48.683Z'
-datePublished: '2018-07-16T18:20:51.149Z'
+dateModified: '2018-07-16T18:53:25.136Z'
+datePublished: '2018-07-16T18:53:25.945Z'
 title: 'Thread: Network+'
 author: []
 publisher: {}
