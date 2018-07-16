@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-07-16T18:20:48.683Z'
-datePublished: '2018-07-16T18:20:51.201Z'
+dateModified: '2018-07-16T18:53:25.136Z'
+datePublished: '2018-07-16T18:53:26.376Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
