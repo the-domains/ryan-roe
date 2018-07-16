@@ -5,8 +5,8 @@ description: >-
   client. I include a very useful workflow that integrates a website,
   scheduling, and accounting software allowing the task selection, scheduling,
   invoicing, and payment processing funnel to be completely automated.
-dateModified: '2018-07-16T18:27:12.825Z'
-datePublished: '2018-07-16T18:27:15.879Z'
+dateModified: '2018-07-16T18:53:25.136Z'
+datePublished: '2018-07-16T18:53:26.027Z'
 title: 'Website Development: Heart Strings'
 author: []
 publisher: {}
