@@ -5,8 +5,8 @@ description: >-
   client. I include a very useful workflow that integrates a website,
   scheduling, and accounting software allowing the task selection, scheduling,
   invoicing, and payment processing funnel to be completely automated.
-dateModified: '2018-07-16T18:20:48.683Z'
-datePublished: '2018-07-16T18:20:51.135Z'
+dateModified: '2018-07-16T18:27:12.825Z'
+datePublished: '2018-07-16T18:27:15.879Z'
 title: 'Website Development: Heart Strings'
 author: []
 publisher: {}
@@ -23,6 +23,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9ed2eab-91f4-4bd3-aed3-6f61f64820c9.png)
 
 This is a writeup of the first website/business solutions I have create for a client. I include a very useful workflow that integrates a website, scheduling, and accounting software allowing the task selection, scheduling, invoicing, and payment processing funnel to be completely automated.
+
+July 16, 2018
 
 ---
 
