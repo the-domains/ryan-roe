@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Thread: Network+'
-dateModified: '2018-07-20T05:37:00.702Z'
-datePublished: '2018-07-20T05:37:01.245Z'
+dateModified: '2018-07-20T05:39:04.411Z'
+datePublished: '2018-07-20T05:39:05.287Z'
 title: Modern Ethernet
 author: []
 publisher: {}
