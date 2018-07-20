@@ -1,18 +1,18 @@
 ---
-inFeed: true
+inFeed: false
 description: 'July 20, 2018'
-dateModified: '2018-07-20T05:27:42.229Z'
-datePublished: '2018-07-20T05:27:42.622Z'
+dateModified: '2018-07-20T05:29:05.971Z'
+datePublished: '2018-07-20T05:29:06.442Z'
 title: Cabling and Topology
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-07-20-cabling-and-topology.md
 starred: false
 datePublishedOriginal: '2018-07-20T05:27:42.622Z'
-sourcePath: _posts/2018-07-20-cabling-and-topology.md
 url: cabling-and-topology/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Cabling and Topology
@@ -51,7 +51,7 @@ UTP and STP Cabling
 * Cat 6a: 10 Gb/sec
 * Affected by electric motors or flourescent lights
 * Not used by BNC connectors??
-* Shielded twisted pair 
+* Shielded twisted pair
 * Aluminum foil shielding
 
 ---
@@ -76,8 +76,8 @@ Fiber Optics
 * ST connector: earliest types, round connector, punch in and twist
 * SC connector: square, punch in and pull out, no twist
 * FC connector: screws in like coaxial, not twist
-* New aka High Density (combined duplex into one) 
-* LC connector: two combined into one but still noticeably 
+* New aka High Density (combined duplex into one)
+* LC connector: two combined into one but still noticeably
 * MT-RJ connector: even smaller
 * Polishing (how the light is transferred at the end of the cables)
 * PC (Polished connector): flat end
@@ -93,6 +93,5 @@ Quiz 2
 2. RG-58 uses T-connectors and terminators
 3. Know the CAT ratings
 4. Know all of the types of fiber optic connectors
-
 
 [0]: http://ryanroe.io/thread-network/
