@@ -6,8 +6,8 @@ description: >-
   any errors. This post details how to properly install OpenOffice on a Ubuntu
   Unity Desktop. Here is a common error that appears after editing a .docx in
   LibreOffice:
-dateModified: '2018-07-16T18:53:25.136Z'
-datePublished: '2018-07-16T18:53:25.986Z'
+dateModified: '2018-07-20T05:16:10.400Z'
+datePublished: '2018-07-20T05:16:11.231Z'
 title: Installing OpenOffice on Linux Ubuntu Unity (Deb & Rem)
 author: []
 publisher: {}
@@ -29,6 +29,8 @@ LibreOffice and Microsoft Word Files are notoriously incompatible, so installing
 
 May 9, 2018
 
+[Thread: Personal Development][0]
+
 Ryan Roe
 
 ---
@@ -45,7 +47,7 @@ I opened a .docx file on Ubuntu, edited the file, changing colors of text etc. I
 
     SAXParseException: '[word/document.xml line 2]: Attribute w:themeShade redefined ', Stream 'word/document.xml', Line 2, Column 73125(row,col).
 
-So I turned to the internet to find a solution to repair the file. First is from **[Self-help methods to fix .docx files with SAXParse error. ][0]**I shortened for you because \#2 & \#3 did not work for me:
+So I turned to the internet to find a solution to repair the file. First is from **[Self-help methods to fix .docx files with SAXParse error. ][1]**I shortened for you because \#2 & \#3 did not work for me:
 
 1. Download and open the file with Adobe Open Office
 2. Zip the file, unzip it, edit the document.xml file and remove the problematic attributes
@@ -55,7 +57,7 @@ So downloading Open Office allowed me to open the file, but this is no simple ta
 
 ## **Downloading Open Office on Ubuntu**
 
-[OpenOffice Download Information][1]
+[OpenOffice Download Information][2]
 
 ### Step 1: PreInstallation
 
@@ -86,7 +88,7 @@ Make sure you have java installed and it is up to date (Java is preinstalled wit
 
 ### Step 2: Download
 
-[Download your favorite Linux version of Apache OpenOffice][2] Make sure that it corresponds with your operating systems 32bit vs 64 bit architecture AND your Linux Distribution
+[Download your favorite Linux version of Apache OpenOffice][3] Make sure that it corresponds with your operating systems 32bit vs 64 bit architecture AND your Linux Distribution
 
 * .deb because it is based from debian like Ubuntu, and mint
 * .rpm files are for Redhat based distr like CentOS, Fedora
@@ -127,6 +129,7 @@ You can start OpenOffice by typing soffice into the command line or simly findin
 
 Ryan Roe
 
-[0]: https://forum.openoffice.org/en/forum/viewtopic.php?f=7&t=80923&p=404588#p404588
-[1]: https://www.openoffice.org/download/common/instructions.html#linux-preinstall
-[2]: https://www.openoffice.org/download/
+[0]: http://ryanroe.io/personal-development
+[1]: https://forum.openoffice.org/en/forum/viewtopic.php?f=7&t=80923&p=404588#p404588
+[2]: https://www.openoffice.org/download/common/instructions.html#linux-preinstall
+[3]: https://www.openoffice.org/download/
