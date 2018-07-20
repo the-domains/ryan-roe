@@ -9,8 +9,8 @@ description: >-
   their corresponding RFC 1918allocation as follows: Dark blue: net, ca, us
   Green: com, org Red: mil, gov, edu Yellow: jp, cn, tw, au, de Magenta: uk, it,
   pl, fr Gold: br, kr, nl White: unknown
-dateModified: '2018-07-20T05:22:19.457Z'
-datePublished: '2018-07-20T05:22:19.911Z'
+dateModified: '2018-07-20T05:25:53.201Z'
+datePublished: '2018-07-20T05:25:53.632Z'
 title: 'Thread: Network+'
 author: []
 publisher: {}
@@ -38,7 +38,7 @@ This thread is my collection of notes on the various topics involved with a Comp
 
 * [Network Models][4]
 * [Cabling][5]
-* Ethernet Basics
+* [Ethernet Basics][6]
 * Modern Ethernet
 * Installing a Physical Network
 * TCP/IP Basics
@@ -81,3 +81,4 @@ gif of 2005 zooming.
 [3]: https://tools.ietf.org/html/rfc1918
 [4]: http://ryanroe.io/network-models
 [5]: http://ryanroe.io/chapter-3-cabling-and-topology
+[6]: http://ryanroe.io/ethernet-basics
