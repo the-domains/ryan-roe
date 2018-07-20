@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: Ethernet Basics
-dateModified: '2018-07-20T05:26:19.046Z'
-datePublished: '2018-07-20T05:26:19.793Z'
+dateModified: '2018-07-20T05:28:56.889Z'
+datePublished: '2018-07-20T05:28:57.394Z'
 title: ''
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ sourcePath: _posts/2018-07-20-ethernet-basics.md
 starred: false
 datePublishedOriginal: '2018-07-20T05:24:06.560Z'
 url: ethernet-basics/index.html
-_type: Article
+_type: Blurb
 
 ---
 **Ethernet Basics**
@@ -36,7 +36,7 @@ Introduction to Ethernet
 * Standard Nomenclature or **Types of Ethernet**
 * 10Base5
 * 10 = speed in Mb/sec
-* Base or Broad: 
+* Base or Broad:
 * Broadband: same cable running multiple conversations at once
 * Base: entire bandwidth is used for one conversation at a time
 * 5 = before switches, the length of the cable you plugged into (500 meters)
@@ -79,6 +79,5 @@ Quiz 3
 2. CSMA/CD avoids transmission collisions
 3. Weakest part of early ethernet: one break disable network
 4. 10BaseT supports 100 meters between hub and node
-
 
 [0]: http://ryanroe.io/thread-network/
