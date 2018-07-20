@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Thread: Personal Development '
-dateModified: '2018-07-20T05:36:27.161Z'
-datePublished: '2018-07-20T05:36:27.860Z'
+dateModified: '2018-07-20T05:39:04.411Z'
+datePublished: '2018-07-20T05:39:05.284Z'
 title: 'Website Development: Heart Strings'
 author: []
 publisher: {}
