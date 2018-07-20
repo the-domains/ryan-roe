@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: Ethernet Basics
-dateModified: '2018-07-20T05:24:06.164Z'
-datePublished: '2018-07-20T05:24:06.560Z'
+dateModified: '2018-07-20T05:26:19.046Z'
+datePublished: '2018-07-20T05:26:19.793Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2018-07-20-ethernet-basics.md
 starred: false
 datePublishedOriginal: '2018-07-20T05:24:06.560Z'
-sourcePath: _posts/2018-07-20-ethernet-basics.md
 url: ethernet-basics/index.html
 _type: Article
 
