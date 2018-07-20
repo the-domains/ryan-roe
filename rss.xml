@@ -4,9 +4,16 @@
         <description><![CDATA[Ryan Roe]]></description>
         <link>http://ryanroe.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Jul 2018 05:34:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jul 2018 05:36:56 GMT</lastBuildDate>
         <atom:link href="http://ryanroe.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Jul 2018 05:34:06 GMT</pubDate>
+        <pubDate>Fri, 20 Jul 2018 05:36:48 GMT</pubDate>
+        <item>
+            <title><![CDATA[Chapter 5 Modern Ethernet]]></title>
+            <description><![CDATA[<h1>Chapter 5 Modern Ethernet</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/76a0fc61-2da8-42ff-afd4-49f47df1ef14.jpg">,<p><a href="http://ryanroe.io/thread-network" title="">Thread: Network+</a></p>,<p>July 20, 2018</p>]]></description>
+            <link>http://ryanroe.io/chapter-5-modern-ethernet/index.html</link>
+            <guid isPermaLink="false">afb356fc-e780-4586-9048-8651465acfd8</guid>
+            <pubDate>Fri, 20 Jul 2018 05:33:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Website Development: Heart Strings]]></title>
             <description><![CDATA[<h1>Website Development: Heart Strings</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9ed2eab-91f4-4bd3-aed3-6f61f64820c9.png">,<h2>This is a writeup of the first website/business solutions I have create for a client. I include a very useful workflow that integrates a website, scheduling, and accounting software allowing the task selection, scheduling, invoicing, and payment processing funnel to be completely automated.</h2>,<p><a href="http://ryanroe.io/personal-development" title="">Thread: Personal Development </a></p>,<h3>https://www.heartstringscharleston.com/</h3>,<p>July 16, 2018</p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://ryanroe.io/the-importance-of-cryptocurrency-on-e-commerce/index.html</link>
             <guid isPermaLink="false">f8c94e69-9c74-4e5e-a6d3-b4f5b0ee42db</guid>
             <pubDate>Tue, 10 Apr 2018 04:46:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[COBOL: Why a programming language built in 1959 should still be taught.]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/669e4e5b-71da-46a0-9f67-524e5dfc8f75.png" title="My tn3270x COBOL emulator home screen">,<h1>COBOL: Why a programming language built in 1959 should still be taught.</h1>,<p>Thread: An Introduction to Difficult Tech Concepts</p>,<h2>Common Business Oriented Language (COBOL). What is it? What was its purpose? Who still uses it? Why do they still use it? And an interview with a software engineer hired to develop a program to convert a COBOL database to SQL.</h2>,<h3><em>“The unique capabilities of COBOL and the business reasons for them were lost in passage of time.” - Robert Glass</em></h3>,<p>February 15, 2018</p>]]></description>
-            <link>http://ryanroe.io/cobol-why-a-programming-language-built-in-the-1959-is-still/index.html</link>
-            <guid isPermaLink="false">61b9b6a0-6a92-4d1b-a901-dddf2d44f1c5</guid>
-            <pubDate>Thu, 22 Mar 2018 23:07:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
