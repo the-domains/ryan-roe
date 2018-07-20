@@ -4,16 +4,9 @@
         <description><![CDATA[Ryan Roe]]></description>
         <link>http://ryanroe.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Jul 2018 05:28:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jul 2018 05:29:00 GMT</lastBuildDate>
         <atom:link href="http://ryanroe.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Jul 2018 05:28:51 GMT</pubDate>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p><strong>Ethernet Basics</strong></p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/03469e00-52c5-42c5-994d-3090058706fc.jpg">,<p><a href="http://ryanroe.io/thread-network/" title="">Thread: Network+</a></p>,<p>July 20, 2018</p>]]></description>
-            <link>http://ryanroe.io/ethernet-basics/index.html</link>
-            <guid isPermaLink="false">df01b125-0954-495b-b97f-6db2e62b21ab</guid>
-            <pubDate>Fri, 20 Jul 2018 05:24:06 GMT</pubDate>
-        </item>
+        <pubDate>Fri, 20 Jul 2018 05:28:58 GMT</pubDate>
         <item>
             <title><![CDATA[Website Development: Heart Strings]]></title>
             <description><![CDATA[<h1>Website Development: Heart Strings</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9ed2eab-91f4-4bd3-aed3-6f61f64820c9.png">,<h2>This is a writeup of the first website/business solutions I have create for a client. I include a very useful workflow that integrates a website, scheduling, and accounting software allowing the task selection, scheduling, invoicing, and payment processing funnel to be completely automated.</h2>,<p><a href="http://ryanroe.io/personal-development" title="">Thread: Personal Development </a></p>,<h3>https://www.heartstringscharleston.com/</h3>,<p>July 16, 2018</p>]]></description>
