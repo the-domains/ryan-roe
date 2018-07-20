@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Photo: Weronika Gesicka'
-dateModified: '2018-07-16T18:53:25.136Z'
-datePublished: '2018-07-16T18:53:25.945Z'
+dateModified: '2018-07-20T05:08:28.047Z'
+datePublished: '2018-07-20T05:08:28.546Z'
 title: 'Thread: Personal Development'
 author: []
 publisher: {}
@@ -28,8 +28,10 @@ Posts:
 
 * [AI Website Development Technology and Plans for My Personal Website][0]
 * [Disable a Key on your Keyboard in Linux and MAC][1]
+* [Website Development: Heart Strings][2]
 
 Ryan Roe
 
 [0]: http://ryanroe.io/what-is-the-grid-and-why-i-am-using-it-for-my-website
 [1]: http://ryanroe.io/disable-key-on-keyboard-in-linux
+[2]: http://ryanroe.io/website-development-heart-strings
