@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: 'https://www.heartstringscharleston.com/'
-dateModified: '2018-07-20T05:07:08.534Z'
-datePublished: '2018-07-20T05:07:09.269Z'
+description: 'Thread: Personal Development '
+dateModified: '2018-07-20T05:09:07.932Z'
+datePublished: '2018-07-20T05:09:08.593Z'
 title: 'Website Development: Heart Strings'
 author: []
 publisher: {}
@@ -20,7 +20,9 @@ _type: Article
 
 ## This is a writeup of the first website/business solutions I have create for a client. I include a very useful workflow that integrates a website, scheduling, and accounting software allowing the task selection, scheduling, invoicing, and payment processing funnel to be completely automated.
 
-https://www.heartstringscharleston.com/
+[Thread: Personal Development ][0]
+
+### https://www.heartstringscharleston.com/
 
 July 16, 2018
 
@@ -88,3 +90,5 @@ Thank you for your time,
 Ryanroe.io
 
 Ryan Roe
+
+[0]: http://ryanroe.io/personal-development
