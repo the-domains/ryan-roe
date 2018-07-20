@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Keys on keyboards will malfunction and break so their keycode needs to be
   remapped or removed.
-dateModified: '2018-07-20T05:29:19.136Z'
-datePublished: '2018-07-20T05:29:19.930Z'
+dateModified: '2018-07-20T05:36:27.161Z'
+datePublished: '2018-07-20T05:36:27.862Z'
 title: Disable a Key on your Keyboard in Linux and MAC
 author: []
 publisher: {}
