@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Thread: An Introduction to Difficult Tech Concepts'
-dateModified: '2018-07-20T05:26:19.046Z'
-datePublished: '2018-07-20T05:26:19.783Z'
+dateModified: '2018-07-20T05:29:19.136Z'
+datePublished: '2018-07-20T05:29:20.079Z'
 title: >-
   Analyzing E-Commerce Business Strategies & Developing and Testing a Mobile
   Application E-Commerce Business Model
