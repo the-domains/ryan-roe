@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Keys on keyboards will malfunction and break so their keycode needs to be
   remapped or removed.
-dateModified: '2018-07-16T18:53:25.136Z'
-datePublished: '2018-07-16T18:53:25.754Z'
+dateModified: '2018-07-20T05:16:02.863Z'
+datePublished: '2018-07-20T05:16:03.507Z'
 title: Disable a Key on your Keyboard in Linux and MAC
 author: []
 publisher: {}
@@ -22,7 +22,7 @@ _type: Article
 Keys on keyboards will malfunction and break so their keycode needs to be remapped or removed.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/08d9fb1c-83ef-4696-9fb7-dbfb9de4b4ab.png)
 
-Thread: Personal Development
+[Thread: Personal Development][0]
 
 May 10, 2018
 
@@ -58,18 +58,18 @@ This script needs to be run everytime the computer is booted up so put it in the
 * Input the command (research how to edit in VI)
 * Then save it pressing Esc then typing ':w !sudo tee %' press enter
   * this is a read only file so you are unable to save it
-  * Taken from [Adam Culp][0]
+  * Taken from [Adam Culp][1]
   * :w = Write a file.
   * !sudo = Call shell sudo command.
   * tee = The output of the vi/vim write command is redirected using tee.
   * % = Triggers the use of the current filename.
   * Simply put, the 'tee' command is run as sudo and follows the vi/vim command on the current filename given.
 
-* [Link to create startup, shutdown scripts][1]
+* [Link to create startup, shutdown scripts][2]
 
 ## Update May 11, 2018
 
-The xmodmap function is only a temporary remapping and will be reset to default even in the same session. A full description of what is going on here is in this Medium article, [A Simple but Comprehensive Guide to XKB for Linux][2]. Basically, to make the change persist, you need to create a new file and add the script into it.
+The xmodmap function is only a temporary remapping and will be reset to default even in the same session. A full description of what is going on here is in this Medium article, [A Simple but Comprehensive Guide to XKB for Linux][3]. Basically, to make the change persist, you need to create a new file and add the script into it.
 
     #Open up terminal
     cd
@@ -80,6 +80,7 @@ The xmodmap function is only a temporary remapping and will be reset to default 
 
 Ryan Roe
 
-[0]: http://www.geekyboy.com/archives/629
-[1]: https://ccm.net/faq/3348-execute-a-script-at-startup-and-shutdown-on-ubuntu
-[2]: https://medium.com/@damko/a-simple-humble-but-comprehensive-guide-to-xkb-for-linux-6f1ad5e13450
+[0]: http://ryanroe.io/personal-development
+[1]: http://www.geekyboy.com/archives/629
+[2]: https://ccm.net/faq/3348-execute-a-script-at-startup-and-shutdown-on-ubuntu
+[3]: https://medium.com/@damko/a-simple-humble-but-comprehensive-guide-to-xkb-for-linux-6f1ad5e13450
