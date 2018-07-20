@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 'Thread: Network+'
-dateModified: '2018-07-20T05:29:45.834Z'
-datePublished: '2018-07-20T05:29:46.433Z'
+dateModified: '2018-07-20T05:36:27.161Z'
+datePublished: '2018-07-20T05:36:27.847Z'
 title: Ethernet Basics
 author: []
 publisher: {}
