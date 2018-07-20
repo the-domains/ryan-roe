@@ -1,12 +1,8 @@
 ---
 inFeed: true
-description: >-
-  This is a writeup of the first website/business solutions I have create for a
-  client. I include a very useful workflow that integrates a website,
-  scheduling, and accounting software allowing the task selection, scheduling,
-  invoicing, and payment processing funnel to be completely automated.
-dateModified: '2018-07-16T18:53:25.136Z'
-datePublished: '2018-07-16T18:53:26.027Z'
+description: 'https://www.heartstringscharleston.com/'
+dateModified: '2018-07-20T05:07:08.534Z'
+datePublished: '2018-07-20T05:07:09.269Z'
 title: 'Website Development: Heart Strings'
 author: []
 publisher: {}
@@ -22,7 +18,9 @@ _type: Article
 # Website Development: Heart Strings
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9ed2eab-91f4-4bd3-aed3-6f61f64820c9.png)
 
-This is a writeup of the first website/business solutions I have create for a client. I include a very useful workflow that integrates a website, scheduling, and accounting software allowing the task selection, scheduling, invoicing, and payment processing funnel to be completely automated.
+## This is a writeup of the first website/business solutions I have create for a client. I include a very useful workflow that integrates a website, scheduling, and accounting software allowing the task selection, scheduling, invoicing, and payment processing funnel to be completely automated.
+
+https://www.heartstringscharleston.com/
 
 July 16, 2018
 
@@ -37,7 +35,7 @@ She is starting the business on her own, and as is the case with many of the ind
 ### Website
 
 Stacey needed needed no custom features in her website, but per her target market, it needed to be slick, quick, and intuitive. The website needed to be a one stop shop for her clients and represent her business properly because she lacked a storefront. After research into the available website creation strategies I chose Squarespace as the proper option. A Wordpress site would be cheaper monthly (~$5 vs $18) but the development time would be increased. Consequentially a Wordpress site would require more of an investment initially not only because of increased development time, but also because a template would need to be purchased, I would have to delve through the ridiculous amount pluggins which would without a doubt increase the monthly deficit beyond the benefit as well as create a patch-worked website. I would also have to handle mobile optimization, SEO, hosting, and much more beyond the time intensive html/css/js development the theme would no doubt require. Squarespace provided an intuitive website builder with free templates, and handles much of the background work necessary for a standard modern competitive website. Squarespace also provided integration with other platforms I required.
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8aa21ea89c0617ea80a8de300c3ddfae/croprotate.png?cropheight=1300&cropwidth=1044&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F13d74b2d-7e76-49c8-97af-6f1d52628dc1.png&x=58&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6190d7ac4d5d5bb7948ce4a6b35517f98f61fac.png)
 
 ### Scheduling
 
@@ -45,7 +43,7 @@ Squarespace included a subscription to Acuity Scheduling with its Business Plan.
 
 Acuity offers multiple pricing tiers: $0, $15, $25, $50:
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b06516e2590bc18c89b54524330a3f34/noop.png?input=https%3A%2F%2Facuityscheduling.com%2Fimg%2Fbrand%2Flogo_bluebkgrd.png" /><h1>Acuity Scheduling - Online Appointment Scheduling Software</h1><p>Clients can quickly view your real-time availability and self-book their own appointments-and even pay online, reschedule with a click, and eliminate 100% of the drudgery. (Official term.)</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db91efbce483ff648e5ca9b9aafe16dbfc487511.png" /><h1>Acuity Scheduling - Online Appointment Scheduling Software</h1><p>Clients can quickly view your real-time availability and self-book their own appointments-and even pay online, reschedule with a click, and eliminate 100% of the drudgery. (Official term.)</p></article>
 
 Features that are included with a paid subscription:
 
