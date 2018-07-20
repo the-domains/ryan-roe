@@ -1,9 +1,9 @@
 ---
 inFeed: false
-description: Ethernet Basics
-dateModified: '2018-07-20T05:28:56.889Z'
-datePublished: '2018-07-20T05:28:57.394Z'
-title: ''
+description: 'Thread: Network+'
+dateModified: '2018-07-20T05:29:45.834Z'
+datePublished: '2018-07-20T05:29:46.433Z'
+title: Ethernet Basics
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ url: ethernet-basics/index.html
 _type: Blurb
 
 ---
-**Ethernet Basics**
+# Ethernet Basics
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/03469e00-52c5-42c5-994d-3090058706fc.jpg)
 
 [Thread: Network+][0]
