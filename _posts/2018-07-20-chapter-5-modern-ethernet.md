@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: 'Thread: Network+'
-dateModified: '2018-07-20T05:36:27.161Z'
-datePublished: '2018-07-20T05:36:27.857Z'
-title: Chapter 5 Modern Ethernet
+dateModified: '2018-07-20T05:37:00.702Z'
+datePublished: '2018-07-20T05:37:01.245Z'
+title: Modern Ethernet
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ url: chapter-5-modern-ethernet/index.html
 _type: Article
 
 ---
-# Chapter 5 Modern Ethernet
+# Modern Ethernet
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76a0fc61-2da8-42ff-afd4-49f47df1ef14.jpg)
 
 [Thread: Network+][0]
@@ -32,7 +32,7 @@ Modern Ethernet, Switches, and Duplex
 * 100 meters between hub and node
 * Cat 5e or better
 * 100BaseF == 100BaseFX
-* Fiberoptic version 
+* Fiberoptic version
 * Multimode
 * Two Kilometers
 * Moving from hubs to switches
@@ -54,7 +54,7 @@ Connecting Switches
 
 * Patch Cables
 * Regular: wired the same on both ends, aka straight through cable
-* Crossover: wired TIA 568A to TIA 568B meaning 
+* Crossover: wired TIA 568A to TIA 568B meaning
 * Sends go to receives and receives go to the sends
 * Can't tell by looking at it
 * Plug into any port on switches to get them to work together
@@ -65,8 +65,7 @@ Connecting Switches
 
 ---
 
-Gigabit Ethernet and 10 Gb Ethernet
-Obj 5.4 Given a scenario, deploy the appropriate wired connectivity standard
+Gigabit Ethernet and 10 Gb Ethernet Obj 5.4 Given a scenario, deploy the appropriate wired connectivity standard 
 
 * Four Gb Standards:
 * 1000BaseCX
@@ -79,13 +78,13 @@ Obj 5.4 Given a scenario, deploy the appropriate wired connectivity standard
 * Cat6 UTP, 100 meters
 * 10 GB Ethernet Standards:
 * 10GBaseT
-* Cat6  - 55m
+* Cat6 - 55m
 * Cat6a - 100m
 * 10GBaseSR corresponding 10GBase SW designed to work on an old type of network
 * multimode fiber 26m to 400m
 * 10GBaseLR or LW
 * single-mode
-* 1310 nm (size of 
+* 1310 nm (size of
 * 10 km
 * 10GBaseER or EW
 * single-mode
@@ -95,12 +94,11 @@ Obj 5.4 Given a scenario, deploy the appropriate wired connectivity standard
 
 ---
 
-Switch Backbones
-Obj 2.6 Given a scenario, configure a switch using proper features
+Switch Backbones Obj 2.6 Given a scenario, configure a switch using proper features 
 
 * Backbone
 * HighSpeed switch in center that only connects to other switches that then connect to lower speed networks
-* Gigabit Interface Converter (GBIC), interchangeable devices designed to switch in and out of switches 
+* Gigabit Interface Converter (GBIC), interchangeable devices designed to switch in and out of switches
 * Bridge Loop caused by improper cabling
 * Spanning tree protocol (STP) prevents the network from going down
 
@@ -112,6 +110,5 @@ Quiz: 4
 2. 1000BaseCX uses the shortes distance between hub and node
 3. Crossover cables, uplink ports, and autosensiong increase the switching capacity in a network
 4. GBIC (Gigabit Interface Converter) provides a flexible interface for different gigabit fiber-optic standards on a switch
-
 
 [0]: http://ryanroe.io/thread-network
