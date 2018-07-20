@@ -9,8 +9,8 @@ description: >-
   their corresponding RFC 1918allocation as follows: Dark blue: net, ca, us
   Green: com, org Red: mil, gov, edu Yellow: jp, cn, tw, au, de Magenta: uk, it,
   pl, fr Gold: br, kr, nl White: unknown
-dateModified: '2018-07-20T05:26:19.046Z'
-datePublished: '2018-07-20T05:26:19.743Z'
+dateModified: '2018-07-20T05:28:49.582Z'
+datePublished: '2018-07-20T05:28:50.209Z'
 title: 'Thread: Network+'
 author: []
 publisher: {}
@@ -80,5 +80,5 @@ gif of 2005 zooming.
 [2]: https://en.wikipedia.org/wiki/Classful_network "en:Classful network"
 [3]: https://tools.ietf.org/html/rfc1918
 [4]: http://ryanroe.io/network-models
-[5]: http://ryanroe.io/chapter-3-cabling-and-topology
+[5]: http://ryanroe.io/cabling-and-topology
 [6]: http://ryanroe.io/ethernet-basics
