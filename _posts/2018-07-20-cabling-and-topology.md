@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 'July 20, 2018'
-dateModified: '2018-07-20T05:29:05.971Z'
-datePublished: '2018-07-20T05:29:06.442Z'
+dateModified: '2018-07-20T05:29:19.136Z'
+datePublished: '2018-07-20T05:29:20.006Z'
 title: Cabling and Topology
 author: []
 publisher: {}
