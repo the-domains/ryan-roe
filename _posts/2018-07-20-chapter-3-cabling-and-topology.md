@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: 'Chapter 3: Cabling and Topology'
-dateModified: '2018-07-20T05:20:32.470Z'
-datePublished: '2018-07-20T05:20:32.948Z'
+dateModified: '2018-07-20T05:20:53.424Z'
+datePublished: '2018-07-20T05:20:53.926Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 hasPage: true
 sourcePath: _posts/2018-07-20-chapter-3-cabling-and-topology.md
+datePublishedOriginal: '2018-07-20T05:20:53.926Z'
 starred: false
-datePublishedOriginal: '2018-07-20T05:20:02.748Z'
 url: chapter-3-cabling-and-topology/index.html
 _type: Article
 
