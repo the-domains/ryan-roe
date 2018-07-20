@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: 'Thread: Network+'
-dateModified: '2018-07-20T05:33:48.788Z'
-datePublished: '2018-07-20T05:33:49.371Z'
+dateModified: '2018-07-20T05:33:50.123Z'
+datePublished: '2018-07-20T05:33:50.497Z'
 title: Chapter 5 Modern Ethernet
 author: []
 publisher: {}
 via: {}
 hasPage: true
 starred: false
-datePublishedOriginal: '2018-07-20T05:33:49.371Z'
+datePublishedOriginal: '2018-07-20T05:33:49.651Z'
 sourcePath: _posts/2018-07-20-chapter-5-modern-ethernet.md
 url: chapter-5-modern-ethernet/index.html
 _type: Article
