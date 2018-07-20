@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Image: Tux, the mascot of Linux drawn by Larry Ewing in 1996.'
-dateModified: '2018-07-16T18:53:25.136Z'
-datePublished: '2018-07-16T18:53:26.629Z'
+dateModified: '2018-07-20T05:15:09.994Z'
+datePublished: '2018-07-20T05:15:11.763Z'
 title: Linux Administration
 author: []
 publisher: {}
@@ -36,6 +36,8 @@ Screenfetch of Ubuntu logo drawn by the terminal.
 * Lesson 7: file and directory permission **CHECK**
 * Lesson 8: installing managing software
 * Lesson 9: shell scripting
+
+Thread:[Breaking Down Difficult Technology Concepts][0]
 
 ---
 
@@ -1372,3 +1374,8 @@ Variable name
       command 2
       command N
     done
+    
+
+
+
+[0]: http://ryanroe.io/thread-breaking-down-difficult-technology-concepts
