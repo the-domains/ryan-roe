@@ -70,7 +70,9 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: 'Computer Scientist and Entrepreneur. Welcome to my technology blog. '
+description: >-
+  Sales Professional, Computer Scientist and Entrepreneur. Welcome to my
+  technology blog. 
 purpose:
   - type: contact
     url: 'mailto:ryanroe559@gmail.com'
